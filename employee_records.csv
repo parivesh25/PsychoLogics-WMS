@@ -1,0 +1,6001 @@
+Employee_Name,Department,Age,Salary
+Personnel_00000,Signals,27,43315
+Personnel_00001,2nd Bn,30,76991
+Personnel_00002,HQ Coy,54,57885
+Personnel_00003,HQ Coy,25,56757
+Personnel_00004,Signals,44,79956
+Personnel_00005,2nd Bn,51,50290
+Personnel_00006,1st Bn,52,68860
+Personnel_00007,2nd Bn,41,90586
+Personnel_00008,3rd Bn,21,52801
+Personnel_00009,3rd Bn,50,48725
+Personnel_00010,1st Bn,28,86995
+Personnel_00011,Signals,47,109046
+Personnel_00012,1st Bn,38,109543
+Personnel_00013,Signals,30,67023
+Personnel_00014,1st Bn,33,73510
+Personnel_00015,HQ Coy,54,54668
+Personnel_00016,3rd Bn,37,91267
+Personnel_00017,HQ Coy,23,96096
+Personnel_00018,Signals,45,87247
+Personnel_00019,Signals,46,39901
+Personnel_00020,Ops,34,105780
+Personnel_00021,1st Bn,22,40544
+Personnel_00022,1st Bn,34,101432
+Personnel_00023,Ops,39,61070
+Personnel_00024,1st Bn,39,49317
+Personnel_00025,HQ Coy,40,44779
+Personnel_00026,Ops,45,67352
+Personnel_00027,1st Bn,23,107059
+Personnel_00028,3rd Bn,49,98271
+Personnel_00029,1st Bn,37,92772
+Personnel_00030,2nd Bn,30,55516
+Personnel_00031,Signals,29,88195
+Personnel_00032,2nd Bn,54,48036
+Personnel_00033,HQ Coy,49,81672
+Personnel_00034,HQ Coy,33,87510
+Personnel_00035,1st Bn,32,88379
+Personnel_00036,HQ Coy,34,84239
+Personnel_00037,1st Bn,35,57246
+Personnel_00038,2nd Bn,28,94853
+Personnel_00039,1st Bn,50,116518
+Personnel_00040,1st Bn,43,71626
+Personnel_00041,Ops,40,96903
+Personnel_00042,Signals,51,102744
+Personnel_00043,Signals,27,78875
+Personnel_00044,Signals,43,48745
+Personnel_00045,3rd Bn,25,69598
+Personnel_00046,2nd Bn,42,42516
+Personnel_00047,HQ Coy,44,107962
+Personnel_00048,1st Bn,49,107750
+Personnel_00049,Ops,33,54845
+Personnel_00050,Signals,37,78521
+Personnel_00051,1st Bn,53,69407
+Personnel_00052,Ops,29,119911
+Personnel_00053,Signals,45,94632
+Personnel_00054,HQ Coy,29,107167
+Personnel_00055,2nd Bn,45,82373
+Personnel_00056,HQ Coy,32,109341
+Personnel_00057,HQ Coy,35,112691
+Personnel_00058,HQ Coy,39,61508
+Personnel_00059,2nd Bn,41,118816
+Personnel_00060,HQ Coy,45,88140
+Personnel_00061,HQ Coy,49,40383
+Personnel_00062,Signals,37,60304
+Personnel_00063,HQ Coy,43,58560
+Personnel_00064,2nd Bn,27,93466
+Personnel_00065,HQ Coy,47,38225
+Personnel_00066,2nd Bn,32,66210
+Personnel_00067,Ops,43,48888
+Personnel_00068,2nd Bn,39,111733
+Personnel_00069,Ops,52,106772
+Personnel_00070,2nd Bn,22,38954
+Personnel_00071,3rd Bn,29,110931
+Personnel_00072,HQ Coy,38,87953
+Personnel_00073,3rd Bn,34,105868
+Personnel_00074,3rd Bn,30,92630
+Personnel_00075,Ops,38,93103
+Personnel_00076,HQ Coy,51,114992
+Personnel_00077,HQ Coy,22,37001
+Personnel_00078,3rd Bn,35,38492
+Personnel_00079,1st Bn,42,57954
+Personnel_00080,Signals,33,35000
+Personnel_00081,Ops,33,99953
+Personnel_00082,HQ Coy,30,115897
+Personnel_00083,2nd Bn,25,73663
+Personnel_00084,2nd Bn,49,96219
+Personnel_00085,Signals,24,98246
+Personnel_00086,HQ Coy,52,67087
+Personnel_00087,Signals,50,48192
+Personnel_00088,Signals,40,119582
+Personnel_00089,Ops,39,41121
+Personnel_00090,Signals,31,103960
+Personnel_00091,HQ Coy,24,95867
+Personnel_00092,HQ Coy,53,59233
+Personnel_00093,1st Bn,30,104690
+Personnel_00094,Signals,50,78259
+Personnel_00095,HQ Coy,26,116046
+Personnel_00096,1st Bn,21,116982
+Personnel_00097,3rd Bn,26,112886
+Personnel_00098,3rd Bn,30,52576
+Personnel_00099,HQ Coy,36,94873
+Personnel_00100,Ops,31,114772
+Personnel_00101,3rd Bn,27,97699
+Personnel_00102,HQ Coy,45,43571
+Personnel_00103,Ops,37,98963
+Personnel_00104,Signals,36,82623
+Personnel_00105,Signals,48,55329
+Personnel_00106,Ops,54,96231
+Personnel_00107,1st Bn,42,93623
+Personnel_00108,Ops,50,93695
+Personnel_00109,Ops,34,96283
+Personnel_00110,Signals,30,80862
+Personnel_00111,HQ Coy,22,109039
+Personnel_00112,2nd Bn,29,61242
+Personnel_00113,3rd Bn,25,87703
+Personnel_00114,Ops,32,55798
+Personnel_00115,Signals,44,63745
+Personnel_00116,Signals,38,71574
+Personnel_00117,2nd Bn,29,75979
+Personnel_00118,2nd Bn,25,63858
+Personnel_00119,Ops,22,36307
+Personnel_00120,3rd Bn,31,93993
+Personnel_00121,1st Bn,48,96134
+Personnel_00122,Signals,42,113830
+Personnel_00123,3rd Bn,29,44847
+Personnel_00124,Signals,22,113953
+Personnel_00125,1st Bn,51,59806
+Personnel_00126,3rd Bn,50,107935
+Personnel_00127,HQ Coy,41,98585
+Personnel_00128,3rd Bn,22,72043
+Personnel_00129,Signals,31,40711
+Personnel_00130,2nd Bn,48,45460
+Personnel_00131,Ops,52,99943
+Personnel_00132,3rd Bn,35,71308
+Personnel_00133,2nd Bn,54,70764
+Personnel_00134,Ops,27,48915
+Personnel_00135,2nd Bn,54,85065
+Personnel_00136,Signals,50,46960
+Personnel_00137,2nd Bn,52,113236
+Personnel_00138,1st Bn,43,76936
+Personnel_00139,Signals,31,44250
+Personnel_00140,Ops,42,65339
+Personnel_00141,2nd Bn,52,64805
+Personnel_00142,Ops,38,91104
+Personnel_00143,Signals,52,39653
+Personnel_00144,HQ Coy,29,93864
+Personnel_00145,Signals,44,79799
+Personnel_00146,2nd Bn,40,97195
+Personnel_00147,HQ Coy,32,72483
+Personnel_00148,1st Bn,38,93127
+Personnel_00149,2nd Bn,30,67407
+Personnel_00150,Ops,23,70570
+Personnel_00151,Ops,50,43317
+Personnel_00152,HQ Coy,34,73093
+Personnel_00153,Signals,46,71302
+Personnel_00154,1st Bn,37,52690
+Personnel_00155,HQ Coy,28,96395
+Personnel_00156,2nd Bn,30,73016
+Personnel_00157,Signals,27,41330
+Personnel_00158,Signals,26,74581
+Personnel_00159,Ops,22,100416
+Personnel_00160,Signals,44,50685
+Personnel_00161,Ops,51,79026
+Personnel_00162,3rd Bn,40,104541
+Personnel_00163,2nd Bn,22,111712
+Personnel_00164,HQ Coy,37,89230
+Personnel_00165,HQ Coy,44,65288
+Personnel_00166,3rd Bn,24,43617
+Personnel_00167,Signals,43,115712
+Personnel_00168,1st Bn,49,54269
+Personnel_00169,Ops,23,98002
+Personnel_00170,HQ Coy,40,91888
+Personnel_00171,Ops,43,35169
+Personnel_00172,1st Bn,52,84537
+Personnel_00173,Ops,33,42469
+Personnel_00174,2nd Bn,45,102935
+Personnel_00175,Ops,40,62355
+Personnel_00176,1st Bn,39,63872
+Personnel_00177,Signals,29,99270
+Personnel_00178,HQ Coy,24,43430
+Personnel_00179,Ops,23,79032
+Personnel_00180,2nd Bn,22,69014
+Personnel_00181,3rd Bn,47,103812
+Personnel_00182,1st Bn,44,119343
+Personnel_00183,3rd Bn,30,117633
+Personnel_00184,1st Bn,25,71876
+Personnel_00185,3rd Bn,54,51873
+Personnel_00186,2nd Bn,27,43002
+Personnel_00187,2nd Bn,29,79322
+Personnel_00188,Ops,36,55418
+Personnel_00189,Ops,37,60273
+Personnel_00190,HQ Coy,42,42527
+Personnel_00191,2nd Bn,33,96643
+Personnel_00192,1st Bn,26,39961
+Personnel_00193,1st Bn,45,60815
+Personnel_00194,2nd Bn,35,116277
+Personnel_00195,2nd Bn,49,97218
+Personnel_00196,2nd Bn,53,99959
+Personnel_00197,Ops,51,98615
+Personnel_00198,HQ Coy,48,48096
+Personnel_00199,3rd Bn,42,69812
+Personnel_00200,1st Bn,45,62656
+Personnel_00201,Ops,41,100228
+Personnel_00202,3rd Bn,41,99720
+Personnel_00203,3rd Bn,37,110475
+Personnel_00204,Signals,37,83063
+Personnel_00205,3rd Bn,47,69455
+Personnel_00206,HQ Coy,44,73508
+Personnel_00207,Signals,33,77781
+Personnel_00208,1st Bn,23,44251
+Personnel_00209,2nd Bn,21,55329
+Personnel_00210,Signals,25,87935
+Personnel_00211,2nd Bn,32,114145
+Personnel_00212,Signals,45,82952
+Personnel_00213,HQ Coy,38,82385
+Personnel_00214,3rd Bn,38,99604
+Personnel_00215,Signals,29,75418
+Personnel_00216,2nd Bn,50,38913
+Personnel_00217,1st Bn,25,119132
+Personnel_00218,3rd Bn,38,36726
+Personnel_00219,Signals,48,82188
+Personnel_00220,1st Bn,42,48813
+Personnel_00221,1st Bn,33,109426
+Personnel_00222,Signals,32,72946
+Personnel_00223,2nd Bn,37,105431
+Personnel_00224,1st Bn,51,76007
+Personnel_00225,3rd Bn,48,91494
+Personnel_00226,1st Bn,36,115216
+Personnel_00227,HQ Coy,27,97959
+Personnel_00228,Ops,32,107297
+Personnel_00229,Ops,37,98640
+Personnel_00230,1st Bn,26,63057
+Personnel_00231,2nd Bn,23,87817
+Personnel_00232,HQ Coy,49,108876
+Personnel_00233,3rd Bn,21,77019
+Personnel_00234,1st Bn,39,104233
+Personnel_00235,1st Bn,47,73103
+Personnel_00236,Signals,49,88008
+Personnel_00237,Ops,29,72998
+Personnel_00238,Signals,32,80902
+Personnel_00239,HQ Coy,53,101434
+Personnel_00240,Ops,38,81435
+Personnel_00241,2nd Bn,47,65020
+Personnel_00242,Ops,36,42386
+Personnel_00243,3rd Bn,53,102033
+Personnel_00244,Signals,38,54186
+Personnel_00245,1st Bn,36,91487
+Personnel_00246,Signals,32,94040
+Personnel_00247,3rd Bn,33,44000
+Personnel_00248,3rd Bn,28,43452
+Personnel_00249,1st Bn,36,61589
+Personnel_00250,Ops,29,49349
+Personnel_00251,HQ Coy,35,104097
+Personnel_00252,2nd Bn,21,103995
+Personnel_00253,Ops,50,49322
+Personnel_00254,1st Bn,30,65964
+Personnel_00255,HQ Coy,25,91423
+Personnel_00256,2nd Bn,42,83037
+Personnel_00257,3rd Bn,53,108795
+Personnel_00258,1st Bn,22,99711
+Personnel_00259,2nd Bn,43,102506
+Personnel_00260,HQ Coy,41,52020
+Personnel_00261,HQ Coy,47,94926
+Personnel_00262,Signals,34,74594
+Personnel_00263,Ops,53,69766
+Personnel_00264,HQ Coy,43,108321
+Personnel_00265,2nd Bn,32,113146
+Personnel_00266,Ops,30,38305
+Personnel_00267,Signals,37,57447
+Personnel_00268,HQ Coy,27,62215
+Personnel_00269,Signals,35,52594
+Personnel_00270,1st Bn,22,103161
+Personnel_00271,2nd Bn,41,114061
+Personnel_00272,3rd Bn,38,105466
+Personnel_00273,3rd Bn,33,38341
+Personnel_00274,1st Bn,27,45409
+Personnel_00275,Signals,35,89601
+Personnel_00276,HQ Coy,44,44876
+Personnel_00277,2nd Bn,33,71430
+Personnel_00278,1st Bn,44,114991
+Personnel_00279,Signals,37,92051
+Personnel_00280,2nd Bn,40,100427
+Personnel_00281,1st Bn,40,63080
+Personnel_00282,Ops,26,61909
+Personnel_00283,3rd Bn,41,40537
+Personnel_00284,Signals,22,98226
+Personnel_00285,Signals,28,70896
+Personnel_00286,Signals,47,63133
+Personnel_00287,Signals,50,37594
+Personnel_00288,HQ Coy,52,73902
+Personnel_00289,2nd Bn,37,80484
+Personnel_00290,3rd Bn,51,46341
+Personnel_00291,1st Bn,29,76974
+Personnel_00292,Ops,48,81598
+Personnel_00293,3rd Bn,38,110576
+Personnel_00294,2nd Bn,45,108217
+Personnel_00295,3rd Bn,53,100251
+Personnel_00296,Ops,44,74078
+Personnel_00297,Ops,42,84824
+Personnel_00298,Ops,34,96884
+Personnel_00299,Ops,49,60490
+Personnel_00300,1st Bn,23,88145
+Personnel_00301,3rd Bn,32,45326
+Personnel_00302,Signals,49,114921
+Personnel_00303,Ops,36,55626
+Personnel_00304,3rd Bn,45,94082
+Personnel_00305,Signals,33,95685
+Personnel_00306,1st Bn,48,37846
+Personnel_00307,Ops,26,62015
+Personnel_00308,HQ Coy,30,99958
+Personnel_00309,HQ Coy,53,48068
+Personnel_00310,1st Bn,39,100208
+Personnel_00311,Signals,32,58583
+Personnel_00312,Ops,41,41079
+Personnel_00313,1st Bn,32,49633
+Personnel_00314,Ops,22,50192
+Personnel_00315,2nd Bn,35,38321
+Personnel_00316,Signals,32,81550
+Personnel_00317,3rd Bn,27,90783
+Personnel_00318,Ops,31,43880
+Personnel_00319,2nd Bn,38,97326
+Personnel_00320,2nd Bn,27,63122
+Personnel_00321,HQ Coy,34,97732
+Personnel_00322,Signals,25,97095
+Personnel_00323,1st Bn,22,113130
+Personnel_00324,HQ Coy,30,118575
+Personnel_00325,Ops,52,40907
+Personnel_00326,Signals,35,66869
+Personnel_00327,1st Bn,42,60721
+Personnel_00328,Signals,30,116423
+Personnel_00329,2nd Bn,41,84466
+Personnel_00330,Ops,41,65252
+Personnel_00331,3rd Bn,25,65311
+Personnel_00332,HQ Coy,30,67966
+Personnel_00333,HQ Coy,35,51917
+Personnel_00334,Signals,41,96041
+Personnel_00335,1st Bn,30,91026
+Personnel_00336,Ops,29,54804
+Personnel_00337,HQ Coy,45,70062
+Personnel_00338,Ops,52,80455
+Personnel_00339,Ops,44,85428
+Personnel_00340,Ops,46,92477
+Personnel_00341,HQ Coy,52,64025
+Personnel_00342,Ops,53,77703
+Personnel_00343,3rd Bn,28,108341
+Personnel_00344,HQ Coy,38,49981
+Personnel_00345,2nd Bn,21,43367
+Personnel_00346,2nd Bn,25,104561
+Personnel_00347,1st Bn,51,37362
+Personnel_00348,Signals,33,80797
+Personnel_00349,3rd Bn,21,59629
+Personnel_00350,3rd Bn,30,38662
+Personnel_00351,HQ Coy,53,70232
+Personnel_00352,HQ Coy,41,67457
+Personnel_00353,2nd Bn,39,108915
+Personnel_00354,3rd Bn,49,95124
+Personnel_00355,1st Bn,29,111188
+Personnel_00356,1st Bn,29,104910
+Personnel_00357,Ops,25,113057
+Personnel_00358,1st Bn,40,83814
+Personnel_00359,Signals,23,93393
+Personnel_00360,2nd Bn,45,96858
+Personnel_00361,3rd Bn,25,40428
+Personnel_00362,HQ Coy,33,114968
+Personnel_00363,Signals,30,72565
+Personnel_00364,1st Bn,25,53253
+Personnel_00365,3rd Bn,47,85813
+Personnel_00366,2nd Bn,33,42553
+Personnel_00367,HQ Coy,43,39376
+Personnel_00368,2nd Bn,46,95912
+Personnel_00369,Ops,28,117079
+Personnel_00370,Ops,43,90388
+Personnel_00371,1st Bn,48,114313
+Personnel_00372,2nd Bn,36,108920
+Personnel_00373,HQ Coy,46,102425
+Personnel_00374,HQ Coy,45,106882
+Personnel_00375,HQ Coy,41,94991
+Personnel_00376,3rd Bn,40,92867
+Personnel_00377,Signals,29,83122
+Personnel_00378,3rd Bn,34,63926
+Personnel_00379,1st Bn,26,85887
+Personnel_00380,3rd Bn,51,89675
+Personnel_00381,Signals,44,115742
+Personnel_00382,2nd Bn,25,93029
+Personnel_00383,1st Bn,23,82674
+Personnel_00384,3rd Bn,40,104387
+Personnel_00385,1st Bn,38,35890
+Personnel_00386,3rd Bn,39,70074
+Personnel_00387,Ops,31,49482
+Personnel_00388,3rd Bn,33,110730
+Personnel_00389,Signals,54,80614
+Personnel_00390,HQ Coy,32,58973
+Personnel_00391,2nd Bn,41,90135
+Personnel_00392,Signals,40,93933
+Personnel_00393,Ops,40,61777
+Personnel_00394,Signals,40,104463
+Personnel_00395,Ops,51,86210
+Personnel_00396,2nd Bn,23,47288
+Personnel_00397,2nd Bn,43,104889
+Personnel_00398,2nd Bn,37,56450
+Personnel_00399,Signals,27,83183
+Personnel_00400,1st Bn,40,79156
+Personnel_00401,Signals,52,76561
+Personnel_00402,3rd Bn,38,59178
+Personnel_00403,Signals,34,100132
+Personnel_00404,Ops,38,116815
+Personnel_00405,HQ Coy,52,49343
+Personnel_00406,HQ Coy,32,72814
+Personnel_00407,Ops,28,65676
+Personnel_00408,3rd Bn,36,88420
+Personnel_00409,Signals,50,83330
+Personnel_00410,HQ Coy,36,85453
+Personnel_00411,3rd Bn,38,84584
+Personnel_00412,Signals,25,72671
+Personnel_00413,Ops,52,100107
+Personnel_00414,2nd Bn,35,38311
+Personnel_00415,Ops,42,35136
+Personnel_00416,1st Bn,32,53564
+Personnel_00417,HQ Coy,21,103866
+Personnel_00418,3rd Bn,28,75648
+Personnel_00419,Ops,41,69192
+Personnel_00420,3rd Bn,42,37243
+Personnel_00421,1st Bn,34,84286
+Personnel_00422,2nd Bn,29,96088
+Personnel_00423,HQ Coy,40,56112
+Personnel_00424,3rd Bn,36,81211
+Personnel_00425,3rd Bn,38,84262
+Personnel_00426,3rd Bn,38,91108
+Personnel_00427,Signals,44,110352
+Personnel_00428,HQ Coy,42,82291
+Personnel_00429,Signals,26,98612
+Personnel_00430,1st Bn,21,118950
+Personnel_00431,3rd Bn,33,85352
+Personnel_00432,3rd Bn,24,50499
+Personnel_00433,1st Bn,50,83565
+Personnel_00434,3rd Bn,43,97688
+Personnel_00435,1st Bn,33,54108
+Personnel_00436,3rd Bn,35,91536
+Personnel_00437,1st Bn,46,82445
+Personnel_00438,Ops,21,51572
+Personnel_00439,Signals,31,83253
+Personnel_00440,1st Bn,29,117325
+Personnel_00441,Signals,24,47838
+Personnel_00442,2nd Bn,39,41160
+Personnel_00443,Signals,25,108420
+Personnel_00444,Signals,50,70701
+Personnel_00445,Ops,22,113246
+Personnel_00446,2nd Bn,21,83159
+Personnel_00447,1st Bn,32,107568
+Personnel_00448,2nd Bn,39,47796
+Personnel_00449,1st Bn,22,36938
+Personnel_00450,3rd Bn,50,111465
+Personnel_00451,3rd Bn,26,69606
+Personnel_00452,1st Bn,27,64937
+Personnel_00453,3rd Bn,35,59819
+Personnel_00454,Signals,35,97991
+Personnel_00455,Signals,54,85832
+Personnel_00456,2nd Bn,32,51825
+Personnel_00457,3rd Bn,39,91084
+Personnel_00458,1st Bn,32,106651
+Personnel_00459,1st Bn,37,36513
+Personnel_00460,3rd Bn,27,119280
+Personnel_00461,HQ Coy,38,105126
+Personnel_00462,Signals,28,89177
+Personnel_00463,2nd Bn,29,55588
+Personnel_00464,HQ Coy,35,97506
+Personnel_00465,Ops,44,105326
+Personnel_00466,Ops,41,102466
+Personnel_00467,1st Bn,21,75661
+Personnel_00468,Signals,24,118346
+Personnel_00469,Signals,37,42246
+Personnel_00470,HQ Coy,34,52378
+Personnel_00471,HQ Coy,24,74078
+Personnel_00472,1st Bn,25,111269
+Personnel_00473,HQ Coy,49,67412
+Personnel_00474,Ops,45,106217
+Personnel_00475,Signals,42,51624
+Personnel_00476,Signals,26,83322
+Personnel_00477,3rd Bn,46,77482
+Personnel_00478,Ops,28,88816
+Personnel_00479,2nd Bn,48,103996
+Personnel_00480,3rd Bn,36,78545
+Personnel_00481,3rd Bn,50,70936
+Personnel_00482,1st Bn,54,80403
+Personnel_00483,3rd Bn,45,39389
+Personnel_00484,2nd Bn,41,93830
+Personnel_00485,1st Bn,42,107637
+Personnel_00486,1st Bn,46,55602
+Personnel_00487,Ops,45,82791
+Personnel_00488,Signals,49,92237
+Personnel_00489,HQ Coy,21,107688
+Personnel_00490,1st Bn,33,71882
+Personnel_00491,Signals,22,101532
+Personnel_00492,Signals,53,71822
+Personnel_00493,Signals,42,82224
+Personnel_00494,1st Bn,31,91737
+Personnel_00495,1st Bn,50,109024
+Personnel_00496,3rd Bn,39,88252
+Personnel_00497,Ops,54,101923
+Personnel_00498,HQ Coy,29,110607
+Personnel_00499,1st Bn,35,73842
+Personnel_00500,Signals,22,75731
+Personnel_00501,HQ Coy,40,49949
+Personnel_00502,3rd Bn,46,64762
+Personnel_00503,Ops,33,96128
+Personnel_00504,Signals,33,69962
+Personnel_00505,2nd Bn,51,36579
+Personnel_00506,Ops,29,119943
+Personnel_00507,2nd Bn,25,116915
+Personnel_00508,Signals,35,64208
+Personnel_00509,2nd Bn,37,100075
+Personnel_00510,2nd Bn,52,53197
+Personnel_00511,3rd Bn,41,91547
+Personnel_00512,Ops,35,47035
+Personnel_00513,HQ Coy,50,73372
+Personnel_00514,1st Bn,51,85225
+Personnel_00515,Ops,38,119517
+Personnel_00516,2nd Bn,53,56421
+Personnel_00517,Signals,46,46537
+Personnel_00518,Ops,51,108149
+Personnel_00519,1st Bn,47,85235
+Personnel_00520,3rd Bn,28,61855
+Personnel_00521,3rd Bn,31,67253
+Personnel_00522,Ops,52,69327
+Personnel_00523,HQ Coy,30,37005
+Personnel_00524,2nd Bn,34,115282
+Personnel_00525,1st Bn,23,56075
+Personnel_00526,1st Bn,33,81618
+Personnel_00527,Signals,42,112217
+Personnel_00528,1st Bn,39,47278
+Personnel_00529,3rd Bn,53,89145
+Personnel_00530,2nd Bn,33,87680
+Personnel_00531,2nd Bn,30,87350
+Personnel_00532,3rd Bn,30,76097
+Personnel_00533,3rd Bn,34,91515
+Personnel_00534,1st Bn,42,38314
+Personnel_00535,Ops,46,43145
+Personnel_00536,Signals,33,85445
+Personnel_00537,2nd Bn,27,76341
+Personnel_00538,3rd Bn,43,35502
+Personnel_00539,3rd Bn,52,56615
+Personnel_00540,Signals,36,44690
+Personnel_00541,Signals,48,69804
+Personnel_00542,Signals,42,116614
+Personnel_00543,HQ Coy,46,112125
+Personnel_00544,2nd Bn,43,119312
+Personnel_00545,Ops,49,40528
+Personnel_00546,2nd Bn,44,79318
+Personnel_00547,1st Bn,26,72745
+Personnel_00548,2nd Bn,49,80492
+Personnel_00549,1st Bn,35,85213
+Personnel_00550,3rd Bn,46,42205
+Personnel_00551,Signals,24,71006
+Personnel_00552,3rd Bn,30,71355
+Personnel_00553,HQ Coy,50,107565
+Personnel_00554,2nd Bn,45,55795
+Personnel_00555,Signals,40,85358
+Personnel_00556,1st Bn,49,49675
+Personnel_00557,HQ Coy,53,79551
+Personnel_00558,Ops,45,38160
+Personnel_00559,HQ Coy,42,65322
+Personnel_00560,HQ Coy,52,79351
+Personnel_00561,Signals,35,83254
+Personnel_00562,2nd Bn,22,104822
+Personnel_00563,Ops,33,59344
+Personnel_00564,Ops,54,77966
+Personnel_00565,2nd Bn,36,71259
+Personnel_00566,3rd Bn,50,96841
+Personnel_00567,Signals,46,51166
+Personnel_00568,2nd Bn,41,107185
+Personnel_00569,Ops,30,61863
+Personnel_00570,2nd Bn,47,67413
+Personnel_00571,1st Bn,50,90388
+Personnel_00572,HQ Coy,25,113892
+Personnel_00573,1st Bn,41,111126
+Personnel_00574,HQ Coy,21,46206
+Personnel_00575,3rd Bn,52,68261
+Personnel_00576,3rd Bn,35,45388
+Personnel_00577,3rd Bn,31,112155
+Personnel_00578,HQ Coy,45,63323
+Personnel_00579,Ops,48,90912
+Personnel_00580,2nd Bn,48,46819
+Personnel_00581,Signals,31,38824
+Personnel_00582,2nd Bn,28,46680
+Personnel_00583,Signals,31,40357
+Personnel_00584,2nd Bn,28,48693
+Personnel_00585,Ops,28,84539
+Personnel_00586,HQ Coy,41,84153
+Personnel_00587,Ops,39,55961
+Personnel_00588,3rd Bn,42,56838
+Personnel_00589,HQ Coy,31,81741
+Personnel_00590,Ops,21,45711
+Personnel_00591,Ops,35,79794
+Personnel_00592,1st Bn,21,46762
+Personnel_00593,1st Bn,29,71314
+Personnel_00594,3rd Bn,50,119666
+Personnel_00595,Signals,44,63070
+Personnel_00596,1st Bn,42,102520
+Personnel_00597,Signals,23,101034
+Personnel_00598,Ops,49,110413
+Personnel_00599,Signals,49,71737
+Personnel_00600,Signals,39,98321
+Personnel_00601,Ops,52,113771
+Personnel_00602,1st Bn,50,55781
+Personnel_00603,Signals,39,50386
+Personnel_00604,3rd Bn,27,106702
+Personnel_00605,1st Bn,28,105308
+Personnel_00606,HQ Coy,45,35336
+Personnel_00607,HQ Coy,32,113756
+Personnel_00608,2nd Bn,40,47969
+Personnel_00609,1st Bn,22,101345
+Personnel_00610,1st Bn,54,77026
+Personnel_00611,HQ Coy,37,68530
+Personnel_00612,Signals,43,117558
+Personnel_00613,HQ Coy,25,106337
+Personnel_00614,1st Bn,31,50751
+Personnel_00615,3rd Bn,47,83565
+Personnel_00616,2nd Bn,25,57795
+Personnel_00617,HQ Coy,48,96349
+Personnel_00618,3rd Bn,28,92240
+Personnel_00619,HQ Coy,36,58461
+Personnel_00620,2nd Bn,47,39874
+Personnel_00621,3rd Bn,42,62878
+Personnel_00622,Ops,35,73782
+Personnel_00623,Signals,32,48304
+Personnel_00624,Signals,25,98989
+Personnel_00625,3rd Bn,53,82323
+Personnel_00626,2nd Bn,50,80933
+Personnel_00627,2nd Bn,35,76504
+Personnel_00628,Ops,46,84019
+Personnel_00629,Signals,49,103774
+Personnel_00630,2nd Bn,27,56644
+Personnel_00631,3rd Bn,40,74701
+Personnel_00632,Ops,22,58110
+Personnel_00633,2nd Bn,47,45591
+Personnel_00634,2nd Bn,39,63947
+Personnel_00635,3rd Bn,26,116347
+Personnel_00636,1st Bn,29,81272
+Personnel_00637,Ops,46,107502
+Personnel_00638,Ops,46,113824
+Personnel_00639,1st Bn,46,77734
+Personnel_00640,HQ Coy,35,38692
+Personnel_00641,3rd Bn,42,67840
+Personnel_00642,2nd Bn,38,75870
+Personnel_00643,Ops,27,86410
+Personnel_00644,Ops,21,119661
+Personnel_00645,1st Bn,25,41787
+Personnel_00646,Signals,38,64123
+Personnel_00647,HQ Coy,37,77850
+Personnel_00648,Signals,49,71003
+Personnel_00649,Ops,52,88282
+Personnel_00650,Signals,51,75017
+Personnel_00651,Signals,48,52613
+Personnel_00652,1st Bn,37,37697
+Personnel_00653,Ops,43,118155
+Personnel_00654,3rd Bn,44,89243
+Personnel_00655,Ops,30,83650
+Personnel_00656,2nd Bn,34,43780
+Personnel_00657,Ops,40,95741
+Personnel_00658,HQ Coy,46,64119
+Personnel_00659,Signals,35,46507
+Personnel_00660,3rd Bn,43,63758
+Personnel_00661,1st Bn,27,109973
+Personnel_00662,HQ Coy,50,54810
+Personnel_00663,1st Bn,47,72276
+Personnel_00664,HQ Coy,37,55790
+Personnel_00665,HQ Coy,38,116123
+Personnel_00666,1st Bn,37,71914
+Personnel_00667,1st Bn,50,51729
+Personnel_00668,Ops,39,40369
+Personnel_00669,1st Bn,50,97291
+Personnel_00670,Signals,29,90165
+Personnel_00671,3rd Bn,42,114157
+Personnel_00672,Signals,36,62147
+Personnel_00673,3rd Bn,21,114965
+Personnel_00674,Ops,37,68477
+Personnel_00675,Ops,27,41953
+Personnel_00676,Ops,40,79539
+Personnel_00677,1st Bn,38,104114
+Personnel_00678,1st Bn,25,77354
+Personnel_00679,Ops,28,51068
+Personnel_00680,HQ Coy,22,95550
+Personnel_00681,HQ Coy,49,93541
+Personnel_00682,3rd Bn,37,90050
+Personnel_00683,Ops,48,105658
+Personnel_00684,Signals,47,39543
+Personnel_00685,Ops,31,39390
+Personnel_00686,HQ Coy,24,44823
+Personnel_00687,Signals,49,52738
+Personnel_00688,1st Bn,34,111189
+Personnel_00689,3rd Bn,47,39440
+Personnel_00690,HQ Coy,26,64564
+Personnel_00691,1st Bn,32,49970
+Personnel_00692,Ops,35,64460
+Personnel_00693,2nd Bn,39,49037
+Personnel_00694,Ops,39,44072
+Personnel_00695,HQ Coy,37,103071
+Personnel_00696,Ops,51,69109
+Personnel_00697,1st Bn,38,64582
+Personnel_00698,Ops,43,84396
+Personnel_00699,2nd Bn,38,45328
+Personnel_00700,3rd Bn,31,81969
+Personnel_00701,3rd Bn,49,99574
+Personnel_00702,HQ Coy,37,83951
+Personnel_00703,Signals,53,54905
+Personnel_00704,Signals,48,56811
+Personnel_00705,1st Bn,52,114813
+Personnel_00706,3rd Bn,47,110907
+Personnel_00707,Signals,52,46320
+Personnel_00708,Ops,35,87854
+Personnel_00709,HQ Coy,41,104157
+Personnel_00710,3rd Bn,44,107501
+Personnel_00711,Signals,35,55197
+Personnel_00712,2nd Bn,40,83970
+Personnel_00713,HQ Coy,47,109861
+Personnel_00714,1st Bn,48,113372
+Personnel_00715,3rd Bn,47,72362
+Personnel_00716,2nd Bn,38,113877
+Personnel_00717,2nd Bn,45,75982
+Personnel_00718,Signals,48,39844
+Personnel_00719,3rd Bn,52,72609
+Personnel_00720,HQ Coy,22,49256
+Personnel_00721,Ops,28,53111
+Personnel_00722,Signals,21,39314
+Personnel_00723,HQ Coy,36,49909
+Personnel_00724,1st Bn,21,66175
+Personnel_00725,Signals,23,50659
+Personnel_00726,HQ Coy,37,69477
+Personnel_00727,1st Bn,41,44626
+Personnel_00728,2nd Bn,42,81076
+Personnel_00729,Signals,48,54301
+Personnel_00730,3rd Bn,51,103212
+Personnel_00731,HQ Coy,29,42110
+Personnel_00732,Ops,32,98209
+Personnel_00733,1st Bn,42,116317
+Personnel_00734,Ops,39,45369
+Personnel_00735,HQ Coy,31,95225
+Personnel_00736,1st Bn,29,73363
+Personnel_00737,3rd Bn,51,113720
+Personnel_00738,2nd Bn,38,108094
+Personnel_00739,1st Bn,36,38024
+Personnel_00740,2nd Bn,40,102666
+Personnel_00741,2nd Bn,54,75949
+Personnel_00742,HQ Coy,43,53060
+Personnel_00743,HQ Coy,22,35972
+Personnel_00744,Signals,24,63787
+Personnel_00745,2nd Bn,47,58645
+Personnel_00746,2nd Bn,22,72737
+Personnel_00747,Ops,47,62643
+Personnel_00748,3rd Bn,38,44350
+Personnel_00749,2nd Bn,45,112403
+Personnel_00750,HQ Coy,51,85702
+Personnel_00751,2nd Bn,27,63763
+Personnel_00752,2nd Bn,47,51155
+Personnel_00753,2nd Bn,40,93807
+Personnel_00754,3rd Bn,48,110415
+Personnel_00755,2nd Bn,34,82008
+Personnel_00756,Ops,32,82724
+Personnel_00757,HQ Coy,48,111136
+Personnel_00758,3rd Bn,21,58068
+Personnel_00759,1st Bn,31,77651
+Personnel_00760,2nd Bn,24,115217
+Personnel_00761,1st Bn,37,101466
+Personnel_00762,1st Bn,29,84738
+Personnel_00763,Ops,41,73126
+Personnel_00764,2nd Bn,51,78562
+Personnel_00765,Signals,33,45083
+Personnel_00766,Signals,38,116044
+Personnel_00767,Signals,36,58008
+Personnel_00768,3rd Bn,43,115067
+Personnel_00769,Signals,40,110091
+Personnel_00770,2nd Bn,52,70641
+Personnel_00771,HQ Coy,46,57063
+Personnel_00772,1st Bn,35,59995
+Personnel_00773,1st Bn,37,36876
+Personnel_00774,2nd Bn,30,98353
+Personnel_00775,3rd Bn,50,116641
+Personnel_00776,1st Bn,43,48679
+Personnel_00777,2nd Bn,39,61257
+Personnel_00778,1st Bn,37,100420
+Personnel_00779,HQ Coy,50,48781
+Personnel_00780,HQ Coy,30,61006
+Personnel_00781,3rd Bn,48,108531
+Personnel_00782,HQ Coy,48,99942
+Personnel_00783,3rd Bn,42,66646
+Personnel_00784,Signals,32,98238
+Personnel_00785,3rd Bn,51,73043
+Personnel_00786,2nd Bn,22,48445
+Personnel_00787,1st Bn,37,59865
+Personnel_00788,2nd Bn,37,116421
+Personnel_00789,Signals,36,101916
+Personnel_00790,Ops,29,117537
+Personnel_00791,Ops,48,69806
+Personnel_00792,1st Bn,33,84106
+Personnel_00793,HQ Coy,45,61330
+Personnel_00794,Signals,46,54705
+Personnel_00795,3rd Bn,23,84089
+Personnel_00796,3rd Bn,49,85622
+Personnel_00797,3rd Bn,23,72958
+Personnel_00798,Signals,44,119527
+Personnel_00799,HQ Coy,21,79021
+Personnel_00800,3rd Bn,51,113520
+Personnel_00801,Ops,46,43516
+Personnel_00802,Signals,39,83528
+Personnel_00803,HQ Coy,26,70305
+Personnel_00804,2nd Bn,45,51963
+Personnel_00805,1st Bn,52,44310
+Personnel_00806,1st Bn,50,114819
+Personnel_00807,1st Bn,39,44851
+Personnel_00808,1st Bn,35,98706
+Personnel_00809,Ops,35,108317
+Personnel_00810,3rd Bn,38,52145
+Personnel_00811,HQ Coy,28,87860
+Personnel_00812,HQ Coy,44,87739
+Personnel_00813,2nd Bn,22,83625
+Personnel_00814,1st Bn,38,107208
+Personnel_00815,3rd Bn,43,97164
+Personnel_00816,2nd Bn,32,64174
+Personnel_00817,1st Bn,53,50461
+Personnel_00818,2nd Bn,40,105090
+Personnel_00819,3rd Bn,30,111081
+Personnel_00820,3rd Bn,42,40518
+Personnel_00821,2nd Bn,29,75833
+Personnel_00822,1st Bn,52,110203
+Personnel_00823,Signals,37,60891
+Personnel_00824,Ops,48,89266
+Personnel_00825,Signals,32,82139
+Personnel_00826,Signals,25,69218
+Personnel_00827,1st Bn,47,35734
+Personnel_00828,Ops,40,114910
+Personnel_00829,Signals,52,69784
+Personnel_00830,Ops,36,82522
+Personnel_00831,2nd Bn,27,49112
+Personnel_00832,3rd Bn,34,36651
+Personnel_00833,1st Bn,25,50380
+Personnel_00834,3rd Bn,33,77165
+Personnel_00835,Ops,21,55948
+Personnel_00836,HQ Coy,21,117622
+Personnel_00837,HQ Coy,26,107961
+Personnel_00838,2nd Bn,50,46417
+Personnel_00839,Ops,51,68555
+Personnel_00840,1st Bn,25,89091
+Personnel_00841,3rd Bn,54,35621
+Personnel_00842,Signals,27,69981
+Personnel_00843,1st Bn,41,84075
+Personnel_00844,2nd Bn,29,86407
+Personnel_00845,HQ Coy,42,82857
+Personnel_00846,Signals,30,117324
+Personnel_00847,3rd Bn,37,105896
+Personnel_00848,1st Bn,34,106853
+Personnel_00849,2nd Bn,31,80571
+Personnel_00850,Signals,31,55525
+Personnel_00851,3rd Bn,40,112598
+Personnel_00852,3rd Bn,23,75672
+Personnel_00853,1st Bn,41,88220
+Personnel_00854,1st Bn,54,113737
+Personnel_00855,3rd Bn,41,113995
+Personnel_00856,2nd Bn,30,53307
+Personnel_00857,Ops,52,45778
+Personnel_00858,2nd Bn,22,82037
+Personnel_00859,2nd Bn,33,45640
+Personnel_00860,Signals,50,80713
+Personnel_00861,1st Bn,53,39848
+Personnel_00862,2nd Bn,37,115921
+Personnel_00863,3rd Bn,23,108884
+Personnel_00864,2nd Bn,41,65465
+Personnel_00865,HQ Coy,53,104055
+Personnel_00866,Ops,46,64386
+Personnel_00867,Ops,45,49907
+Personnel_00868,3rd Bn,45,52021
+Personnel_00869,1st Bn,24,46726
+Personnel_00870,2nd Bn,47,57272
+Personnel_00871,1st Bn,50,57644
+Personnel_00872,1st Bn,53,37298
+Personnel_00873,1st Bn,50,40829
+Personnel_00874,HQ Coy,34,82524
+Personnel_00875,HQ Coy,23,56781
+Personnel_00876,HQ Coy,39,62155
+Personnel_00877,3rd Bn,54,105258
+Personnel_00878,1st Bn,46,35694
+Personnel_00879,Signals,33,114498
+Personnel_00880,1st Bn,46,116845
+Personnel_00881,HQ Coy,47,93144
+Personnel_00882,1st Bn,25,74100
+Personnel_00883,3rd Bn,53,98329
+Personnel_00884,3rd Bn,37,59352
+Personnel_00885,1st Bn,45,62445
+Personnel_00886,2nd Bn,53,94712
+Personnel_00887,Ops,39,54436
+Personnel_00888,Ops,47,116354
+Personnel_00889,Signals,22,44483
+Personnel_00890,Signals,34,97308
+Personnel_00891,2nd Bn,21,61894
+Personnel_00892,Signals,21,45992
+Personnel_00893,2nd Bn,41,85873
+Personnel_00894,3rd Bn,26,118421
+Personnel_00895,1st Bn,33,65943
+Personnel_00896,2nd Bn,45,106073
+Personnel_00897,Ops,53,83029
+Personnel_00898,3rd Bn,40,83960
+Personnel_00899,HQ Coy,42,92295
+Personnel_00900,1st Bn,22,56385
+Personnel_00901,1st Bn,50,64618
+Personnel_00902,Ops,51,55401
+Personnel_00903,Ops,34,63258
+Personnel_00904,2nd Bn,52,113211
+Personnel_00905,2nd Bn,44,81754
+Personnel_00906,Ops,54,87500
+Personnel_00907,1st Bn,42,62227
+Personnel_00908,1st Bn,44,83016
+Personnel_00909,2nd Bn,41,103624
+Personnel_00910,2nd Bn,27,116342
+Personnel_00911,Signals,25,37379
+Personnel_00912,1st Bn,39,63079
+Personnel_00913,3rd Bn,37,55832
+Personnel_00914,3rd Bn,44,61827
+Personnel_00915,2nd Bn,34,105747
+Personnel_00916,HQ Coy,34,72951
+Personnel_00917,3rd Bn,24,67837
+Personnel_00918,HQ Coy,49,63994
+Personnel_00919,Ops,52,85951
+Personnel_00920,Ops,39,95129
+Personnel_00921,3rd Bn,30,90268
+Personnel_00922,1st Bn,29,44726
+Personnel_00923,1st Bn,27,50957
+Personnel_00924,HQ Coy,29,91636
+Personnel_00925,1st Bn,48,70219
+Personnel_00926,Ops,33,38680
+Personnel_00927,HQ Coy,50,47498
+Personnel_00928,2nd Bn,52,100794
+Personnel_00929,3rd Bn,48,80974
+Personnel_00930,HQ Coy,26,107889
+Personnel_00931,3rd Bn,26,74992
+Personnel_00932,3rd Bn,28,71576
+Personnel_00933,3rd Bn,49,97911
+Personnel_00934,2nd Bn,47,84952
+Personnel_00935,3rd Bn,31,39335
+Personnel_00936,2nd Bn,26,72765
+Personnel_00937,3rd Bn,52,62675
+Personnel_00938,Ops,37,72289
+Personnel_00939,Ops,39,97356
+Personnel_00940,3rd Bn,23,84987
+Personnel_00941,Ops,48,100849
+Personnel_00942,1st Bn,34,57169
+Personnel_00943,Signals,21,111446
+Personnel_00944,1st Bn,21,119781
+Personnel_00945,1st Bn,29,65403
+Personnel_00946,1st Bn,46,54851
+Personnel_00947,2nd Bn,41,60427
+Personnel_00948,2nd Bn,40,45407
+Personnel_00949,3rd Bn,27,103884
+Personnel_00950,1st Bn,23,84512
+Personnel_00951,2nd Bn,24,79435
+Personnel_00952,HQ Coy,35,102479
+Personnel_00953,3rd Bn,38,108515
+Personnel_00954,2nd Bn,30,67447
+Personnel_00955,3rd Bn,53,72878
+Personnel_00956,3rd Bn,26,105822
+Personnel_00957,1st Bn,40,57667
+Personnel_00958,HQ Coy,25,82489
+Personnel_00959,Signals,30,83151
+Personnel_00960,2nd Bn,35,61017
+Personnel_00961,Ops,43,92611
+Personnel_00962,1st Bn,23,57135
+Personnel_00963,HQ Coy,33,57383
+Personnel_00964,1st Bn,24,74109
+Personnel_00965,2nd Bn,51,102596
+Personnel_00966,1st Bn,45,114983
+Personnel_00967,Signals,39,112409
+Personnel_00968,Signals,38,47790
+Personnel_00969,1st Bn,25,76529
+Personnel_00970,Ops,45,40865
+Personnel_00971,3rd Bn,47,36116
+Personnel_00972,Signals,49,72176
+Personnel_00973,Signals,44,35745
+Personnel_00974,HQ Coy,24,111133
+Personnel_00975,HQ Coy,35,54385
+Personnel_00976,Signals,39,118332
+Personnel_00977,2nd Bn,26,86735
+Personnel_00978,Ops,31,92101
+Personnel_00979,2nd Bn,42,43153
+Personnel_00980,Signals,21,48329
+Personnel_00981,Ops,26,106723
+Personnel_00982,3rd Bn,27,67586
+Personnel_00983,1st Bn,31,62811
+Personnel_00984,Ops,44,52425
+Personnel_00985,1st Bn,37,97831
+Personnel_00986,HQ Coy,32,99798
+Personnel_00987,Signals,52,67064
+Personnel_00988,3rd Bn,31,64545
+Personnel_00989,Ops,46,102237
+Personnel_00990,2nd Bn,52,61646
+Personnel_00991,HQ Coy,47,114356
+Personnel_00992,1st Bn,41,107168
+Personnel_00993,Ops,36,87448
+Personnel_00994,Signals,27,103610
+Personnel_00995,3rd Bn,43,117575
+Personnel_00996,2nd Bn,39,94887
+Personnel_00997,HQ Coy,45,61286
+Personnel_00998,HQ Coy,49,70532
+Personnel_00999,2nd Bn,54,118648
+Personnel_01000,Ops,27,56953
+Personnel_01001,2nd Bn,34,63085
+Personnel_01002,Ops,26,108646
+Personnel_01003,Ops,39,75639
+Personnel_01004,HQ Coy,44,58854
+Personnel_01005,Signals,39,41497
+Personnel_01006,2nd Bn,35,94800
+Personnel_01007,1st Bn,26,90925
+Personnel_01008,Signals,52,118616
+Personnel_01009,HQ Coy,24,106104
+Personnel_01010,HQ Coy,48,69651
+Personnel_01011,1st Bn,50,67072
+Personnel_01012,3rd Bn,54,73375
+Personnel_01013,Signals,32,94014
+Personnel_01014,Signals,48,118245
+Personnel_01015,1st Bn,49,119727
+Personnel_01016,3rd Bn,35,74246
+Personnel_01017,HQ Coy,52,89132
+Personnel_01018,Ops,37,77571
+Personnel_01019,2nd Bn,21,115618
+Personnel_01020,Signals,48,48109
+Personnel_01021,3rd Bn,22,61936
+Personnel_01022,2nd Bn,45,38741
+Personnel_01023,2nd Bn,33,82520
+Personnel_01024,HQ Coy,24,42351
+Personnel_01025,2nd Bn,38,87240
+Personnel_01026,Signals,48,92263
+Personnel_01027,2nd Bn,23,65267
+Personnel_01028,HQ Coy,40,85768
+Personnel_01029,1st Bn,28,80862
+Personnel_01030,Ops,30,88718
+Personnel_01031,3rd Bn,51,58308
+Personnel_01032,3rd Bn,35,37295
+Personnel_01033,2nd Bn,22,88786
+Personnel_01034,Signals,32,106846
+Personnel_01035,Signals,50,97111
+Personnel_01036,Ops,30,82864
+Personnel_01037,Signals,50,42751
+Personnel_01038,Signals,52,109073
+Personnel_01039,1st Bn,51,80881
+Personnel_01040,Ops,28,74917
+Personnel_01041,Ops,54,79522
+Personnel_01042,3rd Bn,53,93690
+Personnel_01043,Ops,37,42404
+Personnel_01044,Ops,39,40892
+Personnel_01045,Signals,39,59126
+Personnel_01046,Ops,22,75138
+Personnel_01047,Signals,23,91472
+Personnel_01048,Ops,51,100743
+Personnel_01049,2nd Bn,30,35011
+Personnel_01050,Signals,49,88963
+Personnel_01051,Signals,44,59131
+Personnel_01052,Signals,40,108410
+Personnel_01053,3rd Bn,54,72221
+Personnel_01054,1st Bn,46,57626
+Personnel_01055,Ops,31,86552
+Personnel_01056,Ops,34,68237
+Personnel_01057,1st Bn,42,76906
+Personnel_01058,1st Bn,36,94276
+Personnel_01059,Signals,37,67871
+Personnel_01060,3rd Bn,41,45872
+Personnel_01061,1st Bn,40,92310
+Personnel_01062,Signals,26,39929
+Personnel_01063,1st Bn,50,67445
+Personnel_01064,3rd Bn,25,91720
+Personnel_01065,HQ Coy,47,58498
+Personnel_01066,HQ Coy,48,43534
+Personnel_01067,HQ Coy,30,109417
+Personnel_01068,Signals,43,83534
+Personnel_01069,1st Bn,48,95105
+Personnel_01070,Ops,44,38446
+Personnel_01071,3rd Bn,24,69829
+Personnel_01072,3rd Bn,35,60977
+Personnel_01073,1st Bn,47,53622
+Personnel_01074,Ops,39,48682
+Personnel_01075,1st Bn,39,69163
+Personnel_01076,3rd Bn,52,71127
+Personnel_01077,HQ Coy,36,94280
+Personnel_01078,Ops,44,48518
+Personnel_01079,1st Bn,45,86842
+Personnel_01080,1st Bn,34,79675
+Personnel_01081,HQ Coy,44,108100
+Personnel_01082,1st Bn,54,107370
+Personnel_01083,HQ Coy,32,50897
+Personnel_01084,Ops,23,78040
+Personnel_01085,Signals,35,106535
+Personnel_01086,Ops,26,42425
+Personnel_01087,1st Bn,53,100384
+Personnel_01088,Signals,50,81383
+Personnel_01089,HQ Coy,48,80567
+Personnel_01090,2nd Bn,30,48929
+Personnel_01091,Ops,39,93694
+Personnel_01092,3rd Bn,39,108607
+Personnel_01093,3rd Bn,49,62743
+Personnel_01094,1st Bn,52,114878
+Personnel_01095,HQ Coy,38,89649
+Personnel_01096,2nd Bn,21,95693
+Personnel_01097,Ops,23,94844
+Personnel_01098,HQ Coy,28,76562
+Personnel_01099,Signals,39,39314
+Personnel_01100,HQ Coy,29,112423
+Personnel_01101,3rd Bn,46,35491
+Personnel_01102,2nd Bn,23,108800
+Personnel_01103,Ops,42,87646
+Personnel_01104,3rd Bn,41,102837
+Personnel_01105,Ops,31,87537
+Personnel_01106,2nd Bn,49,86711
+Personnel_01107,HQ Coy,29,68445
+Personnel_01108,3rd Bn,31,41515
+Personnel_01109,HQ Coy,28,93542
+Personnel_01110,HQ Coy,40,59149
+Personnel_01111,3rd Bn,44,115540
+Personnel_01112,1st Bn,24,93127
+Personnel_01113,Signals,39,42409
+Personnel_01114,Signals,31,45629
+Personnel_01115,3rd Bn,49,54456
+Personnel_01116,Signals,50,61799
+Personnel_01117,HQ Coy,24,87892
+Personnel_01118,2nd Bn,26,37723
+Personnel_01119,HQ Coy,26,87435
+Personnel_01120,1st Bn,37,47768
+Personnel_01121,2nd Bn,31,44985
+Personnel_01122,1st Bn,45,98036
+Personnel_01123,Signals,39,68567
+Personnel_01124,HQ Coy,48,36738
+Personnel_01125,Ops,41,100034
+Personnel_01126,HQ Coy,21,110859
+Personnel_01127,3rd Bn,22,35982
+Personnel_01128,1st Bn,54,36272
+Personnel_01129,Ops,49,58474
+Personnel_01130,Ops,47,88264
+Personnel_01131,1st Bn,40,74257
+Personnel_01132,HQ Coy,36,36779
+Personnel_01133,2nd Bn,24,35153
+Personnel_01134,3rd Bn,41,93258
+Personnel_01135,Signals,53,70658
+Personnel_01136,3rd Bn,26,104516
+Personnel_01137,HQ Coy,26,97499
+Personnel_01138,2nd Bn,47,103388
+Personnel_01139,Ops,22,84112
+Personnel_01140,2nd Bn,43,57509
+Personnel_01141,Signals,40,57136
+Personnel_01142,HQ Coy,29,37446
+Personnel_01143,HQ Coy,27,38256
+Personnel_01144,Ops,35,75987
+Personnel_01145,2nd Bn,35,112477
+Personnel_01146,2nd Bn,47,109909
+Personnel_01147,Ops,24,38191
+Personnel_01148,2nd Bn,41,113874
+Personnel_01149,1st Bn,49,65533
+Personnel_01150,1st Bn,29,86509
+Personnel_01151,Signals,29,38661
+Personnel_01152,Signals,46,66559
+Personnel_01153,1st Bn,27,38326
+Personnel_01154,1st Bn,54,116939
+Personnel_01155,1st Bn,29,84949
+Personnel_01156,2nd Bn,28,52825
+Personnel_01157,HQ Coy,40,108027
+Personnel_01158,Ops,50,64893
+Personnel_01159,Ops,50,107534
+Personnel_01160,2nd Bn,21,47567
+Personnel_01161,1st Bn,29,53765
+Personnel_01162,Ops,51,37641
+Personnel_01163,Ops,29,68889
+Personnel_01164,1st Bn,32,65528
+Personnel_01165,1st Bn,46,101075
+Personnel_01166,HQ Coy,34,69957
+Personnel_01167,1st Bn,35,68908
+Personnel_01168,Ops,39,53755
+Personnel_01169,2nd Bn,46,54196
+Personnel_01170,Signals,36,117912
+Personnel_01171,2nd Bn,23,64304
+Personnel_01172,1st Bn,48,99505
+Personnel_01173,1st Bn,29,64237
+Personnel_01174,HQ Coy,24,55214
+Personnel_01175,2nd Bn,35,89018
+Personnel_01176,Ops,21,57467
+Personnel_01177,HQ Coy,34,98911
+Personnel_01178,2nd Bn,28,83170
+Personnel_01179,Signals,26,90880
+Personnel_01180,2nd Bn,34,75569
+Personnel_01181,2nd Bn,22,35425
+Personnel_01182,Signals,22,97032
+Personnel_01183,2nd Bn,44,77167
+Personnel_01184,HQ Coy,47,43097
+Personnel_01185,HQ Coy,49,118167
+Personnel_01186,3rd Bn,36,39359
+Personnel_01187,Ops,24,83938
+Personnel_01188,2nd Bn,22,117068
+Personnel_01189,Ops,46,62966
+Personnel_01190,HQ Coy,42,48432
+Personnel_01191,2nd Bn,40,64503
+Personnel_01192,1st Bn,33,50178
+Personnel_01193,Ops,44,109605
+Personnel_01194,HQ Coy,38,109491
+Personnel_01195,1st Bn,51,60593
+Personnel_01196,Signals,34,36409
+Personnel_01197,2nd Bn,23,117783
+Personnel_01198,Signals,45,86858
+Personnel_01199,1st Bn,54,65113
+Personnel_01200,1st Bn,24,52479
+Personnel_01201,Ops,36,87995
+Personnel_01202,2nd Bn,22,98950
+Personnel_01203,2nd Bn,42,115317
+Personnel_01204,3rd Bn,21,38215
+Personnel_01205,2nd Bn,34,54741
+Personnel_01206,HQ Coy,38,51736
+Personnel_01207,HQ Coy,24,47330
+Personnel_01208,1st Bn,23,85815
+Personnel_01209,HQ Coy,54,97461
+Personnel_01210,3rd Bn,46,81600
+Personnel_01211,Signals,38,36879
+Personnel_01212,Ops,23,97148
+Personnel_01213,Signals,45,72830
+Personnel_01214,HQ Coy,29,66555
+Personnel_01215,1st Bn,25,47152
+Personnel_01216,2nd Bn,36,49568
+Personnel_01217,3rd Bn,49,71629
+Personnel_01218,Ops,25,51440
+Personnel_01219,Ops,45,117773
+Personnel_01220,2nd Bn,54,109862
+Personnel_01221,2nd Bn,44,113394
+Personnel_01222,2nd Bn,29,106164
+Personnel_01223,2nd Bn,23,100607
+Personnel_01224,3rd Bn,35,73982
+Personnel_01225,2nd Bn,47,115094
+Personnel_01226,1st Bn,36,51136
+Personnel_01227,Signals,36,86589
+Personnel_01228,1st Bn,53,73134
+Personnel_01229,1st Bn,49,86589
+Personnel_01230,Ops,45,92175
+Personnel_01231,Signals,34,43232
+Personnel_01232,1st Bn,27,67240
+Personnel_01233,Signals,37,66353
+Personnel_01234,1st Bn,38,84343
+Personnel_01235,2nd Bn,25,45144
+Personnel_01236,Ops,44,108960
+Personnel_01237,2nd Bn,49,118493
+Personnel_01238,Signals,23,52860
+Personnel_01239,Ops,35,42273
+Personnel_01240,Signals,47,59407
+Personnel_01241,Ops,44,55314
+Personnel_01242,2nd Bn,40,115960
+Personnel_01243,Ops,37,109591
+Personnel_01244,Signals,48,102901
+Personnel_01245,2nd Bn,43,60982
+Personnel_01246,Ops,45,47775
+Personnel_01247,1st Bn,39,83749
+Personnel_01248,Ops,32,92195
+Personnel_01249,1st Bn,47,36832
+Personnel_01250,1st Bn,37,56061
+Personnel_01251,1st Bn,21,40126
+Personnel_01252,1st Bn,38,111568
+Personnel_01253,Signals,51,114012
+Personnel_01254,HQ Coy,21,98829
+Personnel_01255,Signals,24,35620
+Personnel_01256,Signals,43,118466
+Personnel_01257,Ops,45,66367
+Personnel_01258,Signals,26,53632
+Personnel_01259,Ops,31,115571
+Personnel_01260,Signals,25,81571
+Personnel_01261,2nd Bn,23,59196
+Personnel_01262,HQ Coy,50,100183
+Personnel_01263,1st Bn,38,54621
+Personnel_01264,1st Bn,22,64320
+Personnel_01265,3rd Bn,36,70338
+Personnel_01266,3rd Bn,35,100842
+Personnel_01267,Ops,25,119505
+Personnel_01268,Ops,27,35106
+Personnel_01269,HQ Coy,53,60695
+Personnel_01270,Ops,25,62379
+Personnel_01271,2nd Bn,40,60515
+Personnel_01272,2nd Bn,22,35951
+Personnel_01273,2nd Bn,50,71607
+Personnel_01274,Ops,30,80504
+Personnel_01275,3rd Bn,52,57174
+Personnel_01276,HQ Coy,54,107407
+Personnel_01277,Signals,48,118409
+Personnel_01278,HQ Coy,41,64805
+Personnel_01279,HQ Coy,35,106534
+Personnel_01280,1st Bn,44,64150
+Personnel_01281,HQ Coy,46,67011
+Personnel_01282,1st Bn,32,112173
+Personnel_01283,Signals,30,96700
+Personnel_01284,1st Bn,44,80850
+Personnel_01285,Ops,24,87455
+Personnel_01286,1st Bn,40,69771
+Personnel_01287,Ops,48,99681
+Personnel_01288,1st Bn,44,114394
+Personnel_01289,1st Bn,21,97343
+Personnel_01290,Ops,34,54099
+Personnel_01291,HQ Coy,42,98732
+Personnel_01292,3rd Bn,27,100198
+Personnel_01293,3rd Bn,42,118671
+Personnel_01294,2nd Bn,43,38147
+Personnel_01295,Signals,38,37785
+Personnel_01296,2nd Bn,26,61507
+Personnel_01297,3rd Bn,24,78700
+Personnel_01298,2nd Bn,23,57435
+Personnel_01299,Signals,30,60640
+Personnel_01300,3rd Bn,50,60475
+Personnel_01301,1st Bn,32,63851
+Personnel_01302,Ops,21,57993
+Personnel_01303,3rd Bn,22,81674
+Personnel_01304,2nd Bn,37,41082
+Personnel_01305,1st Bn,29,105872
+Personnel_01306,3rd Bn,44,56533
+Personnel_01307,1st Bn,45,77858
+Personnel_01308,Ops,21,82021
+Personnel_01309,1st Bn,25,90098
+Personnel_01310,2nd Bn,22,95291
+Personnel_01311,Signals,46,106394
+Personnel_01312,3rd Bn,30,36442
+Personnel_01313,3rd Bn,25,48002
+Personnel_01314,2nd Bn,27,36296
+Personnel_01315,HQ Coy,29,106472
+Personnel_01316,3rd Bn,25,111259
+Personnel_01317,2nd Bn,44,35345
+Personnel_01318,Ops,38,101209
+Personnel_01319,HQ Coy,24,41823
+Personnel_01320,Ops,32,97934
+Personnel_01321,Ops,27,55251
+Personnel_01322,1st Bn,39,62670
+Personnel_01323,Ops,24,83890
+Personnel_01324,HQ Coy,47,52630
+Personnel_01325,3rd Bn,26,78414
+Personnel_01326,Ops,52,55896
+Personnel_01327,1st Bn,54,74904
+Personnel_01328,HQ Coy,47,51040
+Personnel_01329,Ops,22,36772
+Personnel_01330,2nd Bn,39,42260
+Personnel_01331,HQ Coy,48,69692
+Personnel_01332,2nd Bn,54,46755
+Personnel_01333,1st Bn,38,104285
+Personnel_01334,Ops,43,73805
+Personnel_01335,Ops,52,42738
+Personnel_01336,1st Bn,46,89450
+Personnel_01337,HQ Coy,38,94154
+Personnel_01338,Ops,44,93949
+Personnel_01339,Signals,25,84692
+Personnel_01340,3rd Bn,28,109204
+Personnel_01341,Signals,42,105708
+Personnel_01342,3rd Bn,27,117898
+Personnel_01343,1st Bn,39,94805
+Personnel_01344,3rd Bn,43,41878
+Personnel_01345,Ops,46,94556
+Personnel_01346,Ops,41,54067
+Personnel_01347,1st Bn,54,94790
+Personnel_01348,Signals,29,111896
+Personnel_01349,Signals,22,61818
+Personnel_01350,1st Bn,46,77401
+Personnel_01351,3rd Bn,38,110168
+Personnel_01352,2nd Bn,21,102347
+Personnel_01353,3rd Bn,34,68247
+Personnel_01354,Ops,28,61168
+Personnel_01355,HQ Coy,51,83687
+Personnel_01356,1st Bn,24,75614
+Personnel_01357,Ops,25,64704
+Personnel_01358,2nd Bn,52,38317
+Personnel_01359,1st Bn,21,82817
+Personnel_01360,Signals,33,68818
+Personnel_01361,Signals,50,104353
+Personnel_01362,1st Bn,29,118933
+Personnel_01363,Signals,38,49518
+Personnel_01364,1st Bn,48,111943
+Personnel_01365,Ops,31,72392
+Personnel_01366,3rd Bn,37,112540
+Personnel_01367,HQ Coy,50,113147
+Personnel_01368,2nd Bn,40,66905
+Personnel_01369,3rd Bn,43,44986
+Personnel_01370,Signals,42,107150
+Personnel_01371,HQ Coy,48,43316
+Personnel_01372,3rd Bn,43,103068
+Personnel_01373,1st Bn,23,40353
+Personnel_01374,2nd Bn,35,115233
+Personnel_01375,1st Bn,31,50742
+Personnel_01376,Ops,29,113254
+Personnel_01377,1st Bn,45,91415
+Personnel_01378,3rd Bn,40,44622
+Personnel_01379,HQ Coy,49,109336
+Personnel_01380,2nd Bn,40,70888
+Personnel_01381,3rd Bn,26,42571
+Personnel_01382,1st Bn,27,117396
+Personnel_01383,2nd Bn,46,43415
+Personnel_01384,Ops,28,82741
+Personnel_01385,Signals,42,51405
+Personnel_01386,Ops,42,40053
+Personnel_01387,2nd Bn,49,41800
+Personnel_01388,Ops,35,93444
+Personnel_01389,HQ Coy,30,46892
+Personnel_01390,1st Bn,22,59723
+Personnel_01391,3rd Bn,46,45005
+Personnel_01392,3rd Bn,30,80451
+Personnel_01393,Ops,23,91329
+Personnel_01394,Ops,23,109604
+Personnel_01395,HQ Coy,52,103552
+Personnel_01396,Ops,28,79817
+Personnel_01397,2nd Bn,27,52898
+Personnel_01398,Signals,42,68905
+Personnel_01399,HQ Coy,28,80703
+Personnel_01400,1st Bn,37,111763
+Personnel_01401,Signals,35,36003
+Personnel_01402,Ops,24,56898
+Personnel_01403,1st Bn,45,118278
+Personnel_01404,Ops,51,117206
+Personnel_01405,Signals,39,102733
+Personnel_01406,Ops,45,67877
+Personnel_01407,HQ Coy,25,45342
+Personnel_01408,Signals,54,66061
+Personnel_01409,HQ Coy,35,74558
+Personnel_01410,Ops,51,64686
+Personnel_01411,1st Bn,29,87464
+Personnel_01412,1st Bn,37,87409
+Personnel_01413,Ops,32,49814
+Personnel_01414,3rd Bn,38,88464
+Personnel_01415,Ops,33,52950
+Personnel_01416,Ops,26,40148
+Personnel_01417,HQ Coy,37,50643
+Personnel_01418,3rd Bn,29,67451
+Personnel_01419,3rd Bn,37,81419
+Personnel_01420,Signals,53,40837
+Personnel_01421,2nd Bn,32,38210
+Personnel_01422,Signals,30,42885
+Personnel_01423,2nd Bn,21,72390
+Personnel_01424,1st Bn,23,68961
+Personnel_01425,3rd Bn,45,46370
+Personnel_01426,1st Bn,25,92980
+Personnel_01427,1st Bn,41,112278
+Personnel_01428,3rd Bn,37,105206
+Personnel_01429,1st Bn,37,85840
+Personnel_01430,Signals,49,39731
+Personnel_01431,HQ Coy,44,91130
+Personnel_01432,3rd Bn,42,80600
+Personnel_01433,3rd Bn,48,51251
+Personnel_01434,Signals,32,53835
+Personnel_01435,Ops,31,106800
+Personnel_01436,Signals,54,48988
+Personnel_01437,Ops,43,55826
+Personnel_01438,2nd Bn,35,106282
+Personnel_01439,HQ Coy,46,78268
+Personnel_01440,1st Bn,42,47806
+Personnel_01441,2nd Bn,27,110390
+Personnel_01442,2nd Bn,50,93093
+Personnel_01443,Signals,46,106040
+Personnel_01444,Signals,23,99730
+Personnel_01445,Signals,28,78792
+Personnel_01446,HQ Coy,28,44233
+Personnel_01447,1st Bn,40,47243
+Personnel_01448,1st Bn,41,58941
+Personnel_01449,HQ Coy,25,105619
+Personnel_01450,Signals,51,63997
+Personnel_01451,2nd Bn,41,103682
+Personnel_01452,2nd Bn,45,109203
+Personnel_01453,3rd Bn,49,95067
+Personnel_01454,2nd Bn,29,115665
+Personnel_01455,3rd Bn,25,45695
+Personnel_01456,Ops,28,117091
+Personnel_01457,3rd Bn,49,45262
+Personnel_01458,3rd Bn,45,46743
+Personnel_01459,Signals,48,104227
+Personnel_01460,HQ Coy,33,51875
+Personnel_01461,Signals,31,38272
+Personnel_01462,Ops,53,103511
+Personnel_01463,Signals,27,110496
+Personnel_01464,2nd Bn,48,47213
+Personnel_01465,Signals,23,38989
+Personnel_01466,1st Bn,51,55071
+Personnel_01467,Ops,52,115303
+Personnel_01468,2nd Bn,42,64955
+Personnel_01469,2nd Bn,24,104365
+Personnel_01470,3rd Bn,39,57053
+Personnel_01471,HQ Coy,37,93993
+Personnel_01472,2nd Bn,44,64382
+Personnel_01473,1st Bn,32,110575
+Personnel_01474,2nd Bn,50,92569
+Personnel_01475,3rd Bn,33,55197
+Personnel_01476,HQ Coy,43,81487
+Personnel_01477,1st Bn,37,44883
+Personnel_01478,1st Bn,53,86293
+Personnel_01479,Ops,47,115682
+Personnel_01480,HQ Coy,50,91887
+Personnel_01481,2nd Bn,35,93366
+Personnel_01482,1st Bn,31,82175
+Personnel_01483,2nd Bn,54,99161
+Personnel_01484,1st Bn,42,102782
+Personnel_01485,1st Bn,42,91786
+Personnel_01486,3rd Bn,41,53420
+Personnel_01487,3rd Bn,29,36136
+Personnel_01488,3rd Bn,34,118192
+Personnel_01489,Signals,33,81289
+Personnel_01490,Signals,54,87574
+Personnel_01491,HQ Coy,35,84292
+Personnel_01492,Signals,33,53671
+Personnel_01493,Ops,42,63545
+Personnel_01494,3rd Bn,32,112818
+Personnel_01495,1st Bn,46,105714
+Personnel_01496,HQ Coy,52,78248
+Personnel_01497,2nd Bn,40,39525
+Personnel_01498,1st Bn,24,83743
+Personnel_01499,2nd Bn,22,51765
+Personnel_01500,Ops,32,58930
+Personnel_01501,2nd Bn,42,38043
+Personnel_01502,Ops,47,68819
+Personnel_01503,2nd Bn,47,63870
+Personnel_01504,Signals,22,43376
+Personnel_01505,1st Bn,46,98693
+Personnel_01506,Signals,43,114729
+Personnel_01507,HQ Coy,35,67037
+Personnel_01508,HQ Coy,32,72619
+Personnel_01509,2nd Bn,39,62831
+Personnel_01510,3rd Bn,45,102346
+Personnel_01511,HQ Coy,37,49101
+Personnel_01512,2nd Bn,45,109808
+Personnel_01513,HQ Coy,53,99043
+Personnel_01514,Ops,41,96717
+Personnel_01515,1st Bn,22,113868
+Personnel_01516,3rd Bn,46,72231
+Personnel_01517,HQ Coy,52,105968
+Personnel_01518,3rd Bn,48,64465
+Personnel_01519,HQ Coy,29,100617
+Personnel_01520,3rd Bn,30,52982
+Personnel_01521,1st Bn,38,82095
+Personnel_01522,Signals,49,117410
+Personnel_01523,HQ Coy,29,50597
+Personnel_01524,Signals,45,99719
+Personnel_01525,1st Bn,28,116712
+Personnel_01526,3rd Bn,33,107523
+Personnel_01527,1st Bn,54,59086
+Personnel_01528,Ops,35,119881
+Personnel_01529,Ops,37,68183
+Personnel_01530,3rd Bn,51,90926
+Personnel_01531,HQ Coy,36,85396
+Personnel_01532,Ops,24,68149
+Personnel_01533,1st Bn,43,114171
+Personnel_01534,HQ Coy,46,92641
+Personnel_01535,1st Bn,40,81131
+Personnel_01536,2nd Bn,52,40053
+Personnel_01537,Ops,41,101025
+Personnel_01538,Ops,29,84123
+Personnel_01539,Ops,42,57432
+Personnel_01540,HQ Coy,52,83593
+Personnel_01541,3rd Bn,42,107633
+Personnel_01542,Ops,26,55376
+Personnel_01543,2nd Bn,23,107663
+Personnel_01544,1st Bn,54,97615
+Personnel_01545,3rd Bn,31,55598
+Personnel_01546,Ops,29,94791
+Personnel_01547,2nd Bn,49,48558
+Personnel_01548,HQ Coy,46,78144
+Personnel_01549,Ops,32,46169
+Personnel_01550,Signals,40,71191
+Personnel_01551,HQ Coy,29,102613
+Personnel_01552,3rd Bn,52,43080
+Personnel_01553,1st Bn,42,55497
+Personnel_01554,3rd Bn,42,38316
+Personnel_01555,2nd Bn,50,83075
+Personnel_01556,Signals,52,103816
+Personnel_01557,HQ Coy,47,40321
+Personnel_01558,Ops,46,76926
+Personnel_01559,1st Bn,38,75773
+Personnel_01560,2nd Bn,35,37904
+Personnel_01561,3rd Bn,51,41127
+Personnel_01562,2nd Bn,46,37462
+Personnel_01563,1st Bn,38,39465
+Personnel_01564,HQ Coy,52,53591
+Personnel_01565,2nd Bn,33,72712
+Personnel_01566,Signals,27,70799
+Personnel_01567,3rd Bn,34,50513
+Personnel_01568,Ops,38,95378
+Personnel_01569,Ops,34,35310
+Personnel_01570,3rd Bn,40,66458
+Personnel_01571,HQ Coy,33,43730
+Personnel_01572,3rd Bn,52,80171
+Personnel_01573,HQ Coy,41,40990
+Personnel_01574,3rd Bn,30,116465
+Personnel_01575,2nd Bn,31,84295
+Personnel_01576,3rd Bn,34,82623
+Personnel_01577,3rd Bn,21,96432
+Personnel_01578,1st Bn,46,90919
+Personnel_01579,Signals,24,49105
+Personnel_01580,2nd Bn,27,102831
+Personnel_01581,3rd Bn,35,100600
+Personnel_01582,Signals,44,94894
+Personnel_01583,2nd Bn,45,108134
+Personnel_01584,2nd Bn,52,106906
+Personnel_01585,1st Bn,34,92177
+Personnel_01586,HQ Coy,37,57877
+Personnel_01587,2nd Bn,32,80685
+Personnel_01588,Signals,44,86653
+Personnel_01589,1st Bn,45,112187
+Personnel_01590,1st Bn,24,51093
+Personnel_01591,2nd Bn,25,67303
+Personnel_01592,Signals,43,73414
+Personnel_01593,Signals,22,60071
+Personnel_01594,Ops,31,108112
+Personnel_01595,Ops,28,62049
+Personnel_01596,Ops,29,59490
+Personnel_01597,2nd Bn,40,51596
+Personnel_01598,3rd Bn,30,54213
+Personnel_01599,Ops,23,84918
+Personnel_01600,Ops,24,112236
+Personnel_01601,Signals,30,63055
+Personnel_01602,Ops,28,41581
+Personnel_01603,1st Bn,41,77133
+Personnel_01604,HQ Coy,41,52533
+Personnel_01605,2nd Bn,52,88963
+Personnel_01606,2nd Bn,33,87128
+Personnel_01607,Ops,26,45818
+Personnel_01608,1st Bn,41,64743
+Personnel_01609,2nd Bn,38,62074
+Personnel_01610,3rd Bn,39,78710
+Personnel_01611,HQ Coy,47,102032
+Personnel_01612,2nd Bn,21,104732
+Personnel_01613,3rd Bn,21,85520
+Personnel_01614,1st Bn,25,79159
+Personnel_01615,1st Bn,35,107048
+Personnel_01616,Ops,24,77176
+Personnel_01617,3rd Bn,27,97169
+Personnel_01618,Signals,33,65343
+Personnel_01619,1st Bn,41,105300
+Personnel_01620,3rd Bn,42,82198
+Personnel_01621,3rd Bn,52,69932
+Personnel_01622,1st Bn,51,47208
+Personnel_01623,2nd Bn,54,72191
+Personnel_01624,HQ Coy,52,110774
+Personnel_01625,2nd Bn,22,35407
+Personnel_01626,1st Bn,40,117168
+Personnel_01627,1st Bn,32,105683
+Personnel_01628,Ops,50,112808
+Personnel_01629,2nd Bn,51,113672
+Personnel_01630,2nd Bn,23,84813
+Personnel_01631,1st Bn,27,94801
+Personnel_01632,Ops,34,66058
+Personnel_01633,3rd Bn,52,93872
+Personnel_01634,Signals,48,77696
+Personnel_01635,HQ Coy,32,90194
+Personnel_01636,Ops,28,90724
+Personnel_01637,Ops,47,37900
+Personnel_01638,3rd Bn,25,43116
+Personnel_01639,2nd Bn,41,86512
+Personnel_01640,HQ Coy,49,112062
+Personnel_01641,Signals,24,58862
+Personnel_01642,Ops,26,74935
+Personnel_01643,1st Bn,30,116357
+Personnel_01644,HQ Coy,24,39542
+Personnel_01645,Ops,37,105932
+Personnel_01646,HQ Coy,29,75033
+Personnel_01647,Ops,25,94344
+Personnel_01648,HQ Coy,26,92991
+Personnel_01649,Ops,44,91182
+Personnel_01650,Ops,52,54042
+Personnel_01651,HQ Coy,43,92609
+Personnel_01652,HQ Coy,23,79376
+Personnel_01653,Signals,40,77959
+Personnel_01654,2nd Bn,29,70187
+Personnel_01655,3rd Bn,36,62525
+Personnel_01656,HQ Coy,29,81264
+Personnel_01657,2nd Bn,27,108562
+Personnel_01658,Signals,33,66867
+Personnel_01659,Signals,22,106634
+Personnel_01660,Signals,26,74308
+Personnel_01661,3rd Bn,51,111372
+Personnel_01662,Signals,42,44352
+Personnel_01663,1st Bn,46,52578
+Personnel_01664,HQ Coy,43,79425
+Personnel_01665,Signals,41,66807
+Personnel_01666,1st Bn,37,54699
+Personnel_01667,3rd Bn,29,52541
+Personnel_01668,3rd Bn,34,117642
+Personnel_01669,1st Bn,22,101606
+Personnel_01670,3rd Bn,32,68082
+Personnel_01671,3rd Bn,29,117683
+Personnel_01672,1st Bn,22,71338
+Personnel_01673,HQ Coy,38,37454
+Personnel_01674,Ops,23,84203
+Personnel_01675,3rd Bn,53,66794
+Personnel_01676,2nd Bn,26,97676
+Personnel_01677,Signals,22,108177
+Personnel_01678,3rd Bn,22,81925
+Personnel_01679,2nd Bn,46,108524
+Personnel_01680,2nd Bn,44,118058
+Personnel_01681,Signals,26,92516
+Personnel_01682,Ops,41,50297
+Personnel_01683,2nd Bn,39,107548
+Personnel_01684,2nd Bn,36,98862
+Personnel_01685,Ops,47,119753
+Personnel_01686,Ops,51,105388
+Personnel_01687,HQ Coy,42,79321
+Personnel_01688,HQ Coy,35,104918
+Personnel_01689,1st Bn,22,88476
+Personnel_01690,3rd Bn,24,104883
+Personnel_01691,3rd Bn,41,39936
+Personnel_01692,3rd Bn,21,69240
+Personnel_01693,Ops,33,79186
+Personnel_01694,HQ Coy,41,72768
+Personnel_01695,Signals,33,58619
+Personnel_01696,3rd Bn,38,106156
+Personnel_01697,Signals,46,44844
+Personnel_01698,2nd Bn,28,70323
+Personnel_01699,1st Bn,27,47665
+Personnel_01700,Ops,39,76350
+Personnel_01701,1st Bn,33,47743
+Personnel_01702,2nd Bn,52,100461
+Personnel_01703,3rd Bn,44,117561
+Personnel_01704,2nd Bn,52,37122
+Personnel_01705,Signals,47,74022
+Personnel_01706,Signals,47,69966
+Personnel_01707,2nd Bn,38,117792
+Personnel_01708,3rd Bn,54,113175
+Personnel_01709,2nd Bn,34,50001
+Personnel_01710,3rd Bn,27,91112
+Personnel_01711,3rd Bn,54,47078
+Personnel_01712,3rd Bn,39,110622
+Personnel_01713,HQ Coy,41,69799
+Personnel_01714,1st Bn,49,79576
+Personnel_01715,3rd Bn,40,92277
+Personnel_01716,3rd Bn,21,50044
+Personnel_01717,Signals,32,112479
+Personnel_01718,1st Bn,44,85032
+Personnel_01719,HQ Coy,35,43036
+Personnel_01720,Ops,38,92383
+Personnel_01721,1st Bn,38,94778
+Personnel_01722,1st Bn,32,110291
+Personnel_01723,3rd Bn,22,70191
+Personnel_01724,1st Bn,41,110093
+Personnel_01725,Signals,23,116342
+Personnel_01726,1st Bn,43,116254
+Personnel_01727,2nd Bn,31,50652
+Personnel_01728,1st Bn,31,44627
+Personnel_01729,HQ Coy,37,58811
+Personnel_01730,Ops,28,119447
+Personnel_01731,3rd Bn,23,47458
+Personnel_01732,Signals,47,38963
+Personnel_01733,Signals,29,81961
+Personnel_01734,HQ Coy,24,102983
+Personnel_01735,HQ Coy,46,107422
+Personnel_01736,HQ Coy,22,111284
+Personnel_01737,2nd Bn,25,73711
+Personnel_01738,HQ Coy,24,60159
+Personnel_01739,2nd Bn,28,50384
+Personnel_01740,HQ Coy,21,66287
+Personnel_01741,2nd Bn,41,45688
+Personnel_01742,Signals,30,58180
+Personnel_01743,Signals,52,118440
+Personnel_01744,1st Bn,30,59014
+Personnel_01745,Ops,28,91171
+Personnel_01746,1st Bn,43,42365
+Personnel_01747,Ops,30,86418
+Personnel_01748,Ops,38,67638
+Personnel_01749,3rd Bn,44,114941
+Personnel_01750,3rd Bn,39,107349
+Personnel_01751,HQ Coy,54,37251
+Personnel_01752,2nd Bn,45,54589
+Personnel_01753,Signals,53,63408
+Personnel_01754,Ops,42,39432
+Personnel_01755,2nd Bn,21,96235
+Personnel_01756,Ops,43,76932
+Personnel_01757,Signals,23,65976
+Personnel_01758,3rd Bn,50,115406
+Personnel_01759,1st Bn,25,53283
+Personnel_01760,3rd Bn,34,100412
+Personnel_01761,2nd Bn,34,50138
+Personnel_01762,Ops,39,117017
+Personnel_01763,2nd Bn,23,115403
+Personnel_01764,1st Bn,25,100269
+Personnel_01765,2nd Bn,26,111792
+Personnel_01766,HQ Coy,33,79833
+Personnel_01767,Ops,40,75925
+Personnel_01768,2nd Bn,46,52791
+Personnel_01769,2nd Bn,33,100531
+Personnel_01770,3rd Bn,52,79590
+Personnel_01771,Ops,50,60820
+Personnel_01772,2nd Bn,44,112705
+Personnel_01773,1st Bn,32,98659
+Personnel_01774,1st Bn,47,79946
+Personnel_01775,HQ Coy,45,77834
+Personnel_01776,2nd Bn,50,90857
+Personnel_01777,3rd Bn,38,53690
+Personnel_01778,3rd Bn,50,41377
+Personnel_01779,2nd Bn,45,101515
+Personnel_01780,3rd Bn,53,59406
+Personnel_01781,1st Bn,50,69053
+Personnel_01782,Ops,34,80124
+Personnel_01783,3rd Bn,45,58029
+Personnel_01784,3rd Bn,43,76282
+Personnel_01785,HQ Coy,25,47993
+Personnel_01786,HQ Coy,30,66787
+Personnel_01787,Signals,44,110741
+Personnel_01788,1st Bn,32,100652
+Personnel_01789,1st Bn,48,53686
+Personnel_01790,Ops,31,85162
+Personnel_01791,3rd Bn,48,44856
+Personnel_01792,Ops,34,110545
+Personnel_01793,1st Bn,30,61477
+Personnel_01794,1st Bn,24,88571
+Personnel_01795,Ops,45,82518
+Personnel_01796,Ops,41,102376
+Personnel_01797,3rd Bn,29,87246
+Personnel_01798,Ops,49,105077
+Personnel_01799,Signals,37,94339
+Personnel_01800,Ops,45,79295
+Personnel_01801,3rd Bn,30,113218
+Personnel_01802,HQ Coy,52,93585
+Personnel_01803,Ops,54,44795
+Personnel_01804,HQ Coy,30,47156
+Personnel_01805,Ops,46,83056
+Personnel_01806,3rd Bn,31,50647
+Personnel_01807,Ops,21,41054
+Personnel_01808,2nd Bn,25,66706
+Personnel_01809,2nd Bn,22,65033
+Personnel_01810,HQ Coy,21,117470
+Personnel_01811,Signals,36,112376
+Personnel_01812,Signals,40,57793
+Personnel_01813,Ops,45,106469
+Personnel_01814,1st Bn,33,118184
+Personnel_01815,2nd Bn,50,109832
+Personnel_01816,2nd Bn,51,95672
+Personnel_01817,3rd Bn,21,55759
+Personnel_01818,2nd Bn,45,52784
+Personnel_01819,1st Bn,23,69433
+Personnel_01820,2nd Bn,41,38451
+Personnel_01821,HQ Coy,45,54373
+Personnel_01822,Ops,45,102560
+Personnel_01823,Signals,37,64388
+Personnel_01824,Signals,22,77868
+Personnel_01825,HQ Coy,51,91159
+Personnel_01826,HQ Coy,22,116833
+Personnel_01827,Signals,42,42412
+Personnel_01828,1st Bn,50,75282
+Personnel_01829,2nd Bn,52,96913
+Personnel_01830,HQ Coy,22,72724
+Personnel_01831,3rd Bn,33,98190
+Personnel_01832,HQ Coy,48,56932
+Personnel_01833,2nd Bn,46,76919
+Personnel_01834,2nd Bn,22,104922
+Personnel_01835,3rd Bn,40,92763
+Personnel_01836,Signals,32,46084
+Personnel_01837,1st Bn,24,40164
+Personnel_01838,3rd Bn,25,66153
+Personnel_01839,3rd Bn,45,70730
+Personnel_01840,1st Bn,54,109011
+Personnel_01841,HQ Coy,37,103231
+Personnel_01842,Signals,42,59910
+Personnel_01843,Signals,33,86042
+Personnel_01844,HQ Coy,28,79731
+Personnel_01845,2nd Bn,36,35753
+Personnel_01846,3rd Bn,44,82043
+Personnel_01847,HQ Coy,48,55299
+Personnel_01848,Signals,35,89075
+Personnel_01849,1st Bn,31,103557
+Personnel_01850,HQ Coy,33,118320
+Personnel_01851,2nd Bn,40,111191
+Personnel_01852,HQ Coy,39,98197
+Personnel_01853,Signals,27,118009
+Personnel_01854,HQ Coy,25,35476
+Personnel_01855,HQ Coy,32,74254
+Personnel_01856,3rd Bn,42,54352
+Personnel_01857,2nd Bn,53,114045
+Personnel_01858,2nd Bn,27,108029
+Personnel_01859,Signals,32,112678
+Personnel_01860,1st Bn,23,65507
+Personnel_01861,3rd Bn,45,114721
+Personnel_01862,1st Bn,21,54091
+Personnel_01863,Signals,54,68159
+Personnel_01864,3rd Bn,35,54862
+Personnel_01865,HQ Coy,54,93853
+Personnel_01866,Ops,29,104019
+Personnel_01867,2nd Bn,22,88665
+Personnel_01868,Ops,53,87047
+Personnel_01869,Ops,51,81312
+Personnel_01870,HQ Coy,43,97652
+Personnel_01871,Signals,32,68381
+Personnel_01872,HQ Coy,33,79560
+Personnel_01873,1st Bn,38,71155
+Personnel_01874,3rd Bn,27,88976
+Personnel_01875,3rd Bn,25,96918
+Personnel_01876,Ops,50,49073
+Personnel_01877,Signals,45,51754
+Personnel_01878,2nd Bn,51,51089
+Personnel_01879,3rd Bn,30,58393
+Personnel_01880,3rd Bn,31,74554
+Personnel_01881,Ops,34,104661
+Personnel_01882,1st Bn,52,66740
+Personnel_01883,1st Bn,39,108969
+Personnel_01884,HQ Coy,45,78163
+Personnel_01885,3rd Bn,38,101477
+Personnel_01886,Ops,33,118402
+Personnel_01887,1st Bn,29,41242
+Personnel_01888,Ops,30,98743
+Personnel_01889,Signals,22,69857
+Personnel_01890,2nd Bn,48,113965
+Personnel_01891,1st Bn,23,98194
+Personnel_01892,1st Bn,21,50777
+Personnel_01893,2nd Bn,37,68949
+Personnel_01894,Ops,50,106860
+Personnel_01895,Ops,54,65914
+Personnel_01896,1st Bn,45,110891
+Personnel_01897,1st Bn,31,59367
+Personnel_01898,Ops,32,55889
+Personnel_01899,3rd Bn,39,98114
+Personnel_01900,1st Bn,23,108531
+Personnel_01901,Ops,31,101275
+Personnel_01902,3rd Bn,43,114534
+Personnel_01903,2nd Bn,38,82986
+Personnel_01904,3rd Bn,54,100562
+Personnel_01905,Ops,26,56574
+Personnel_01906,HQ Coy,29,113203
+Personnel_01907,1st Bn,29,40345
+Personnel_01908,1st Bn,24,76385
+Personnel_01909,Ops,28,38541
+Personnel_01910,Signals,27,52192
+Personnel_01911,3rd Bn,53,40683
+Personnel_01912,1st Bn,46,44958
+Personnel_01913,2nd Bn,24,48137
+Personnel_01914,3rd Bn,45,69795
+Personnel_01915,1st Bn,23,41301
+Personnel_01916,Ops,54,68967
+Personnel_01917,2nd Bn,35,44735
+Personnel_01918,2nd Bn,34,60873
+Personnel_01919,Signals,21,66922
+Personnel_01920,HQ Coy,28,95508
+Personnel_01921,2nd Bn,49,74176
+Personnel_01922,Ops,43,116143
+Personnel_01923,Signals,28,114819
+Personnel_01924,1st Bn,45,52115
+Personnel_01925,HQ Coy,32,42754
+Personnel_01926,2nd Bn,41,53722
+Personnel_01927,1st Bn,53,62043
+Personnel_01928,Signals,26,91185
+Personnel_01929,Signals,24,102342
+Personnel_01930,2nd Bn,39,93041
+Personnel_01931,3rd Bn,22,72938
+Personnel_01932,1st Bn,39,97722
+Personnel_01933,Ops,34,39005
+Personnel_01934,Ops,52,89128
+Personnel_01935,3rd Bn,47,83680
+Personnel_01936,3rd Bn,29,67081
+Personnel_01937,2nd Bn,28,37499
+Personnel_01938,2nd Bn,39,81550
+Personnel_01939,Signals,35,65857
+Personnel_01940,Ops,32,41041
+Personnel_01941,Ops,43,36916
+Personnel_01942,3rd Bn,40,38133
+Personnel_01943,HQ Coy,32,89318
+Personnel_01944,Ops,28,36661
+Personnel_01945,HQ Coy,29,54082
+Personnel_01946,Ops,26,37262
+Personnel_01947,Signals,50,114371
+Personnel_01948,3rd Bn,43,93219
+Personnel_01949,3rd Bn,21,100123
+Personnel_01950,Ops,44,64950
+Personnel_01951,3rd Bn,26,96096
+Personnel_01952,Signals,54,73579
+Personnel_01953,HQ Coy,31,66467
+Personnel_01954,Ops,52,82954
+Personnel_01955,HQ Coy,51,45352
+Personnel_01956,HQ Coy,51,53879
+Personnel_01957,Ops,50,50025
+Personnel_01958,Ops,47,85109
+Personnel_01959,3rd Bn,49,83675
+Personnel_01960,1st Bn,54,46842
+Personnel_01961,1st Bn,46,58421
+Personnel_01962,3rd Bn,23,36181
+Personnel_01963,HQ Coy,47,63970
+Personnel_01964,1st Bn,27,62815
+Personnel_01965,1st Bn,50,51857
+Personnel_01966,2nd Bn,50,44101
+Personnel_01967,Signals,28,65739
+Personnel_01968,HQ Coy,32,64932
+Personnel_01969,2nd Bn,30,45024
+Personnel_01970,1st Bn,42,112274
+Personnel_01971,1st Bn,32,39428
+Personnel_01972,3rd Bn,49,93686
+Personnel_01973,2nd Bn,28,89606
+Personnel_01974,Signals,36,56034
+Personnel_01975,Ops,22,110488
+Personnel_01976,2nd Bn,45,98155
+Personnel_01977,2nd Bn,47,83038
+Personnel_01978,2nd Bn,47,85857
+Personnel_01979,Signals,54,102546
+Personnel_01980,1st Bn,42,45909
+Personnel_01981,Ops,48,63160
+Personnel_01982,3rd Bn,21,51400
+Personnel_01983,1st Bn,39,83845
+Personnel_01984,3rd Bn,35,94222
+Personnel_01985,Ops,24,51570
+Personnel_01986,HQ Coy,35,36374
+Personnel_01987,3rd Bn,32,71921
+Personnel_01988,2nd Bn,38,57110
+Personnel_01989,HQ Coy,41,119864
+Personnel_01990,Ops,31,59476
+Personnel_01991,1st Bn,24,78564
+Personnel_01992,2nd Bn,37,109340
+Personnel_01993,Ops,28,97568
+Personnel_01994,2nd Bn,41,93288
+Personnel_01995,Signals,52,52477
+Personnel_01996,HQ Coy,25,52418
+Personnel_01997,Ops,43,76085
+Personnel_01998,3rd Bn,30,52433
+Personnel_01999,Ops,41,87233
+Personnel_02000,1st Bn,35,82139
+Personnel_02001,HQ Coy,34,117368
+Personnel_02002,1st Bn,24,79324
+Personnel_02003,Ops,24,79028
+Personnel_02004,1st Bn,33,111179
+Personnel_02005,Signals,38,86691
+Personnel_02006,2nd Bn,25,60755
+Personnel_02007,2nd Bn,24,86150
+Personnel_02008,Signals,37,51728
+Personnel_02009,1st Bn,28,90870
+Personnel_02010,2nd Bn,44,43876
+Personnel_02011,Signals,35,53666
+Personnel_02012,HQ Coy,49,45316
+Personnel_02013,3rd Bn,39,113105
+Personnel_02014,Ops,33,109729
+Personnel_02015,1st Bn,21,83795
+Personnel_02016,Ops,22,66300
+Personnel_02017,1st Bn,28,57194
+Personnel_02018,2nd Bn,31,71097
+Personnel_02019,Signals,37,85553
+Personnel_02020,3rd Bn,22,82038
+Personnel_02021,3rd Bn,42,41857
+Personnel_02022,3rd Bn,29,39494
+Personnel_02023,2nd Bn,47,50716
+Personnel_02024,HQ Coy,26,112876
+Personnel_02025,3rd Bn,34,118946
+Personnel_02026,HQ Coy,46,80099
+Personnel_02027,Signals,25,35634
+Personnel_02028,2nd Bn,28,86892
+Personnel_02029,2nd Bn,54,49291
+Personnel_02030,HQ Coy,32,95074
+Personnel_02031,HQ Coy,51,113641
+Personnel_02032,2nd Bn,38,59113
+Personnel_02033,Signals,29,105339
+Personnel_02034,1st Bn,38,101081
+Personnel_02035,1st Bn,34,87983
+Personnel_02036,Ops,34,63390
+Personnel_02037,3rd Bn,25,48871
+Personnel_02038,HQ Coy,27,99807
+Personnel_02039,3rd Bn,31,110417
+Personnel_02040,3rd Bn,29,61818
+Personnel_02041,1st Bn,38,96826
+Personnel_02042,HQ Coy,31,112835
+Personnel_02043,Signals,50,107349
+Personnel_02044,HQ Coy,31,76114
+Personnel_02045,Ops,51,95249
+Personnel_02046,1st Bn,49,65957
+Personnel_02047,1st Bn,33,64142
+Personnel_02048,2nd Bn,38,83254
+Personnel_02049,3rd Bn,29,44413
+Personnel_02050,3rd Bn,43,117995
+Personnel_02051,Signals,52,97161
+Personnel_02052,2nd Bn,45,90930
+Personnel_02053,HQ Coy,53,111185
+Personnel_02054,HQ Coy,27,95706
+Personnel_02055,2nd Bn,47,89217
+Personnel_02056,HQ Coy,40,42748
+Personnel_02057,2nd Bn,50,112105
+Personnel_02058,HQ Coy,52,52896
+Personnel_02059,2nd Bn,28,40701
+Personnel_02060,3rd Bn,31,56060
+Personnel_02061,2nd Bn,45,38862
+Personnel_02062,3rd Bn,48,81465
+Personnel_02063,2nd Bn,27,119357
+Personnel_02064,Signals,40,56279
+Personnel_02065,3rd Bn,38,60228
+Personnel_02066,Ops,36,85920
+Personnel_02067,1st Bn,38,116479
+Personnel_02068,3rd Bn,37,46978
+Personnel_02069,2nd Bn,24,76370
+Personnel_02070,1st Bn,44,97544
+Personnel_02071,Signals,27,52982
+Personnel_02072,Signals,52,86410
+Personnel_02073,1st Bn,47,89238
+Personnel_02074,2nd Bn,23,106896
+Personnel_02075,HQ Coy,33,116297
+Personnel_02076,Ops,23,43064
+Personnel_02077,2nd Bn,28,91546
+Personnel_02078,Ops,22,69706
+Personnel_02079,3rd Bn,22,72146
+Personnel_02080,1st Bn,49,86284
+Personnel_02081,Ops,22,54516
+Personnel_02082,2nd Bn,29,85360
+Personnel_02083,3rd Bn,27,82576
+Personnel_02084,3rd Bn,38,116309
+Personnel_02085,Ops,47,46696
+Personnel_02086,2nd Bn,51,49464
+Personnel_02087,Ops,54,42000
+Personnel_02088,2nd Bn,30,38381
+Personnel_02089,3rd Bn,40,113277
+Personnel_02090,1st Bn,42,50346
+Personnel_02091,Ops,47,111656
+Personnel_02092,1st Bn,25,78328
+Personnel_02093,3rd Bn,49,98446
+Personnel_02094,HQ Coy,48,59259
+Personnel_02095,HQ Coy,35,38909
+Personnel_02096,Signals,32,44513
+Personnel_02097,2nd Bn,22,45135
+Personnel_02098,2nd Bn,23,97978
+Personnel_02099,HQ Coy,32,43179
+Personnel_02100,2nd Bn,41,114540
+Personnel_02101,Signals,32,90046
+Personnel_02102,3rd Bn,26,49405
+Personnel_02103,Signals,43,79294
+Personnel_02104,Ops,49,71048
+Personnel_02105,2nd Bn,28,113475
+Personnel_02106,1st Bn,41,35121
+Personnel_02107,1st Bn,51,111952
+Personnel_02108,Ops,21,37800
+Personnel_02109,Ops,50,56674
+Personnel_02110,2nd Bn,53,90847
+Personnel_02111,1st Bn,21,109059
+Personnel_02112,HQ Coy,46,75936
+Personnel_02113,3rd Bn,30,102784
+Personnel_02114,3rd Bn,37,103195
+Personnel_02115,1st Bn,49,105991
+Personnel_02116,1st Bn,47,77540
+Personnel_02117,3rd Bn,53,69376
+Personnel_02118,2nd Bn,53,96843
+Personnel_02119,3rd Bn,53,58563
+Personnel_02120,Signals,39,48672
+Personnel_02121,Signals,42,110301
+Personnel_02122,2nd Bn,34,36978
+Personnel_02123,2nd Bn,42,97707
+Personnel_02124,1st Bn,21,115683
+Personnel_02125,HQ Coy,39,105439
+Personnel_02126,Ops,44,109731
+Personnel_02127,2nd Bn,23,67230
+Personnel_02128,1st Bn,24,73806
+Personnel_02129,2nd Bn,54,79344
+Personnel_02130,Signals,53,111513
+Personnel_02131,Signals,30,77351
+Personnel_02132,Signals,50,99968
+Personnel_02133,3rd Bn,51,105567
+Personnel_02134,Ops,29,37191
+Personnel_02135,1st Bn,35,118710
+Personnel_02136,1st Bn,44,64889
+Personnel_02137,Signals,35,60109
+Personnel_02138,Ops,31,57034
+Personnel_02139,2nd Bn,41,113673
+Personnel_02140,3rd Bn,31,59392
+Personnel_02141,3rd Bn,33,100743
+Personnel_02142,Signals,48,35083
+Personnel_02143,1st Bn,43,115483
+Personnel_02144,Signals,22,108481
+Personnel_02145,Ops,45,65972
+Personnel_02146,Ops,22,54161
+Personnel_02147,3rd Bn,31,75076
+Personnel_02148,Signals,28,38907
+Personnel_02149,Ops,28,54121
+Personnel_02150,HQ Coy,29,38368
+Personnel_02151,3rd Bn,34,87469
+Personnel_02152,HQ Coy,45,48346
+Personnel_02153,1st Bn,22,117007
+Personnel_02154,Ops,33,56531
+Personnel_02155,Signals,24,66003
+Personnel_02156,3rd Bn,28,95095
+Personnel_02157,Ops,22,63183
+Personnel_02158,HQ Coy,44,78358
+Personnel_02159,HQ Coy,33,95633
+Personnel_02160,Signals,49,100635
+Personnel_02161,2nd Bn,50,103499
+Personnel_02162,HQ Coy,23,88301
+Personnel_02163,1st Bn,47,62825
+Personnel_02164,3rd Bn,31,53328
+Personnel_02165,2nd Bn,39,84578
+Personnel_02166,Ops,38,56865
+Personnel_02167,HQ Coy,43,64255
+Personnel_02168,HQ Coy,51,108250
+Personnel_02169,1st Bn,27,58868
+Personnel_02170,3rd Bn,42,97649
+Personnel_02171,HQ Coy,54,93132
+Personnel_02172,3rd Bn,32,68948
+Personnel_02173,3rd Bn,50,39338
+Personnel_02174,Ops,31,38280
+Personnel_02175,3rd Bn,33,109622
+Personnel_02176,Signals,46,87915
+Personnel_02177,Signals,43,103127
+Personnel_02178,2nd Bn,46,91534
+Personnel_02179,2nd Bn,52,40685
+Personnel_02180,1st Bn,31,59217
+Personnel_02181,HQ Coy,49,117267
+Personnel_02182,Signals,25,115150
+Personnel_02183,Signals,28,43851
+Personnel_02184,2nd Bn,21,53921
+Personnel_02185,HQ Coy,40,35704
+Personnel_02186,Signals,24,79781
+Personnel_02187,HQ Coy,24,91696
+Personnel_02188,HQ Coy,27,70641
+Personnel_02189,HQ Coy,48,76619
+Personnel_02190,1st Bn,44,99202
+Personnel_02191,HQ Coy,54,55665
+Personnel_02192,1st Bn,26,95618
+Personnel_02193,Signals,32,38545
+Personnel_02194,HQ Coy,35,76491
+Personnel_02195,3rd Bn,52,59539
+Personnel_02196,HQ Coy,52,84862
+Personnel_02197,Signals,25,93953
+Personnel_02198,1st Bn,50,92083
+Personnel_02199,HQ Coy,41,82630
+Personnel_02200,HQ Coy,49,79400
+Personnel_02201,1st Bn,39,93743
+Personnel_02202,HQ Coy,28,87953
+Personnel_02203,Signals,39,103151
+Personnel_02204,3rd Bn,52,43249
+Personnel_02205,2nd Bn,45,40323
+Personnel_02206,2nd Bn,53,103192
+Personnel_02207,Ops,36,106376
+Personnel_02208,HQ Coy,50,73471
+Personnel_02209,Ops,50,91358
+Personnel_02210,3rd Bn,32,86941
+Personnel_02211,Ops,32,76903
+Personnel_02212,Signals,50,77718
+Personnel_02213,HQ Coy,30,71668
+Personnel_02214,Signals,40,54647
+Personnel_02215,2nd Bn,26,90162
+Personnel_02216,Ops,29,58561
+Personnel_02217,1st Bn,49,54139
+Personnel_02218,Signals,32,60266
+Personnel_02219,1st Bn,44,92194
+Personnel_02220,Ops,43,61499
+Personnel_02221,1st Bn,49,78360
+Personnel_02222,2nd Bn,41,50151
+Personnel_02223,3rd Bn,39,49162
+Personnel_02224,3rd Bn,24,59167
+Personnel_02225,HQ Coy,22,70715
+Personnel_02226,HQ Coy,24,40749
+Personnel_02227,Signals,35,110539
+Personnel_02228,Signals,24,69667
+Personnel_02229,Ops,43,106467
+Personnel_02230,Signals,31,112377
+Personnel_02231,Signals,47,109537
+Personnel_02232,HQ Coy,27,116231
+Personnel_02233,Signals,38,45439
+Personnel_02234,HQ Coy,30,84116
+Personnel_02235,Signals,40,73023
+Personnel_02236,2nd Bn,54,41958
+Personnel_02237,Signals,44,115067
+Personnel_02238,Signals,53,107587
+Personnel_02239,HQ Coy,54,55349
+Personnel_02240,Ops,23,80661
+Personnel_02241,HQ Coy,29,104139
+Personnel_02242,HQ Coy,40,74612
+Personnel_02243,1st Bn,24,114101
+Personnel_02244,3rd Bn,38,43034
+Personnel_02245,HQ Coy,47,111502
+Personnel_02246,Ops,44,91609
+Personnel_02247,2nd Bn,32,96387
+Personnel_02248,Signals,32,80659
+Personnel_02249,3rd Bn,43,75225
+Personnel_02250,3rd Bn,23,96590
+Personnel_02251,2nd Bn,42,106724
+Personnel_02252,3rd Bn,29,108623
+Personnel_02253,1st Bn,43,43526
+Personnel_02254,2nd Bn,54,58670
+Personnel_02255,2nd Bn,36,92574
+Personnel_02256,Signals,22,78126
+Personnel_02257,2nd Bn,39,108227
+Personnel_02258,2nd Bn,31,50807
+Personnel_02259,Ops,54,100761
+Personnel_02260,Signals,32,105342
+Personnel_02261,3rd Bn,48,78727
+Personnel_02262,Signals,42,106872
+Personnel_02263,1st Bn,37,40975
+Personnel_02264,Ops,34,103269
+Personnel_02265,Ops,46,95068
+Personnel_02266,Signals,32,40687
+Personnel_02267,Signals,39,58204
+Personnel_02268,Signals,25,41907
+Personnel_02269,2nd Bn,22,82557
+Personnel_02270,2nd Bn,30,59814
+Personnel_02271,3rd Bn,35,39692
+Personnel_02272,HQ Coy,49,36972
+Personnel_02273,Ops,46,41888
+Personnel_02274,1st Bn,37,87158
+Personnel_02275,Ops,24,70373
+Personnel_02276,2nd Bn,50,40482
+Personnel_02277,Signals,25,108371
+Personnel_02278,2nd Bn,33,102851
+Personnel_02279,HQ Coy,45,56925
+Personnel_02280,1st Bn,24,36895
+Personnel_02281,Ops,40,56843
+Personnel_02282,Ops,39,57261
+Personnel_02283,HQ Coy,24,46782
+Personnel_02284,2nd Bn,38,81163
+Personnel_02285,3rd Bn,54,77404
+Personnel_02286,1st Bn,35,71667
+Personnel_02287,1st Bn,47,67107
+Personnel_02288,HQ Coy,43,74063
+Personnel_02289,1st Bn,21,89595
+Personnel_02290,Signals,35,45988
+Personnel_02291,2nd Bn,25,114630
+Personnel_02292,HQ Coy,42,119117
+Personnel_02293,2nd Bn,26,63189
+Personnel_02294,1st Bn,23,60433
+Personnel_02295,2nd Bn,33,87731
+Personnel_02296,HQ Coy,34,92045
+Personnel_02297,HQ Coy,23,51320
+Personnel_02298,2nd Bn,27,71664
+Personnel_02299,Signals,42,68209
+Personnel_02300,HQ Coy,34,100017
+Personnel_02301,Ops,29,74618
+Personnel_02302,3rd Bn,26,57253
+Personnel_02303,HQ Coy,30,113042
+Personnel_02304,Ops,40,81938
+Personnel_02305,1st Bn,28,51617
+Personnel_02306,Ops,45,88124
+Personnel_02307,1st Bn,31,35196
+Personnel_02308,1st Bn,41,62052
+Personnel_02309,2nd Bn,38,37146
+Personnel_02310,2nd Bn,31,48122
+Personnel_02311,1st Bn,33,105113
+Personnel_02312,Ops,39,110085
+Personnel_02313,HQ Coy,28,107321
+Personnel_02314,3rd Bn,26,45806
+Personnel_02315,HQ Coy,24,44048
+Personnel_02316,2nd Bn,34,54847
+Personnel_02317,3rd Bn,21,95585
+Personnel_02318,2nd Bn,46,118821
+Personnel_02319,3rd Bn,37,83937
+Personnel_02320,3rd Bn,48,64627
+Personnel_02321,Signals,21,48211
+Personnel_02322,Ops,49,66958
+Personnel_02323,Ops,25,84727
+Personnel_02324,Signals,49,38708
+Personnel_02325,Ops,34,87109
+Personnel_02326,1st Bn,33,64527
+Personnel_02327,2nd Bn,53,73437
+Personnel_02328,HQ Coy,52,51947
+Personnel_02329,HQ Coy,41,106315
+Personnel_02330,2nd Bn,38,115612
+Personnel_02331,Ops,39,99921
+Personnel_02332,HQ Coy,45,56297
+Personnel_02333,Ops,30,36181
+Personnel_02334,2nd Bn,36,106891
+Personnel_02335,1st Bn,30,94601
+Personnel_02336,HQ Coy,51,119430
+Personnel_02337,2nd Bn,24,49141
+Personnel_02338,Signals,31,85861
+Personnel_02339,3rd Bn,43,96444
+Personnel_02340,1st Bn,52,117850
+Personnel_02341,Ops,35,103883
+Personnel_02342,Signals,42,97448
+Personnel_02343,3rd Bn,35,50272
+Personnel_02344,Signals,37,54137
+Personnel_02345,2nd Bn,21,43917
+Personnel_02346,Signals,46,76877
+Personnel_02347,Signals,27,93200
+Personnel_02348,3rd Bn,22,80441
+Personnel_02349,1st Bn,43,42022
+Personnel_02350,HQ Coy,54,105396
+Personnel_02351,HQ Coy,25,117767
+Personnel_02352,2nd Bn,29,45341
+Personnel_02353,Signals,24,104428
+Personnel_02354,1st Bn,43,105202
+Personnel_02355,2nd Bn,26,65481
+Personnel_02356,Ops,40,60700
+Personnel_02357,1st Bn,29,53652
+Personnel_02358,1st Bn,23,42104
+Personnel_02359,Signals,30,105046
+Personnel_02360,2nd Bn,40,85958
+Personnel_02361,HQ Coy,37,46528
+Personnel_02362,HQ Coy,25,99727
+Personnel_02363,2nd Bn,32,116911
+Personnel_02364,2nd Bn,42,56210
+Personnel_02365,HQ Coy,29,85493
+Personnel_02366,HQ Coy,26,78250
+Personnel_02367,1st Bn,46,70514
+Personnel_02368,Ops,25,108996
+Personnel_02369,1st Bn,30,117743
+Personnel_02370,Signals,50,53024
+Personnel_02371,Ops,44,49541
+Personnel_02372,Signals,39,89326
+Personnel_02373,2nd Bn,30,108891
+Personnel_02374,HQ Coy,41,91055
+Personnel_02375,HQ Coy,28,117222
+Personnel_02376,3rd Bn,52,49078
+Personnel_02377,Ops,53,37783
+Personnel_02378,1st Bn,28,113341
+Personnel_02379,2nd Bn,31,43215
+Personnel_02380,Ops,40,60268
+Personnel_02381,1st Bn,22,40560
+Personnel_02382,3rd Bn,52,60993
+Personnel_02383,1st Bn,50,43463
+Personnel_02384,HQ Coy,43,108706
+Personnel_02385,Ops,28,119438
+Personnel_02386,3rd Bn,27,41496
+Personnel_02387,3rd Bn,21,71592
+Personnel_02388,HQ Coy,48,107541
+Personnel_02389,1st Bn,45,109328
+Personnel_02390,3rd Bn,46,90493
+Personnel_02391,1st Bn,31,103037
+Personnel_02392,HQ Coy,46,38998
+Personnel_02393,1st Bn,32,57043
+Personnel_02394,HQ Coy,37,42082
+Personnel_02395,HQ Coy,38,52171
+Personnel_02396,3rd Bn,49,84418
+Personnel_02397,1st Bn,28,57639
+Personnel_02398,Ops,29,115613
+Personnel_02399,HQ Coy,53,68249
+Personnel_02400,2nd Bn,21,93806
+Personnel_02401,1st Bn,51,107530
+Personnel_02402,HQ Coy,25,117476
+Personnel_02403,2nd Bn,40,36925
+Personnel_02404,Signals,50,40609
+Personnel_02405,Ops,26,51357
+Personnel_02406,HQ Coy,24,57075
+Personnel_02407,2nd Bn,52,70273
+Personnel_02408,3rd Bn,49,70016
+Personnel_02409,1st Bn,36,37574
+Personnel_02410,3rd Bn,35,53192
+Personnel_02411,Ops,45,81314
+Personnel_02412,Signals,23,37376
+Personnel_02413,2nd Bn,27,55533
+Personnel_02414,Signals,34,74826
+Personnel_02415,3rd Bn,29,85184
+Personnel_02416,3rd Bn,39,117312
+Personnel_02417,3rd Bn,40,81073
+Personnel_02418,HQ Coy,33,51482
+Personnel_02419,3rd Bn,35,95931
+Personnel_02420,1st Bn,34,45731
+Personnel_02421,Ops,51,75559
+Personnel_02422,2nd Bn,52,100876
+Personnel_02423,Ops,47,93202
+Personnel_02424,Signals,53,68494
+Personnel_02425,1st Bn,34,60698
+Personnel_02426,2nd Bn,35,76196
+Personnel_02427,Signals,53,68495
+Personnel_02428,HQ Coy,53,109976
+Personnel_02429,1st Bn,21,37038
+Personnel_02430,1st Bn,27,57968
+Personnel_02431,3rd Bn,31,119015
+Personnel_02432,3rd Bn,41,52501
+Personnel_02433,Ops,41,85721
+Personnel_02434,Signals,37,113992
+Personnel_02435,Signals,29,105919
+Personnel_02436,Signals,39,81258
+Personnel_02437,Signals,29,48221
+Personnel_02438,2nd Bn,51,84679
+Personnel_02439,HQ Coy,50,83137
+Personnel_02440,3rd Bn,40,98863
+Personnel_02441,Signals,25,38483
+Personnel_02442,1st Bn,24,107524
+Personnel_02443,Signals,39,91248
+Personnel_02444,Signals,34,89872
+Personnel_02445,Ops,32,116825
+Personnel_02446,Ops,40,75489
+Personnel_02447,HQ Coy,45,105477
+Personnel_02448,HQ Coy,49,113064
+Personnel_02449,1st Bn,50,54961
+Personnel_02450,Ops,29,81389
+Personnel_02451,Ops,51,83844
+Personnel_02452,1st Bn,26,108911
+Personnel_02453,2nd Bn,39,55476
+Personnel_02454,3rd Bn,31,77262
+Personnel_02455,Ops,30,84423
+Personnel_02456,2nd Bn,25,95691
+Personnel_02457,2nd Bn,43,89002
+Personnel_02458,3rd Bn,22,75922
+Personnel_02459,2nd Bn,38,101181
+Personnel_02460,Signals,49,44572
+Personnel_02461,Ops,44,68760
+Personnel_02462,Ops,39,48538
+Personnel_02463,Ops,49,80096
+Personnel_02464,2nd Bn,54,103836
+Personnel_02465,Signals,50,67969
+Personnel_02466,2nd Bn,35,37314
+Personnel_02467,Ops,36,59862
+Personnel_02468,Ops,53,113824
+Personnel_02469,Ops,30,110789
+Personnel_02470,1st Bn,49,114061
+Personnel_02471,1st Bn,24,86987
+Personnel_02472,Ops,48,109473
+Personnel_02473,Ops,33,76654
+Personnel_02474,1st Bn,25,55143
+Personnel_02475,HQ Coy,26,80128
+Personnel_02476,2nd Bn,28,58501
+Personnel_02477,Ops,33,72451
+Personnel_02478,3rd Bn,37,92447
+Personnel_02479,2nd Bn,39,41404
+Personnel_02480,2nd Bn,35,93818
+Personnel_02481,2nd Bn,52,91716
+Personnel_02482,1st Bn,39,41528
+Personnel_02483,1st Bn,43,108751
+Personnel_02484,3rd Bn,51,57064
+Personnel_02485,2nd Bn,40,69656
+Personnel_02486,2nd Bn,39,62172
+Personnel_02487,1st Bn,27,44978
+Personnel_02488,Signals,53,95108
+Personnel_02489,2nd Bn,51,71576
+Personnel_02490,Ops,39,41886
+Personnel_02491,1st Bn,34,40563
+Personnel_02492,Ops,21,91045
+Personnel_02493,2nd Bn,48,40705
+Personnel_02494,Signals,51,90562
+Personnel_02495,2nd Bn,48,67342
+Personnel_02496,1st Bn,22,75191
+Personnel_02497,3rd Bn,43,102254
+Personnel_02498,HQ Coy,23,36846
+Personnel_02499,HQ Coy,34,43290
+Personnel_02500,2nd Bn,33,96691
+Personnel_02501,Signals,39,45571
+Personnel_02502,1st Bn,40,77701
+Personnel_02503,HQ Coy,27,43883
+Personnel_02504,Signals,25,67655
+Personnel_02505,Signals,43,58897
+Personnel_02506,3rd Bn,41,93555
+Personnel_02507,2nd Bn,47,116213
+Personnel_02508,2nd Bn,45,111271
+Personnel_02509,Ops,41,78207
+Personnel_02510,1st Bn,49,36767
+Personnel_02511,Signals,24,82183
+Personnel_02512,HQ Coy,42,102958
+Personnel_02513,Ops,30,49023
+Personnel_02514,1st Bn,29,83245
+Personnel_02515,1st Bn,44,69774
+Personnel_02516,1st Bn,45,64440
+Personnel_02517,HQ Coy,30,71761
+Personnel_02518,1st Bn,34,63977
+Personnel_02519,Ops,27,36398
+Personnel_02520,3rd Bn,48,51348
+Personnel_02521,HQ Coy,45,46879
+Personnel_02522,Signals,32,72587
+Personnel_02523,HQ Coy,32,78940
+Personnel_02524,2nd Bn,38,67656
+Personnel_02525,2nd Bn,43,117083
+Personnel_02526,Signals,36,46910
+Personnel_02527,Signals,53,91094
+Personnel_02528,2nd Bn,41,119567
+Personnel_02529,1st Bn,31,87423
+Personnel_02530,HQ Coy,54,119681
+Personnel_02531,HQ Coy,42,79551
+Personnel_02532,3rd Bn,23,116833
+Personnel_02533,1st Bn,50,70784
+Personnel_02534,2nd Bn,53,37720
+Personnel_02535,1st Bn,40,72203
+Personnel_02536,Ops,54,112263
+Personnel_02537,1st Bn,47,73698
+Personnel_02538,3rd Bn,25,40374
+Personnel_02539,Signals,29,46954
+Personnel_02540,3rd Bn,44,91508
+Personnel_02541,Signals,46,98180
+Personnel_02542,Signals,36,103697
+Personnel_02543,2nd Bn,34,36176
+Personnel_02544,Ops,46,47931
+Personnel_02545,Signals,21,49286
+Personnel_02546,HQ Coy,29,61860
+Personnel_02547,Ops,49,112171
+Personnel_02548,1st Bn,38,85083
+Personnel_02549,Ops,26,48546
+Personnel_02550,HQ Coy,35,35498
+Personnel_02551,Signals,24,62052
+Personnel_02552,3rd Bn,29,55328
+Personnel_02553,3rd Bn,36,114286
+Personnel_02554,3rd Bn,28,51584
+Personnel_02555,1st Bn,44,54543
+Personnel_02556,Signals,50,67567
+Personnel_02557,2nd Bn,27,74827
+Personnel_02558,2nd Bn,40,109359
+Personnel_02559,3rd Bn,36,67792
+Personnel_02560,HQ Coy,33,77754
+Personnel_02561,3rd Bn,40,109365
+Personnel_02562,HQ Coy,32,68900
+Personnel_02563,1st Bn,39,96762
+Personnel_02564,2nd Bn,41,113033
+Personnel_02565,Ops,27,96335
+Personnel_02566,1st Bn,21,111451
+Personnel_02567,HQ Coy,51,77709
+Personnel_02568,3rd Bn,50,109424
+Personnel_02569,Ops,47,37624
+Personnel_02570,Ops,29,81470
+Personnel_02571,Signals,29,42560
+Personnel_02572,Signals,31,77385
+Personnel_02573,2nd Bn,29,111719
+Personnel_02574,Ops,46,52918
+Personnel_02575,Signals,40,85295
+Personnel_02576,1st Bn,43,111215
+Personnel_02577,Signals,31,86500
+Personnel_02578,3rd Bn,48,90369
+Personnel_02579,Signals,45,58288
+Personnel_02580,2nd Bn,22,90918
+Personnel_02581,1st Bn,31,53123
+Personnel_02582,3rd Bn,41,55981
+Personnel_02583,Ops,22,114691
+Personnel_02584,Signals,35,88025
+Personnel_02585,1st Bn,49,72968
+Personnel_02586,2nd Bn,41,111234
+Personnel_02587,HQ Coy,42,116987
+Personnel_02588,Ops,30,61451
+Personnel_02589,HQ Coy,36,87249
+Personnel_02590,2nd Bn,38,50897
+Personnel_02591,2nd Bn,30,80206
+Personnel_02592,HQ Coy,48,66065
+Personnel_02593,3rd Bn,43,57915
+Personnel_02594,3rd Bn,53,83929
+Personnel_02595,Ops,54,68519
+Personnel_02596,Ops,47,78606
+Personnel_02597,Ops,54,69361
+Personnel_02598,1st Bn,50,100343
+Personnel_02599,1st Bn,35,119055
+Personnel_02600,1st Bn,40,95100
+Personnel_02601,3rd Bn,41,94621
+Personnel_02602,3rd Bn,38,62246
+Personnel_02603,Ops,43,90064
+Personnel_02604,HQ Coy,22,59749
+Personnel_02605,HQ Coy,45,46842
+Personnel_02606,3rd Bn,49,63505
+Personnel_02607,Signals,37,71289
+Personnel_02608,1st Bn,25,41864
+Personnel_02609,Signals,44,75020
+Personnel_02610,3rd Bn,29,43770
+Personnel_02611,3rd Bn,27,93921
+Personnel_02612,1st Bn,38,53825
+Personnel_02613,Signals,32,82604
+Personnel_02614,Ops,53,105907
+Personnel_02615,2nd Bn,48,66851
+Personnel_02616,Signals,29,60320
+Personnel_02617,HQ Coy,49,118287
+Personnel_02618,Signals,51,102983
+Personnel_02619,1st Bn,38,57261
+Personnel_02620,Ops,46,101839
+Personnel_02621,1st Bn,40,48230
+Personnel_02622,2nd Bn,25,54349
+Personnel_02623,Ops,44,92260
+Personnel_02624,HQ Coy,33,64006
+Personnel_02625,2nd Bn,39,49124
+Personnel_02626,3rd Bn,34,66643
+Personnel_02627,3rd Bn,46,92001
+Personnel_02628,3rd Bn,50,96336
+Personnel_02629,Ops,38,80366
+Personnel_02630,1st Bn,28,39918
+Personnel_02631,3rd Bn,32,118988
+Personnel_02632,2nd Bn,44,88142
+Personnel_02633,2nd Bn,51,87011
+Personnel_02634,HQ Coy,53,52546
+Personnel_02635,1st Bn,52,104787
+Personnel_02636,Ops,27,70422
+Personnel_02637,1st Bn,40,70082
+Personnel_02638,Signals,52,57478
+Personnel_02639,3rd Bn,39,39050
+Personnel_02640,Signals,42,102823
+Personnel_02641,Ops,39,91014
+Personnel_02642,1st Bn,42,38942
+Personnel_02643,2nd Bn,34,85218
+Personnel_02644,2nd Bn,52,77423
+Personnel_02645,HQ Coy,45,67642
+Personnel_02646,1st Bn,46,84085
+Personnel_02647,2nd Bn,54,58429
+Personnel_02648,HQ Coy,39,95661
+Personnel_02649,3rd Bn,53,44661
+Personnel_02650,Signals,35,36404
+Personnel_02651,3rd Bn,31,110335
+Personnel_02652,Signals,46,114435
+Personnel_02653,Ops,44,71235
+Personnel_02654,Ops,26,80180
+Personnel_02655,2nd Bn,52,68957
+Personnel_02656,HQ Coy,22,77920
+Personnel_02657,3rd Bn,41,91462
+Personnel_02658,Ops,44,40221
+Personnel_02659,3rd Bn,34,53414
+Personnel_02660,2nd Bn,22,53666
+Personnel_02661,HQ Coy,24,86818
+Personnel_02662,Signals,52,59419
+Personnel_02663,HQ Coy,43,82030
+Personnel_02664,1st Bn,52,46923
+Personnel_02665,Ops,39,110054
+Personnel_02666,Ops,26,64763
+Personnel_02667,3rd Bn,33,63301
+Personnel_02668,2nd Bn,32,50577
+Personnel_02669,2nd Bn,24,78625
+Personnel_02670,2nd Bn,33,105894
+Personnel_02671,1st Bn,47,78923
+Personnel_02672,HQ Coy,28,109964
+Personnel_02673,3rd Bn,28,81222
+Personnel_02674,3rd Bn,53,71968
+Personnel_02675,Ops,31,49934
+Personnel_02676,1st Bn,47,85747
+Personnel_02677,1st Bn,40,39660
+Personnel_02678,2nd Bn,39,116444
+Personnel_02679,HQ Coy,24,39254
+Personnel_02680,1st Bn,35,111726
+Personnel_02681,HQ Coy,26,64570
+Personnel_02682,3rd Bn,23,72808
+Personnel_02683,3rd Bn,30,39789
+Personnel_02684,3rd Bn,49,71878
+Personnel_02685,Signals,28,50423
+Personnel_02686,2nd Bn,36,50251
+Personnel_02687,1st Bn,25,69078
+Personnel_02688,2nd Bn,53,74266
+Personnel_02689,1st Bn,22,65071
+Personnel_02690,Signals,48,36226
+Personnel_02691,Signals,45,89076
+Personnel_02692,Signals,29,110250
+Personnel_02693,Ops,40,62896
+Personnel_02694,HQ Coy,46,57721
+Personnel_02695,Ops,43,62673
+Personnel_02696,Signals,32,90106
+Personnel_02697,1st Bn,34,108338
+Personnel_02698,Signals,40,102549
+Personnel_02699,HQ Coy,23,42006
+Personnel_02700,Ops,23,40093
+Personnel_02701,HQ Coy,28,97620
+Personnel_02702,Signals,29,59307
+Personnel_02703,2nd Bn,33,117090
+Personnel_02704,Ops,23,44224
+Personnel_02705,Ops,35,35123
+Personnel_02706,2nd Bn,48,116091
+Personnel_02707,Signals,47,48232
+Personnel_02708,Ops,43,77726
+Personnel_02709,Ops,39,60363
+Personnel_02710,Ops,51,86879
+Personnel_02711,1st Bn,36,55295
+Personnel_02712,3rd Bn,31,82674
+Personnel_02713,Signals,47,105337
+Personnel_02714,2nd Bn,51,118803
+Personnel_02715,3rd Bn,45,40269
+Personnel_02716,2nd Bn,24,82081
+Personnel_02717,2nd Bn,50,115887
+Personnel_02718,Signals,34,79551
+Personnel_02719,1st Bn,47,116972
+Personnel_02720,Ops,36,54164
+Personnel_02721,2nd Bn,44,103570
+Personnel_02722,1st Bn,24,39657
+Personnel_02723,3rd Bn,35,108303
+Personnel_02724,HQ Coy,42,100554
+Personnel_02725,3rd Bn,31,104115
+Personnel_02726,2nd Bn,28,42690
+Personnel_02727,Ops,42,39524
+Personnel_02728,2nd Bn,36,111972
+Personnel_02729,Ops,43,62163
+Personnel_02730,1st Bn,39,55083
+Personnel_02731,Ops,27,103631
+Personnel_02732,Signals,53,85433
+Personnel_02733,3rd Bn,28,113444
+Personnel_02734,1st Bn,30,44424
+Personnel_02735,3rd Bn,36,73723
+Personnel_02736,2nd Bn,30,77454
+Personnel_02737,2nd Bn,47,90783
+Personnel_02738,HQ Coy,21,69199
+Personnel_02739,1st Bn,29,44252
+Personnel_02740,Ops,40,61189
+Personnel_02741,Signals,25,64078
+Personnel_02742,Ops,24,77087
+Personnel_02743,HQ Coy,39,82349
+Personnel_02744,HQ Coy,41,57607
+Personnel_02745,HQ Coy,37,40316
+Personnel_02746,Signals,23,100533
+Personnel_02747,Signals,51,70264
+Personnel_02748,Signals,35,100260
+Personnel_02749,HQ Coy,31,108100
+Personnel_02750,1st Bn,28,44764
+Personnel_02751,HQ Coy,52,62180
+Personnel_02752,Signals,38,62823
+Personnel_02753,2nd Bn,29,85242
+Personnel_02754,3rd Bn,44,101479
+Personnel_02755,2nd Bn,30,36330
+Personnel_02756,2nd Bn,42,104190
+Personnel_02757,HQ Coy,35,42392
+Personnel_02758,1st Bn,36,98145
+Personnel_02759,2nd Bn,42,65057
+Personnel_02760,3rd Bn,43,109459
+Personnel_02761,2nd Bn,47,35863
+Personnel_02762,3rd Bn,23,97282
+Personnel_02763,3rd Bn,37,108999
+Personnel_02764,3rd Bn,46,57121
+Personnel_02765,Signals,35,83725
+Personnel_02766,HQ Coy,22,94396
+Personnel_02767,Signals,54,56562
+Personnel_02768,2nd Bn,53,65589
+Personnel_02769,2nd Bn,51,84670
+Personnel_02770,2nd Bn,40,102089
+Personnel_02771,Ops,46,106335
+Personnel_02772,Ops,36,60790
+Personnel_02773,3rd Bn,36,116206
+Personnel_02774,3rd Bn,34,38094
+Personnel_02775,1st Bn,23,65428
+Personnel_02776,HQ Coy,43,102584
+Personnel_02777,3rd Bn,29,80830
+Personnel_02778,3rd Bn,28,100729
+Personnel_02779,2nd Bn,35,72954
+Personnel_02780,3rd Bn,32,48913
+Personnel_02781,3rd Bn,34,81199
+Personnel_02782,1st Bn,47,89185
+Personnel_02783,Ops,40,63052
+Personnel_02784,1st Bn,48,78510
+Personnel_02785,1st Bn,44,45979
+Personnel_02786,2nd Bn,42,90843
+Personnel_02787,3rd Bn,31,40791
+Personnel_02788,HQ Coy,25,88301
+Personnel_02789,HQ Coy,43,108436
+Personnel_02790,2nd Bn,41,90096
+Personnel_02791,1st Bn,49,43070
+Personnel_02792,3rd Bn,36,59698
+Personnel_02793,Signals,52,101773
+Personnel_02794,1st Bn,44,59620
+Personnel_02795,Ops,28,95560
+Personnel_02796,Ops,42,98025
+Personnel_02797,3rd Bn,36,78478
+Personnel_02798,1st Bn,42,116605
+Personnel_02799,1st Bn,22,83410
+Personnel_02800,Signals,27,42546
+Personnel_02801,3rd Bn,52,109198
+Personnel_02802,Signals,35,47282
+Personnel_02803,HQ Coy,36,45612
+Personnel_02804,3rd Bn,28,108038
+Personnel_02805,Ops,48,50027
+Personnel_02806,Ops,52,63836
+Personnel_02807,1st Bn,40,101638
+Personnel_02808,Signals,23,49545
+Personnel_02809,HQ Coy,27,73912
+Personnel_02810,1st Bn,38,54565
+Personnel_02811,Ops,51,43364
+Personnel_02812,2nd Bn,28,99081
+Personnel_02813,Ops,41,109276
+Personnel_02814,3rd Bn,43,87657
+Personnel_02815,Ops,45,55032
+Personnel_02816,2nd Bn,22,96193
+Personnel_02817,HQ Coy,21,57740
+Personnel_02818,HQ Coy,21,85622
+Personnel_02819,Ops,22,100004
+Personnel_02820,1st Bn,45,57604
+Personnel_02821,HQ Coy,48,89472
+Personnel_02822,2nd Bn,53,61384
+Personnel_02823,Ops,24,72643
+Personnel_02824,Ops,36,84885
+Personnel_02825,1st Bn,21,78276
+Personnel_02826,1st Bn,31,86905
+Personnel_02827,Signals,35,112409
+Personnel_02828,1st Bn,50,43335
+Personnel_02829,Signals,27,45425
+Personnel_02830,Ops,44,86075
+Personnel_02831,Signals,28,68385
+Personnel_02832,1st Bn,26,51909
+Personnel_02833,Ops,41,115210
+Personnel_02834,Ops,43,118184
+Personnel_02835,2nd Bn,38,93916
+Personnel_02836,3rd Bn,21,113535
+Personnel_02837,Ops,25,81472
+Personnel_02838,3rd Bn,32,104925
+Personnel_02839,2nd Bn,21,76413
+Personnel_02840,Ops,27,118322
+Personnel_02841,3rd Bn,26,48519
+Personnel_02842,Ops,23,44508
+Personnel_02843,Ops,34,88492
+Personnel_02844,HQ Coy,52,98059
+Personnel_02845,3rd Bn,28,46704
+Personnel_02846,Ops,53,63643
+Personnel_02847,HQ Coy,47,45338
+Personnel_02848,HQ Coy,48,72907
+Personnel_02849,HQ Coy,52,49595
+Personnel_02850,1st Bn,25,87189
+Personnel_02851,3rd Bn,34,35625
+Personnel_02852,HQ Coy,41,91779
+Personnel_02853,Signals,28,54706
+Personnel_02854,3rd Bn,43,95564
+Personnel_02855,Ops,47,69133
+Personnel_02856,HQ Coy,35,68807
+Personnel_02857,2nd Bn,36,43010
+Personnel_02858,HQ Coy,43,102389
+Personnel_02859,2nd Bn,38,99350
+Personnel_02860,1st Bn,51,80447
+Personnel_02861,2nd Bn,40,100574
+Personnel_02862,3rd Bn,23,119566
+Personnel_02863,1st Bn,28,78099
+Personnel_02864,1st Bn,46,56414
+Personnel_02865,Ops,42,103646
+Personnel_02866,3rd Bn,37,115163
+Personnel_02867,3rd Bn,21,54557
+Personnel_02868,HQ Coy,36,107129
+Personnel_02869,HQ Coy,44,84915
+Personnel_02870,Signals,54,53184
+Personnel_02871,2nd Bn,37,91168
+Personnel_02872,Signals,34,81784
+Personnel_02873,2nd Bn,41,98957
+Personnel_02874,1st Bn,36,48845
+Personnel_02875,1st Bn,44,46676
+Personnel_02876,Ops,33,64996
+Personnel_02877,HQ Coy,39,47196
+Personnel_02878,HQ Coy,42,43472
+Personnel_02879,2nd Bn,26,59429
+Personnel_02880,3rd Bn,53,114265
+Personnel_02881,Signals,21,94543
+Personnel_02882,HQ Coy,25,88326
+Personnel_02883,Signals,28,58674
+Personnel_02884,Signals,42,102586
+Personnel_02885,HQ Coy,27,50124
+Personnel_02886,Signals,31,113452
+Personnel_02887,3rd Bn,45,93730
+Personnel_02888,1st Bn,51,64240
+Personnel_02889,1st Bn,44,97010
+Personnel_02890,1st Bn,21,64895
+Personnel_02891,Ops,50,92588
+Personnel_02892,Ops,33,83312
+Personnel_02893,1st Bn,35,106746
+Personnel_02894,3rd Bn,44,37680
+Personnel_02895,HQ Coy,31,62819
+Personnel_02896,Signals,45,74441
+Personnel_02897,3rd Bn,50,64101
+Personnel_02898,3rd Bn,54,103990
+Personnel_02899,HQ Coy,45,91513
+Personnel_02900,HQ Coy,53,89377
+Personnel_02901,Ops,21,86030
+Personnel_02902,1st Bn,25,59359
+Personnel_02903,Ops,32,64767
+Personnel_02904,3rd Bn,49,58435
+Personnel_02905,Ops,47,108701
+Personnel_02906,Ops,28,78233
+Personnel_02907,HQ Coy,47,44395
+Personnel_02908,Ops,23,119927
+Personnel_02909,1st Bn,24,62067
+Personnel_02910,2nd Bn,46,94273
+Personnel_02911,1st Bn,52,43685
+Personnel_02912,Signals,27,45443
+Personnel_02913,1st Bn,40,60931
+Personnel_02914,Signals,46,45041
+Personnel_02915,Signals,52,49307
+Personnel_02916,3rd Bn,25,98319
+Personnel_02917,Signals,24,47416
+Personnel_02918,2nd Bn,51,99105
+Personnel_02919,HQ Coy,54,92720
+Personnel_02920,Ops,29,106758
+Personnel_02921,HQ Coy,46,102908
+Personnel_02922,Ops,49,94668
+Personnel_02923,2nd Bn,29,49423
+Personnel_02924,2nd Bn,45,70656
+Personnel_02925,Ops,37,37847
+Personnel_02926,1st Bn,30,81900
+Personnel_02927,2nd Bn,27,65337
+Personnel_02928,Ops,43,71298
+Personnel_02929,Signals,48,46337
+Personnel_02930,2nd Bn,25,112924
+Personnel_02931,Ops,45,115459
+Personnel_02932,Ops,42,70142
+Personnel_02933,3rd Bn,44,90923
+Personnel_02934,Ops,29,108269
+Personnel_02935,2nd Bn,22,55609
+Personnel_02936,HQ Coy,43,92112
+Personnel_02937,2nd Bn,44,98951
+Personnel_02938,1st Bn,26,69112
+Personnel_02939,2nd Bn,36,40513
+Personnel_02940,Signals,26,73032
+Personnel_02941,Signals,28,80264
+Personnel_02942,Signals,30,75883
+Personnel_02943,2nd Bn,30,54126
+Personnel_02944,2nd Bn,48,71287
+Personnel_02945,3rd Bn,40,98974
+Personnel_02946,HQ Coy,43,102415
+Personnel_02947,1st Bn,37,114611
+Personnel_02948,Ops,24,59345
+Personnel_02949,1st Bn,32,36551
+Personnel_02950,Ops,45,59409
+Personnel_02951,2nd Bn,38,75222
+Personnel_02952,3rd Bn,34,63101
+Personnel_02953,3rd Bn,37,95304
+Personnel_02954,Ops,35,60038
+Personnel_02955,3rd Bn,52,116469
+Personnel_02956,2nd Bn,43,101751
+Personnel_02957,1st Bn,29,83043
+Personnel_02958,3rd Bn,21,47832
+Personnel_02959,Ops,49,64785
+Personnel_02960,3rd Bn,26,84232
+Personnel_02961,2nd Bn,42,102819
+Personnel_02962,1st Bn,29,108852
+Personnel_02963,HQ Coy,51,79065
+Personnel_02964,Ops,50,53553
+Personnel_02965,HQ Coy,39,39734
+Personnel_02966,Signals,50,95117
+Personnel_02967,1st Bn,43,68827
+Personnel_02968,3rd Bn,34,58370
+Personnel_02969,Ops,46,83951
+Personnel_02970,2nd Bn,40,53057
+Personnel_02971,Signals,53,109342
+Personnel_02972,HQ Coy,46,82734
+Personnel_02973,1st Bn,33,111556
+Personnel_02974,2nd Bn,38,40642
+Personnel_02975,3rd Bn,35,106286
+Personnel_02976,2nd Bn,41,92566
+Personnel_02977,3rd Bn,40,39586
+Personnel_02978,Signals,28,80061
+Personnel_02979,HQ Coy,47,43617
+Personnel_02980,3rd Bn,23,65204
+Personnel_02981,Signals,22,95428
+Personnel_02982,2nd Bn,25,71999
+Personnel_02983,HQ Coy,26,79969
+Personnel_02984,1st Bn,29,87068
+Personnel_02985,Ops,52,88048
+Personnel_02986,3rd Bn,31,92500
+Personnel_02987,1st Bn,27,90494
+Personnel_02988,2nd Bn,34,73044
+Personnel_02989,HQ Coy,34,105179
+Personnel_02990,2nd Bn,29,106999
+Personnel_02991,HQ Coy,36,55309
+Personnel_02992,Ops,34,99376
+Personnel_02993,3rd Bn,51,56481
+Personnel_02994,3rd Bn,54,47551
+Personnel_02995,Signals,27,63778
+Personnel_02996,3rd Bn,39,48901
+Personnel_02997,1st Bn,51,113291
+Personnel_02998,Ops,38,54151
+Personnel_02999,2nd Bn,31,50455
+Personnel_03000,Ops,47,44624
+Personnel_03001,Ops,41,67796
+Personnel_03002,Ops,41,68955
+Personnel_03003,Ops,51,94316
+Personnel_03004,Ops,53,91668
+Personnel_03005,Ops,46,109618
+Personnel_03006,HQ Coy,47,50183
+Personnel_03007,HQ Coy,36,107217
+Personnel_03008,Signals,47,91113
+Personnel_03009,HQ Coy,51,86507
+Personnel_03010,HQ Coy,51,85807
+Personnel_03011,Signals,23,64350
+Personnel_03012,3rd Bn,26,114413
+Personnel_03013,3rd Bn,21,42685
+Personnel_03014,1st Bn,44,39986
+Personnel_03015,Signals,36,116964
+Personnel_03016,3rd Bn,42,49518
+Personnel_03017,2nd Bn,30,55946
+Personnel_03018,Signals,30,117698
+Personnel_03019,2nd Bn,21,81576
+Personnel_03020,2nd Bn,35,45140
+Personnel_03021,3rd Bn,38,102439
+Personnel_03022,Signals,30,101163
+Personnel_03023,2nd Bn,45,53425
+Personnel_03024,2nd Bn,33,78958
+Personnel_03025,Ops,51,70337
+Personnel_03026,Ops,51,109559
+Personnel_03027,Ops,37,84432
+Personnel_03028,2nd Bn,27,119570
+Personnel_03029,Signals,48,87807
+Personnel_03030,2nd Bn,22,87812
+Personnel_03031,2nd Bn,47,68867
+Personnel_03032,2nd Bn,25,44589
+Personnel_03033,2nd Bn,36,58450
+Personnel_03034,Ops,45,49149
+Personnel_03035,3rd Bn,22,88606
+Personnel_03036,2nd Bn,24,61247
+Personnel_03037,Signals,53,119136
+Personnel_03038,3rd Bn,34,88991
+Personnel_03039,HQ Coy,31,40749
+Personnel_03040,Ops,29,104794
+Personnel_03041,2nd Bn,31,44714
+Personnel_03042,Signals,25,53109
+Personnel_03043,Ops,53,80801
+Personnel_03044,Ops,32,112873
+Personnel_03045,HQ Coy,49,117539
+Personnel_03046,Ops,44,63371
+Personnel_03047,3rd Bn,43,81350
+Personnel_03048,Ops,28,101347
+Personnel_03049,HQ Coy,34,104104
+Personnel_03050,2nd Bn,33,91873
+Personnel_03051,HQ Coy,53,98904
+Personnel_03052,3rd Bn,36,43267
+Personnel_03053,Signals,27,81415
+Personnel_03054,Ops,42,71125
+Personnel_03055,HQ Coy,48,111351
+Personnel_03056,Signals,53,39793
+Personnel_03057,3rd Bn,42,91537
+Personnel_03058,Ops,40,105903
+Personnel_03059,Signals,38,53512
+Personnel_03060,3rd Bn,39,110113
+Personnel_03061,2nd Bn,28,88344
+Personnel_03062,Signals,31,55077
+Personnel_03063,Ops,53,106620
+Personnel_03064,Ops,28,71514
+Personnel_03065,Signals,50,84361
+Personnel_03066,Ops,52,72720
+Personnel_03067,1st Bn,27,70340
+Personnel_03068,Signals,47,81846
+Personnel_03069,Signals,26,108657
+Personnel_03070,HQ Coy,52,77721
+Personnel_03071,3rd Bn,46,51873
+Personnel_03072,HQ Coy,21,55778
+Personnel_03073,2nd Bn,37,60115
+Personnel_03074,3rd Bn,35,61548
+Personnel_03075,HQ Coy,37,106344
+Personnel_03076,Signals,36,35907
+Personnel_03077,HQ Coy,53,44185
+Personnel_03078,Ops,42,67932
+Personnel_03079,Ops,30,62508
+Personnel_03080,HQ Coy,36,66484
+Personnel_03081,HQ Coy,33,72332
+Personnel_03082,HQ Coy,42,75248
+Personnel_03083,3rd Bn,36,54587
+Personnel_03084,1st Bn,36,101610
+Personnel_03085,3rd Bn,30,46395
+Personnel_03086,2nd Bn,54,41177
+Personnel_03087,Signals,40,47081
+Personnel_03088,1st Bn,32,67132
+Personnel_03089,HQ Coy,25,101419
+Personnel_03090,1st Bn,50,62513
+Personnel_03091,Ops,30,64311
+Personnel_03092,Ops,44,35946
+Personnel_03093,1st Bn,47,70463
+Personnel_03094,2nd Bn,21,87567
+Personnel_03095,1st Bn,53,98542
+Personnel_03096,3rd Bn,46,60360
+Personnel_03097,HQ Coy,28,76854
+Personnel_03098,Signals,31,57793
+Personnel_03099,1st Bn,25,95271
+Personnel_03100,Signals,37,107183
+Personnel_03101,Ops,33,61829
+Personnel_03102,1st Bn,30,96355
+Personnel_03103,Ops,39,49533
+Personnel_03104,Ops,33,69777
+Personnel_03105,1st Bn,29,112404
+Personnel_03106,Signals,46,41291
+Personnel_03107,3rd Bn,30,72808
+Personnel_03108,Signals,40,102881
+Personnel_03109,Ops,25,111240
+Personnel_03110,1st Bn,32,88539
+Personnel_03111,HQ Coy,42,61396
+Personnel_03112,2nd Bn,22,116018
+Personnel_03113,HQ Coy,30,101332
+Personnel_03114,Signals,47,58817
+Personnel_03115,Signals,36,53168
+Personnel_03116,3rd Bn,45,61191
+Personnel_03117,Ops,24,99016
+Personnel_03118,3rd Bn,45,37873
+Personnel_03119,HQ Coy,35,36243
+Personnel_03120,HQ Coy,31,104519
+Personnel_03121,HQ Coy,28,52426
+Personnel_03122,Ops,24,87678
+Personnel_03123,1st Bn,47,87366
+Personnel_03124,HQ Coy,52,35359
+Personnel_03125,3rd Bn,31,111141
+Personnel_03126,Ops,32,87467
+Personnel_03127,Ops,26,63657
+Personnel_03128,1st Bn,49,51173
+Personnel_03129,3rd Bn,28,111309
+Personnel_03130,Ops,23,65589
+Personnel_03131,Signals,42,106354
+Personnel_03132,Ops,50,116264
+Personnel_03133,3rd Bn,21,119571
+Personnel_03134,2nd Bn,51,89102
+Personnel_03135,Ops,36,117905
+Personnel_03136,1st Bn,48,84827
+Personnel_03137,1st Bn,47,93903
+Personnel_03138,HQ Coy,26,38618
+Personnel_03139,3rd Bn,33,37144
+Personnel_03140,1st Bn,31,78061
+Personnel_03141,Ops,47,91581
+Personnel_03142,1st Bn,44,106374
+Personnel_03143,1st Bn,50,47470
+Personnel_03144,Ops,38,56320
+Personnel_03145,Signals,51,103107
+Personnel_03146,1st Bn,50,66473
+Personnel_03147,Ops,32,39393
+Personnel_03148,1st Bn,33,54059
+Personnel_03149,3rd Bn,48,87019
+Personnel_03150,Signals,50,56735
+Personnel_03151,3rd Bn,23,78701
+Personnel_03152,HQ Coy,43,113846
+Personnel_03153,2nd Bn,50,52439
+Personnel_03154,3rd Bn,46,47024
+Personnel_03155,3rd Bn,29,98624
+Personnel_03156,2nd Bn,53,62491
+Personnel_03157,3rd Bn,47,79092
+Personnel_03158,3rd Bn,47,74445
+Personnel_03159,1st Bn,27,39571
+Personnel_03160,1st Bn,32,67164
+Personnel_03161,HQ Coy,23,62483
+Personnel_03162,Ops,50,59431
+Personnel_03163,HQ Coy,29,85763
+Personnel_03164,3rd Bn,21,113584
+Personnel_03165,Signals,36,62091
+Personnel_03166,1st Bn,24,43033
+Personnel_03167,HQ Coy,36,118102
+Personnel_03168,2nd Bn,48,61443
+Personnel_03169,1st Bn,52,77705
+Personnel_03170,3rd Bn,37,114036
+Personnel_03171,2nd Bn,51,51252
+Personnel_03172,1st Bn,22,35788
+Personnel_03173,HQ Coy,43,49384
+Personnel_03174,3rd Bn,34,44256
+Personnel_03175,Signals,36,69710
+Personnel_03176,2nd Bn,47,115841
+Personnel_03177,HQ Coy,50,81603
+Personnel_03178,3rd Bn,54,99136
+Personnel_03179,HQ Coy,38,108242
+Personnel_03180,2nd Bn,44,107017
+Personnel_03181,Signals,30,90358
+Personnel_03182,2nd Bn,31,105191
+Personnel_03183,2nd Bn,24,79163
+Personnel_03184,3rd Bn,47,38621
+Personnel_03185,1st Bn,34,37471
+Personnel_03186,2nd Bn,49,80890
+Personnel_03187,1st Bn,35,108135
+Personnel_03188,Ops,43,65143
+Personnel_03189,3rd Bn,29,109858
+Personnel_03190,Signals,50,113016
+Personnel_03191,Signals,29,117936
+Personnel_03192,3rd Bn,39,97474
+Personnel_03193,HQ Coy,29,80354
+Personnel_03194,Signals,41,44067
+Personnel_03195,Signals,44,86186
+Personnel_03196,HQ Coy,28,49071
+Personnel_03197,Ops,45,51756
+Personnel_03198,Signals,51,62498
+Personnel_03199,Ops,34,66965
+Personnel_03200,3rd Bn,36,77185
+Personnel_03201,3rd Bn,24,93375
+Personnel_03202,Ops,42,82596
+Personnel_03203,HQ Coy,26,37474
+Personnel_03204,1st Bn,50,63200
+Personnel_03205,HQ Coy,29,44956
+Personnel_03206,3rd Bn,47,66155
+Personnel_03207,Signals,42,83555
+Personnel_03208,HQ Coy,33,101060
+Personnel_03209,2nd Bn,29,114143
+Personnel_03210,1st Bn,44,68332
+Personnel_03211,1st Bn,40,93300
+Personnel_03212,Signals,31,114901
+Personnel_03213,Signals,44,55767
+Personnel_03214,Ops,22,61300
+Personnel_03215,HQ Coy,32,89938
+Personnel_03216,Signals,34,119045
+Personnel_03217,3rd Bn,32,65762
+Personnel_03218,Signals,50,54112
+Personnel_03219,1st Bn,40,66463
+Personnel_03220,Ops,27,104727
+Personnel_03221,Signals,51,36988
+Personnel_03222,Signals,39,35224
+Personnel_03223,HQ Coy,35,38615
+Personnel_03224,1st Bn,44,53359
+Personnel_03225,Ops,38,46998
+Personnel_03226,HQ Coy,50,113241
+Personnel_03227,3rd Bn,21,90692
+Personnel_03228,1st Bn,35,55063
+Personnel_03229,2nd Bn,52,90929
+Personnel_03230,3rd Bn,21,67246
+Personnel_03231,3rd Bn,40,106688
+Personnel_03232,HQ Coy,36,38079
+Personnel_03233,1st Bn,24,59777
+Personnel_03234,HQ Coy,30,49880
+Personnel_03235,2nd Bn,54,118294
+Personnel_03236,3rd Bn,54,84220
+Personnel_03237,1st Bn,36,42412
+Personnel_03238,3rd Bn,45,116612
+Personnel_03239,HQ Coy,36,63984
+Personnel_03240,2nd Bn,26,38446
+Personnel_03241,Signals,21,65776
+Personnel_03242,HQ Coy,51,96594
+Personnel_03243,2nd Bn,52,42626
+Personnel_03244,HQ Coy,44,37710
+Personnel_03245,Signals,38,59149
+Personnel_03246,Ops,50,58368
+Personnel_03247,Signals,53,106742
+Personnel_03248,Signals,42,106988
+Personnel_03249,3rd Bn,41,114096
+Personnel_03250,2nd Bn,25,84328
+Personnel_03251,HQ Coy,34,36406
+Personnel_03252,2nd Bn,23,75646
+Personnel_03253,HQ Coy,45,85950
+Personnel_03254,3rd Bn,30,55673
+Personnel_03255,1st Bn,23,55857
+Personnel_03256,Ops,25,69374
+Personnel_03257,Ops,44,93938
+Personnel_03258,Signals,23,116817
+Personnel_03259,Ops,31,58064
+Personnel_03260,Ops,54,38470
+Personnel_03261,1st Bn,37,69540
+Personnel_03262,2nd Bn,32,111064
+Personnel_03263,HQ Coy,45,59250
+Personnel_03264,HQ Coy,53,101831
+Personnel_03265,2nd Bn,24,42932
+Personnel_03266,Ops,46,106033
+Personnel_03267,3rd Bn,54,87916
+Personnel_03268,Signals,36,106312
+Personnel_03269,2nd Bn,32,49564
+Personnel_03270,Ops,51,71616
+Personnel_03271,Ops,21,85880
+Personnel_03272,3rd Bn,32,50485
+Personnel_03273,Ops,45,86957
+Personnel_03274,2nd Bn,30,110987
+Personnel_03275,Signals,31,51644
+Personnel_03276,HQ Coy,48,118866
+Personnel_03277,HQ Coy,39,116314
+Personnel_03278,Ops,36,70943
+Personnel_03279,Signals,52,40496
+Personnel_03280,HQ Coy,51,51073
+Personnel_03281,3rd Bn,47,47420
+Personnel_03282,3rd Bn,22,107657
+Personnel_03283,Ops,22,37922
+Personnel_03284,1st Bn,28,93353
+Personnel_03285,Ops,47,63321
+Personnel_03286,Ops,21,57525
+Personnel_03287,3rd Bn,21,82327
+Personnel_03288,Signals,48,97900
+Personnel_03289,1st Bn,54,99485
+Personnel_03290,Ops,38,51921
+Personnel_03291,HQ Coy,47,40279
+Personnel_03292,1st Bn,35,108360
+Personnel_03293,2nd Bn,33,56627
+Personnel_03294,2nd Bn,31,75922
+Personnel_03295,Ops,47,88893
+Personnel_03296,HQ Coy,40,85706
+Personnel_03297,3rd Bn,45,42586
+Personnel_03298,Ops,31,41046
+Personnel_03299,1st Bn,48,75189
+Personnel_03300,HQ Coy,26,101525
+Personnel_03301,Signals,23,56812
+Personnel_03302,1st Bn,44,88718
+Personnel_03303,HQ Coy,42,101286
+Personnel_03304,2nd Bn,24,64763
+Personnel_03305,2nd Bn,26,55073
+Personnel_03306,Ops,25,67389
+Personnel_03307,1st Bn,24,57311
+Personnel_03308,3rd Bn,28,77391
+Personnel_03309,Ops,54,59665
+Personnel_03310,Ops,37,59374
+Personnel_03311,1st Bn,53,44073
+Personnel_03312,2nd Bn,49,96121
+Personnel_03313,1st Bn,36,64026
+Personnel_03314,3rd Bn,22,55608
+Personnel_03315,1st Bn,44,103487
+Personnel_03316,Ops,29,78280
+Personnel_03317,HQ Coy,27,87296
+Personnel_03318,Ops,21,115940
+Personnel_03319,Ops,49,83704
+Personnel_03320,Signals,44,90180
+Personnel_03321,3rd Bn,28,45639
+Personnel_03322,HQ Coy,35,56800
+Personnel_03323,2nd Bn,49,56362
+Personnel_03324,HQ Coy,38,49700
+Personnel_03325,3rd Bn,23,74177
+Personnel_03326,Ops,52,58012
+Personnel_03327,HQ Coy,34,94406
+Personnel_03328,3rd Bn,24,37454
+Personnel_03329,1st Bn,35,61230
+Personnel_03330,2nd Bn,41,82740
+Personnel_03331,Signals,40,98361
+Personnel_03332,1st Bn,47,75168
+Personnel_03333,HQ Coy,27,103842
+Personnel_03334,HQ Coy,45,113332
+Personnel_03335,3rd Bn,25,50728
+Personnel_03336,Ops,54,93847
+Personnel_03337,1st Bn,26,113346
+Personnel_03338,HQ Coy,23,116786
+Personnel_03339,3rd Bn,54,99881
+Personnel_03340,2nd Bn,31,61345
+Personnel_03341,Ops,49,79858
+Personnel_03342,Signals,25,88649
+Personnel_03343,HQ Coy,40,45284
+Personnel_03344,HQ Coy,31,47226
+Personnel_03345,HQ Coy,23,50194
+Personnel_03346,3rd Bn,23,85836
+Personnel_03347,1st Bn,49,105169
+Personnel_03348,3rd Bn,22,77279
+Personnel_03349,2nd Bn,24,35512
+Personnel_03350,3rd Bn,21,95809
+Personnel_03351,HQ Coy,25,57811
+Personnel_03352,3rd Bn,29,43020
+Personnel_03353,3rd Bn,23,100308
+Personnel_03354,Ops,36,94640
+Personnel_03355,HQ Coy,51,116613
+Personnel_03356,2nd Bn,52,115275
+Personnel_03357,Ops,29,79374
+Personnel_03358,HQ Coy,21,81583
+Personnel_03359,Ops,25,110464
+Personnel_03360,Signals,26,63060
+Personnel_03361,Ops,33,50856
+Personnel_03362,1st Bn,35,68634
+Personnel_03363,3rd Bn,30,56810
+Personnel_03364,HQ Coy,51,56289
+Personnel_03365,2nd Bn,44,97886
+Personnel_03366,3rd Bn,38,71235
+Personnel_03367,1st Bn,38,109587
+Personnel_03368,HQ Coy,54,76430
+Personnel_03369,2nd Bn,37,107801
+Personnel_03370,Signals,50,53673
+Personnel_03371,HQ Coy,43,62102
+Personnel_03372,Signals,42,83646
+Personnel_03373,1st Bn,28,94699
+Personnel_03374,Signals,54,58459
+Personnel_03375,3rd Bn,39,57799
+Personnel_03376,HQ Coy,48,45797
+Personnel_03377,Signals,37,36503
+Personnel_03378,2nd Bn,31,108944
+Personnel_03379,HQ Coy,53,80845
+Personnel_03380,1st Bn,50,43801
+Personnel_03381,3rd Bn,53,113444
+Personnel_03382,3rd Bn,29,49095
+Personnel_03383,1st Bn,21,104856
+Personnel_03384,HQ Coy,23,79572
+Personnel_03385,1st Bn,22,110662
+Personnel_03386,1st Bn,28,40622
+Personnel_03387,3rd Bn,26,75659
+Personnel_03388,Ops,38,112415
+Personnel_03389,2nd Bn,52,116029
+Personnel_03390,HQ Coy,38,55869
+Personnel_03391,1st Bn,30,116716
+Personnel_03392,3rd Bn,29,43602
+Personnel_03393,Ops,36,53800
+Personnel_03394,3rd Bn,54,44925
+Personnel_03395,3rd Bn,50,36913
+Personnel_03396,Ops,44,46859
+Personnel_03397,HQ Coy,48,63478
+Personnel_03398,1st Bn,42,71890
+Personnel_03399,1st Bn,35,93505
+Personnel_03400,Ops,39,87530
+Personnel_03401,1st Bn,31,57916
+Personnel_03402,2nd Bn,51,36164
+Personnel_03403,1st Bn,37,111073
+Personnel_03404,Ops,49,70165
+Personnel_03405,HQ Coy,25,94956
+Personnel_03406,Ops,24,72928
+Personnel_03407,Ops,48,41130
+Personnel_03408,Signals,48,86596
+Personnel_03409,1st Bn,22,70816
+Personnel_03410,HQ Coy,46,42822
+Personnel_03411,1st Bn,28,99979
+Personnel_03412,HQ Coy,48,99390
+Personnel_03413,3rd Bn,43,106437
+Personnel_03414,3rd Bn,27,115990
+Personnel_03415,2nd Bn,26,52335
+Personnel_03416,Ops,23,51003
+Personnel_03417,2nd Bn,46,109682
+Personnel_03418,2nd Bn,45,110512
+Personnel_03419,3rd Bn,52,38923
+Personnel_03420,Signals,52,113763
+Personnel_03421,Signals,30,111138
+Personnel_03422,HQ Coy,52,89948
+Personnel_03423,Ops,32,81752
+Personnel_03424,3rd Bn,23,47169
+Personnel_03425,2nd Bn,36,74104
+Personnel_03426,1st Bn,26,49358
+Personnel_03427,1st Bn,27,65979
+Personnel_03428,HQ Coy,50,98977
+Personnel_03429,Ops,51,87622
+Personnel_03430,3rd Bn,43,64591
+Personnel_03431,1st Bn,37,46273
+Personnel_03432,Ops,23,90549
+Personnel_03433,HQ Coy,50,75380
+Personnel_03434,1st Bn,48,75750
+Personnel_03435,3rd Bn,26,67136
+Personnel_03436,3rd Bn,22,102211
+Personnel_03437,Ops,43,70052
+Personnel_03438,2nd Bn,38,40731
+Personnel_03439,2nd Bn,34,99178
+Personnel_03440,3rd Bn,34,116144
+Personnel_03441,Ops,48,91937
+Personnel_03442,1st Bn,37,87313
+Personnel_03443,HQ Coy,45,106813
+Personnel_03444,1st Bn,26,45896
+Personnel_03445,3rd Bn,49,71746
+Personnel_03446,3rd Bn,49,90010
+Personnel_03447,HQ Coy,23,105697
+Personnel_03448,Ops,52,109905
+Personnel_03449,Ops,21,48743
+Personnel_03450,Ops,34,80707
+Personnel_03451,Signals,52,73467
+Personnel_03452,Signals,49,79972
+Personnel_03453,Ops,23,65793
+Personnel_03454,2nd Bn,31,40383
+Personnel_03455,1st Bn,48,45192
+Personnel_03456,2nd Bn,34,62283
+Personnel_03457,Signals,25,93514
+Personnel_03458,1st Bn,43,35746
+Personnel_03459,Ops,37,92977
+Personnel_03460,3rd Bn,41,75582
+Personnel_03461,2nd Bn,48,81726
+Personnel_03462,Signals,32,41793
+Personnel_03463,1st Bn,29,118785
+Personnel_03464,3rd Bn,45,37801
+Personnel_03465,1st Bn,53,98138
+Personnel_03466,1st Bn,47,54274
+Personnel_03467,HQ Coy,36,65441
+Personnel_03468,2nd Bn,38,90273
+Personnel_03469,1st Bn,23,92789
+Personnel_03470,Ops,46,78929
+Personnel_03471,1st Bn,31,96860
+Personnel_03472,HQ Coy,26,64660
+Personnel_03473,Signals,43,73245
+Personnel_03474,HQ Coy,54,61630
+Personnel_03475,Signals,24,90848
+Personnel_03476,3rd Bn,48,118874
+Personnel_03477,3rd Bn,42,89277
+Personnel_03478,Ops,24,57637
+Personnel_03479,2nd Bn,28,59021
+Personnel_03480,HQ Coy,43,86843
+Personnel_03481,Signals,33,87759
+Personnel_03482,1st Bn,39,70817
+Personnel_03483,2nd Bn,33,64911
+Personnel_03484,HQ Coy,34,115527
+Personnel_03485,Signals,32,118339
+Personnel_03486,1st Bn,46,37329
+Personnel_03487,Ops,44,96563
+Personnel_03488,HQ Coy,36,96485
+Personnel_03489,Ops,44,91159
+Personnel_03490,Ops,29,84744
+Personnel_03491,2nd Bn,27,61036
+Personnel_03492,2nd Bn,45,66232
+Personnel_03493,HQ Coy,39,56043
+Personnel_03494,2nd Bn,46,43595
+Personnel_03495,HQ Coy,41,58431
+Personnel_03496,HQ Coy,21,36751
+Personnel_03497,Ops,40,106505
+Personnel_03498,3rd Bn,35,61156
+Personnel_03499,Signals,29,81186
+Personnel_03500,3rd Bn,38,118752
+Personnel_03501,HQ Coy,27,101965
+Personnel_03502,3rd Bn,52,70860
+Personnel_03503,HQ Coy,47,79021
+Personnel_03504,1st Bn,49,103736
+Personnel_03505,3rd Bn,24,96222
+Personnel_03506,1st Bn,41,98175
+Personnel_03507,3rd Bn,52,65956
+Personnel_03508,HQ Coy,53,35992
+Personnel_03509,Signals,38,88311
+Personnel_03510,2nd Bn,40,68572
+Personnel_03511,Ops,24,81031
+Personnel_03512,2nd Bn,40,99098
+Personnel_03513,Ops,24,67408
+Personnel_03514,1st Bn,44,46951
+Personnel_03515,3rd Bn,29,80654
+Personnel_03516,1st Bn,53,54601
+Personnel_03517,Signals,43,48481
+Personnel_03518,3rd Bn,37,57335
+Personnel_03519,2nd Bn,41,68948
+Personnel_03520,Signals,34,63324
+Personnel_03521,HQ Coy,41,114622
+Personnel_03522,Signals,49,92591
+Personnel_03523,3rd Bn,27,80846
+Personnel_03524,Ops,37,110264
+Personnel_03525,3rd Bn,37,93073
+Personnel_03526,2nd Bn,32,111353
+Personnel_03527,1st Bn,33,45279
+Personnel_03528,Signals,33,59398
+Personnel_03529,HQ Coy,42,64891
+Personnel_03530,Signals,42,69907
+Personnel_03531,2nd Bn,30,94202
+Personnel_03532,1st Bn,41,106909
+Personnel_03533,1st Bn,26,106047
+Personnel_03534,Signals,36,88030
+Personnel_03535,Signals,22,99647
+Personnel_03536,Ops,21,106468
+Personnel_03537,1st Bn,30,58007
+Personnel_03538,2nd Bn,54,55483
+Personnel_03539,Ops,28,42970
+Personnel_03540,Signals,51,91930
+Personnel_03541,2nd Bn,49,97951
+Personnel_03542,3rd Bn,45,115965
+Personnel_03543,3rd Bn,34,68296
+Personnel_03544,HQ Coy,40,77367
+Personnel_03545,Ops,54,47786
+Personnel_03546,Ops,25,105536
+Personnel_03547,HQ Coy,27,66082
+Personnel_03548,HQ Coy,40,119783
+Personnel_03549,1st Bn,34,82156
+Personnel_03550,HQ Coy,30,74238
+Personnel_03551,Ops,31,69701
+Personnel_03552,1st Bn,46,119224
+Personnel_03553,HQ Coy,44,92072
+Personnel_03554,2nd Bn,21,114851
+Personnel_03555,Ops,22,35488
+Personnel_03556,HQ Coy,39,45538
+Personnel_03557,Ops,48,119356
+Personnel_03558,HQ Coy,36,117792
+Personnel_03559,HQ Coy,33,66720
+Personnel_03560,1st Bn,51,82492
+Personnel_03561,Signals,27,108894
+Personnel_03562,HQ Coy,42,85051
+Personnel_03563,3rd Bn,28,111729
+Personnel_03564,HQ Coy,25,66168
+Personnel_03565,3rd Bn,33,66880
+Personnel_03566,Signals,31,78158
+Personnel_03567,Ops,52,58652
+Personnel_03568,3rd Bn,48,99243
+Personnel_03569,HQ Coy,52,104600
+Personnel_03570,Signals,26,102694
+Personnel_03571,Ops,30,90019
+Personnel_03572,2nd Bn,38,103965
+Personnel_03573,Ops,44,56324
+Personnel_03574,HQ Coy,24,108550
+Personnel_03575,HQ Coy,28,109644
+Personnel_03576,3rd Bn,52,92079
+Personnel_03577,1st Bn,48,36257
+Personnel_03578,2nd Bn,26,78752
+Personnel_03579,Ops,41,108073
+Personnel_03580,2nd Bn,39,115022
+Personnel_03581,3rd Bn,43,85453
+Personnel_03582,2nd Bn,29,95056
+Personnel_03583,2nd Bn,22,75035
+Personnel_03584,2nd Bn,27,109924
+Personnel_03585,1st Bn,40,45042
+Personnel_03586,Signals,32,110455
+Personnel_03587,1st Bn,38,58110
+Personnel_03588,3rd Bn,24,72411
+Personnel_03589,HQ Coy,29,50464
+Personnel_03590,Ops,24,39009
+Personnel_03591,Ops,25,99399
+Personnel_03592,2nd Bn,54,35956
+Personnel_03593,2nd Bn,51,111619
+Personnel_03594,2nd Bn,52,103718
+Personnel_03595,HQ Coy,34,58347
+Personnel_03596,1st Bn,31,40432
+Personnel_03597,Signals,48,49082
+Personnel_03598,3rd Bn,36,75445
+Personnel_03599,HQ Coy,43,57779
+Personnel_03600,HQ Coy,40,53678
+Personnel_03601,Signals,48,58301
+Personnel_03602,HQ Coy,54,61270
+Personnel_03603,1st Bn,47,70035
+Personnel_03604,Signals,39,40139
+Personnel_03605,Ops,25,90775
+Personnel_03606,3rd Bn,45,104194
+Personnel_03607,Ops,34,104979
+Personnel_03608,Ops,39,82317
+Personnel_03609,Signals,54,118660
+Personnel_03610,Signals,34,67276
+Personnel_03611,HQ Coy,34,60084
+Personnel_03612,Ops,26,76110
+Personnel_03613,HQ Coy,35,104549
+Personnel_03614,HQ Coy,42,35653
+Personnel_03615,1st Bn,22,83661
+Personnel_03616,Signals,48,92283
+Personnel_03617,HQ Coy,51,97725
+Personnel_03618,Ops,35,108714
+Personnel_03619,Signals,33,75517
+Personnel_03620,1st Bn,39,60899
+Personnel_03621,2nd Bn,26,58214
+Personnel_03622,3rd Bn,24,48402
+Personnel_03623,Signals,31,60779
+Personnel_03624,Ops,26,49916
+Personnel_03625,Ops,48,59241
+Personnel_03626,HQ Coy,43,90197
+Personnel_03627,2nd Bn,30,56632
+Personnel_03628,Signals,29,97890
+Personnel_03629,3rd Bn,52,40364
+Personnel_03630,1st Bn,30,118617
+Personnel_03631,Ops,21,83060
+Personnel_03632,Ops,48,91691
+Personnel_03633,Ops,27,68521
+Personnel_03634,Ops,52,82442
+Personnel_03635,Ops,29,88677
+Personnel_03636,3rd Bn,36,56900
+Personnel_03637,HQ Coy,46,84366
+Personnel_03638,3rd Bn,28,81550
+Personnel_03639,1st Bn,44,64526
+Personnel_03640,Signals,24,81598
+Personnel_03641,Ops,45,74170
+Personnel_03642,Signals,29,88562
+Personnel_03643,2nd Bn,45,50377
+Personnel_03644,1st Bn,42,113356
+Personnel_03645,3rd Bn,52,84852
+Personnel_03646,3rd Bn,23,119718
+Personnel_03647,1st Bn,47,51096
+Personnel_03648,Ops,21,94214
+Personnel_03649,2nd Bn,37,53515
+Personnel_03650,Signals,50,118268
+Personnel_03651,1st Bn,37,97013
+Personnel_03652,1st Bn,33,58343
+Personnel_03653,3rd Bn,50,67594
+Personnel_03654,Ops,40,74750
+Personnel_03655,3rd Bn,50,70075
+Personnel_03656,3rd Bn,27,119283
+Personnel_03657,HQ Coy,45,43239
+Personnel_03658,HQ Coy,35,65253
+Personnel_03659,1st Bn,29,94545
+Personnel_03660,3rd Bn,24,52414
+Personnel_03661,HQ Coy,22,100974
+Personnel_03662,1st Bn,47,73384
+Personnel_03663,HQ Coy,23,50321
+Personnel_03664,2nd Bn,30,58383
+Personnel_03665,Signals,50,86375
+Personnel_03666,1st Bn,30,40197
+Personnel_03667,3rd Bn,39,115484
+Personnel_03668,2nd Bn,27,47037
+Personnel_03669,3rd Bn,27,65156
+Personnel_03670,Ops,51,63145
+Personnel_03671,3rd Bn,37,113556
+Personnel_03672,2nd Bn,44,53976
+Personnel_03673,1st Bn,36,53308
+Personnel_03674,Ops,54,82157
+Personnel_03675,Signals,39,66513
+Personnel_03676,Signals,44,49338
+Personnel_03677,HQ Coy,45,80240
+Personnel_03678,Ops,29,50850
+Personnel_03679,Signals,21,46039
+Personnel_03680,2nd Bn,37,94446
+Personnel_03681,3rd Bn,26,82903
+Personnel_03682,Ops,35,104236
+Personnel_03683,Signals,27,70826
+Personnel_03684,3rd Bn,37,39264
+Personnel_03685,3rd Bn,48,87432
+Personnel_03686,2nd Bn,54,91094
+Personnel_03687,3rd Bn,41,76777
+Personnel_03688,3rd Bn,35,118030
+Personnel_03689,HQ Coy,29,58407
+Personnel_03690,3rd Bn,39,75119
+Personnel_03691,1st Bn,36,57199
+Personnel_03692,2nd Bn,30,35121
+Personnel_03693,Ops,37,53734
+Personnel_03694,Ops,35,116735
+Personnel_03695,1st Bn,30,52614
+Personnel_03696,Ops,45,85891
+Personnel_03697,3rd Bn,50,51850
+Personnel_03698,3rd Bn,39,43576
+Personnel_03699,Signals,32,52182
+Personnel_03700,HQ Coy,26,78534
+Personnel_03701,1st Bn,43,77010
+Personnel_03702,1st Bn,22,52126
+Personnel_03703,3rd Bn,53,117476
+Personnel_03704,2nd Bn,37,107460
+Personnel_03705,HQ Coy,43,114644
+Personnel_03706,3rd Bn,34,84300
+Personnel_03707,Ops,41,109598
+Personnel_03708,1st Bn,47,57655
+Personnel_03709,1st Bn,26,82992
+Personnel_03710,3rd Bn,42,84958
+Personnel_03711,1st Bn,24,61883
+Personnel_03712,1st Bn,30,62349
+Personnel_03713,Ops,47,115971
+Personnel_03714,3rd Bn,33,54351
+Personnel_03715,3rd Bn,38,49796
+Personnel_03716,2nd Bn,30,49576
+Personnel_03717,Ops,36,107305
+Personnel_03718,2nd Bn,25,112411
+Personnel_03719,2nd Bn,30,113910
+Personnel_03720,3rd Bn,51,50933
+Personnel_03721,1st Bn,51,77869
+Personnel_03722,Ops,40,105709
+Personnel_03723,1st Bn,48,51819
+Personnel_03724,HQ Coy,25,57994
+Personnel_03725,Signals,23,81456
+Personnel_03726,2nd Bn,29,62287
+Personnel_03727,3rd Bn,42,105372
+Personnel_03728,HQ Coy,34,57332
+Personnel_03729,Signals,31,113263
+Personnel_03730,1st Bn,37,113145
+Personnel_03731,2nd Bn,47,70375
+Personnel_03732,3rd Bn,26,71930
+Personnel_03733,1st Bn,31,40737
+Personnel_03734,HQ Coy,42,95293
+Personnel_03735,1st Bn,52,114827
+Personnel_03736,3rd Bn,24,80501
+Personnel_03737,HQ Coy,26,64284
+Personnel_03738,Signals,30,47459
+Personnel_03739,1st Bn,41,111170
+Personnel_03740,HQ Coy,51,105233
+Personnel_03741,2nd Bn,38,97121
+Personnel_03742,Ops,39,63909
+Personnel_03743,1st Bn,23,47914
+Personnel_03744,Signals,30,112769
+Personnel_03745,HQ Coy,25,63698
+Personnel_03746,Ops,21,83386
+Personnel_03747,Ops,37,60100
+Personnel_03748,Signals,46,78951
+Personnel_03749,HQ Coy,23,64310
+Personnel_03750,2nd Bn,27,59343
+Personnel_03751,Signals,39,106713
+Personnel_03752,Ops,44,117531
+Personnel_03753,3rd Bn,27,62642
+Personnel_03754,3rd Bn,41,39620
+Personnel_03755,Ops,26,62121
+Personnel_03756,Signals,38,83770
+Personnel_03757,Ops,29,85072
+Personnel_03758,2nd Bn,27,56219
+Personnel_03759,3rd Bn,28,115160
+Personnel_03760,3rd Bn,46,40195
+Personnel_03761,Ops,50,67551
+Personnel_03762,1st Bn,47,78278
+Personnel_03763,Ops,28,85064
+Personnel_03764,1st Bn,33,63319
+Personnel_03765,Ops,30,107307
+Personnel_03766,HQ Coy,34,64954
+Personnel_03767,HQ Coy,24,117692
+Personnel_03768,Signals,29,63282
+Personnel_03769,Ops,35,56291
+Personnel_03770,HQ Coy,52,99368
+Personnel_03771,Signals,39,117431
+Personnel_03772,1st Bn,53,82978
+Personnel_03773,HQ Coy,53,61700
+Personnel_03774,Signals,28,78302
+Personnel_03775,3rd Bn,42,84526
+Personnel_03776,1st Bn,45,83990
+Personnel_03777,Signals,26,52327
+Personnel_03778,3rd Bn,24,38316
+Personnel_03779,2nd Bn,21,85723
+Personnel_03780,Ops,53,108893
+Personnel_03781,2nd Bn,37,93584
+Personnel_03782,Signals,43,83840
+Personnel_03783,2nd Bn,31,71734
+Personnel_03784,Ops,41,98974
+Personnel_03785,Signals,30,38952
+Personnel_03786,Ops,31,80951
+Personnel_03787,Ops,30,53433
+Personnel_03788,2nd Bn,44,48765
+Personnel_03789,HQ Coy,49,77314
+Personnel_03790,Signals,31,58727
+Personnel_03791,2nd Bn,51,109146
+Personnel_03792,HQ Coy,29,95698
+Personnel_03793,1st Bn,24,119830
+Personnel_03794,HQ Coy,29,63302
+Personnel_03795,HQ Coy,42,76385
+Personnel_03796,2nd Bn,22,107315
+Personnel_03797,Ops,26,106401
+Personnel_03798,2nd Bn,31,115536
+Personnel_03799,HQ Coy,36,67624
+Personnel_03800,1st Bn,53,109401
+Personnel_03801,2nd Bn,40,96835
+Personnel_03802,3rd Bn,37,60922
+Personnel_03803,HQ Coy,28,54783
+Personnel_03804,2nd Bn,46,82956
+Personnel_03805,3rd Bn,35,82481
+Personnel_03806,1st Bn,33,62099
+Personnel_03807,2nd Bn,30,49084
+Personnel_03808,Signals,32,48913
+Personnel_03809,Signals,42,72146
+Personnel_03810,Ops,50,110953
+Personnel_03811,HQ Coy,43,52104
+Personnel_03812,Signals,49,38013
+Personnel_03813,3rd Bn,27,45241
+Personnel_03814,Ops,38,40304
+Personnel_03815,1st Bn,28,80008
+Personnel_03816,Signals,25,36953
+Personnel_03817,1st Bn,25,45955
+Personnel_03818,HQ Coy,33,109278
+Personnel_03819,Signals,39,93130
+Personnel_03820,HQ Coy,26,88902
+Personnel_03821,HQ Coy,46,119369
+Personnel_03822,1st Bn,54,111080
+Personnel_03823,Ops,39,37970
+Personnel_03824,2nd Bn,37,92196
+Personnel_03825,1st Bn,49,87187
+Personnel_03826,1st Bn,39,60559
+Personnel_03827,3rd Bn,36,62338
+Personnel_03828,HQ Coy,39,62787
+Personnel_03829,HQ Coy,37,93550
+Personnel_03830,1st Bn,34,83175
+Personnel_03831,3rd Bn,48,76004
+Personnel_03832,HQ Coy,53,100154
+Personnel_03833,3rd Bn,53,109895
+Personnel_03834,Ops,39,43465
+Personnel_03835,2nd Bn,42,46815
+Personnel_03836,Ops,25,74496
+Personnel_03837,Ops,30,110141
+Personnel_03838,HQ Coy,53,84311
+Personnel_03839,Signals,35,92911
+Personnel_03840,3rd Bn,35,51739
+Personnel_03841,HQ Coy,54,68098
+Personnel_03842,1st Bn,28,119990
+Personnel_03843,1st Bn,34,43718
+Personnel_03844,Signals,32,48484
+Personnel_03845,3rd Bn,36,36132
+Personnel_03846,3rd Bn,37,68532
+Personnel_03847,Ops,25,70156
+Personnel_03848,1st Bn,23,75851
+Personnel_03849,Signals,33,53477
+Personnel_03850,2nd Bn,43,93944
+Personnel_03851,3rd Bn,30,112587
+Personnel_03852,2nd Bn,23,61761
+Personnel_03853,3rd Bn,38,62688
+Personnel_03854,1st Bn,27,76917
+Personnel_03855,Signals,47,75162
+Personnel_03856,1st Bn,47,58535
+Personnel_03857,1st Bn,31,117695
+Personnel_03858,2nd Bn,40,61468
+Personnel_03859,3rd Bn,41,102499
+Personnel_03860,3rd Bn,23,96516
+Personnel_03861,HQ Coy,53,40227
+Personnel_03862,Ops,27,48055
+Personnel_03863,2nd Bn,36,94876
+Personnel_03864,3rd Bn,37,89880
+Personnel_03865,Ops,35,86533
+Personnel_03866,Signals,38,59543
+Personnel_03867,Ops,28,53025
+Personnel_03868,1st Bn,51,97654
+Personnel_03869,3rd Bn,54,53344
+Personnel_03870,HQ Coy,54,48221
+Personnel_03871,Signals,22,69069
+Personnel_03872,HQ Coy,51,94089
+Personnel_03873,3rd Bn,46,46763
+Personnel_03874,3rd Bn,48,93712
+Personnel_03875,1st Bn,54,39838
+Personnel_03876,Ops,30,46543
+Personnel_03877,2nd Bn,44,85285
+Personnel_03878,1st Bn,28,73149
+Personnel_03879,Ops,32,47815
+Personnel_03880,HQ Coy,27,86591
+Personnel_03881,HQ Coy,44,105105
+Personnel_03882,Ops,22,98816
+Personnel_03883,Ops,23,65668
+Personnel_03884,1st Bn,51,109483
+Personnel_03885,3rd Bn,48,105824
+Personnel_03886,HQ Coy,31,79602
+Personnel_03887,3rd Bn,22,66474
+Personnel_03888,Signals,31,35333
+Personnel_03889,HQ Coy,37,118654
+Personnel_03890,Signals,35,103677
+Personnel_03891,Ops,36,55531
+Personnel_03892,3rd Bn,46,80243
+Personnel_03893,2nd Bn,42,74615
+Personnel_03894,Ops,26,108902
+Personnel_03895,Ops,28,43157
+Personnel_03896,HQ Coy,33,79891
+Personnel_03897,HQ Coy,42,114891
+Personnel_03898,Signals,45,107452
+Personnel_03899,Signals,40,55493
+Personnel_03900,1st Bn,41,108586
+Personnel_03901,1st Bn,50,119864
+Personnel_03902,3rd Bn,28,68849
+Personnel_03903,Ops,29,114280
+Personnel_03904,HQ Coy,27,109222
+Personnel_03905,3rd Bn,36,99664
+Personnel_03906,1st Bn,49,98625
+Personnel_03907,Signals,51,53656
+Personnel_03908,2nd Bn,34,90474
+Personnel_03909,3rd Bn,22,116892
+Personnel_03910,HQ Coy,39,71872
+Personnel_03911,2nd Bn,53,109705
+Personnel_03912,3rd Bn,42,71177
+Personnel_03913,3rd Bn,41,43221
+Personnel_03914,Ops,26,45917
+Personnel_03915,Signals,25,89429
+Personnel_03916,Signals,27,48181
+Personnel_03917,HQ Coy,38,110847
+Personnel_03918,3rd Bn,27,110739
+Personnel_03919,Ops,33,78304
+Personnel_03920,Ops,33,110059
+Personnel_03921,HQ Coy,27,63967
+Personnel_03922,Signals,27,87341
+Personnel_03923,Signals,34,77444
+Personnel_03924,Signals,51,44373
+Personnel_03925,HQ Coy,28,59892
+Personnel_03926,1st Bn,28,92459
+Personnel_03927,2nd Bn,27,39611
+Personnel_03928,2nd Bn,27,114263
+Personnel_03929,Ops,21,117925
+Personnel_03930,1st Bn,48,39538
+Personnel_03931,2nd Bn,30,48810
+Personnel_03932,3rd Bn,22,42431
+Personnel_03933,HQ Coy,41,85556
+Personnel_03934,3rd Bn,21,91483
+Personnel_03935,2nd Bn,50,42384
+Personnel_03936,Signals,26,110208
+Personnel_03937,2nd Bn,42,42805
+Personnel_03938,3rd Bn,42,47536
+Personnel_03939,Signals,33,78180
+Personnel_03940,HQ Coy,40,105958
+Personnel_03941,3rd Bn,47,86071
+Personnel_03942,Ops,33,40688
+Personnel_03943,3rd Bn,36,94969
+Personnel_03944,HQ Coy,23,71732
+Personnel_03945,2nd Bn,29,100782
+Personnel_03946,HQ Coy,22,55283
+Personnel_03947,2nd Bn,34,45908
+Personnel_03948,Signals,22,36281
+Personnel_03949,1st Bn,49,53719
+Personnel_03950,Ops,44,39399
+Personnel_03951,1st Bn,28,39766
+Personnel_03952,Ops,23,39064
+Personnel_03953,2nd Bn,28,71822
+Personnel_03954,HQ Coy,48,96704
+Personnel_03955,1st Bn,39,118166
+Personnel_03956,Signals,27,104626
+Personnel_03957,Ops,50,74956
+Personnel_03958,HQ Coy,52,46970
+Personnel_03959,3rd Bn,24,79524
+Personnel_03960,2nd Bn,43,60933
+Personnel_03961,Signals,22,83668
+Personnel_03962,1st Bn,32,84530
+Personnel_03963,Ops,52,49668
+Personnel_03964,3rd Bn,31,61578
+Personnel_03965,Signals,39,65625
+Personnel_03966,HQ Coy,49,54724
+Personnel_03967,Signals,21,37619
+Personnel_03968,3rd Bn,48,100654
+Personnel_03969,HQ Coy,31,86350
+Personnel_03970,HQ Coy,23,97994
+Personnel_03971,Ops,37,111062
+Personnel_03972,1st Bn,40,48514
+Personnel_03973,HQ Coy,38,56011
+Personnel_03974,Ops,25,62085
+Personnel_03975,3rd Bn,23,118107
+Personnel_03976,3rd Bn,45,111586
+Personnel_03977,3rd Bn,38,56093
+Personnel_03978,HQ Coy,38,62446
+Personnel_03979,2nd Bn,40,105037
+Personnel_03980,3rd Bn,36,113351
+Personnel_03981,Ops,34,99652
+Personnel_03982,Signals,30,67354
+Personnel_03983,Ops,30,55238
+Personnel_03984,3rd Bn,29,116193
+Personnel_03985,HQ Coy,27,109967
+Personnel_03986,HQ Coy,21,113061
+Personnel_03987,HQ Coy,49,119048
+Personnel_03988,HQ Coy,33,97232
+Personnel_03989,Signals,25,113518
+Personnel_03990,3rd Bn,29,78182
+Personnel_03991,2nd Bn,48,50614
+Personnel_03992,1st Bn,32,49130
+Personnel_03993,1st Bn,28,82139
+Personnel_03994,1st Bn,43,80725
+Personnel_03995,Signals,23,57958
+Personnel_03996,Signals,32,52756
+Personnel_03997,Ops,33,83219
+Personnel_03998,HQ Coy,37,82534
+Personnel_03999,2nd Bn,49,106155
+Personnel_04000,2nd Bn,52,119276
+Personnel_04001,3rd Bn,35,43476
+Personnel_04002,1st Bn,50,100790
+Personnel_04003,Ops,50,86302
+Personnel_04004,1st Bn,31,43312
+Personnel_04005,Signals,49,43746
+Personnel_04006,Ops,34,66460
+Personnel_04007,Ops,46,69526
+Personnel_04008,Ops,53,83808
+Personnel_04009,3rd Bn,46,72314
+Personnel_04010,1st Bn,29,91278
+Personnel_04011,3rd Bn,23,87410
+Personnel_04012,3rd Bn,48,35016
+Personnel_04013,2nd Bn,28,46775
+Personnel_04014,1st Bn,28,92285
+Personnel_04015,1st Bn,21,66152
+Personnel_04016,Signals,21,111226
+Personnel_04017,2nd Bn,30,109667
+Personnel_04018,1st Bn,37,65994
+Personnel_04019,2nd Bn,40,57610
+Personnel_04020,2nd Bn,34,82961
+Personnel_04021,HQ Coy,23,42153
+Personnel_04022,Signals,33,115707
+Personnel_04023,3rd Bn,42,86453
+Personnel_04024,Signals,53,76596
+Personnel_04025,3rd Bn,34,82964
+Personnel_04026,3rd Bn,50,80417
+Personnel_04027,1st Bn,32,77947
+Personnel_04028,2nd Bn,46,95842
+Personnel_04029,2nd Bn,30,67619
+Personnel_04030,2nd Bn,22,95391
+Personnel_04031,1st Bn,54,118952
+Personnel_04032,1st Bn,36,84339
+Personnel_04033,HQ Coy,52,114484
+Personnel_04034,Signals,24,82104
+Personnel_04035,Signals,30,101263
+Personnel_04036,3rd Bn,21,70600
+Personnel_04037,Ops,46,44492
+Personnel_04038,2nd Bn,26,111667
+Personnel_04039,2nd Bn,52,83312
+Personnel_04040,3rd Bn,45,114148
+Personnel_04041,Ops,28,68502
+Personnel_04042,3rd Bn,45,39954
+Personnel_04043,Signals,36,35180
+Personnel_04044,3rd Bn,42,87555
+Personnel_04045,3rd Bn,35,69639
+Personnel_04046,3rd Bn,48,105717
+Personnel_04047,Ops,49,119898
+Personnel_04048,3rd Bn,31,100816
+Personnel_04049,2nd Bn,36,104805
+Personnel_04050,1st Bn,24,95912
+Personnel_04051,Signals,39,75142
+Personnel_04052,HQ Coy,29,102517
+Personnel_04053,3rd Bn,32,93275
+Personnel_04054,1st Bn,38,79396
+Personnel_04055,Signals,37,101593
+Personnel_04056,Ops,31,88604
+Personnel_04057,Signals,45,63549
+Personnel_04058,2nd Bn,46,108735
+Personnel_04059,Signals,49,79086
+Personnel_04060,3rd Bn,52,90059
+Personnel_04061,Ops,49,107173
+Personnel_04062,HQ Coy,50,61992
+Personnel_04063,3rd Bn,32,73326
+Personnel_04064,3rd Bn,26,107596
+Personnel_04065,3rd Bn,36,58903
+Personnel_04066,Signals,43,118826
+Personnel_04067,3rd Bn,27,72883
+Personnel_04068,HQ Coy,29,44851
+Personnel_04069,2nd Bn,49,112264
+Personnel_04070,HQ Coy,32,91280
+Personnel_04071,2nd Bn,24,66183
+Personnel_04072,Ops,22,50451
+Personnel_04073,HQ Coy,28,98538
+Personnel_04074,HQ Coy,48,50515
+Personnel_04075,Ops,44,50763
+Personnel_04076,Signals,26,39291
+Personnel_04077,Signals,49,41801
+Personnel_04078,2nd Bn,28,90250
+Personnel_04079,2nd Bn,43,83067
+Personnel_04080,HQ Coy,36,71025
+Personnel_04081,2nd Bn,21,37601
+Personnel_04082,3rd Bn,50,61131
+Personnel_04083,3rd Bn,30,106198
+Personnel_04084,Signals,40,84195
+Personnel_04085,Signals,30,95277
+Personnel_04086,2nd Bn,40,70887
+Personnel_04087,Signals,36,92299
+Personnel_04088,Ops,21,110946
+Personnel_04089,2nd Bn,26,65498
+Personnel_04090,HQ Coy,27,84688
+Personnel_04091,1st Bn,48,105235
+Personnel_04092,HQ Coy,21,51438
+Personnel_04093,1st Bn,35,112056
+Personnel_04094,1st Bn,32,89670
+Personnel_04095,Ops,49,100181
+Personnel_04096,Signals,23,93451
+Personnel_04097,3rd Bn,29,60154
+Personnel_04098,2nd Bn,34,108136
+Personnel_04099,Signals,50,92132
+Personnel_04100,HQ Coy,39,40848
+Personnel_04101,Ops,26,96846
+Personnel_04102,3rd Bn,42,105105
+Personnel_04103,3rd Bn,41,39814
+Personnel_04104,2nd Bn,27,80071
+Personnel_04105,3rd Bn,40,43944
+Personnel_04106,3rd Bn,32,58337
+Personnel_04107,Ops,48,104890
+Personnel_04108,1st Bn,54,92063
+Personnel_04109,Ops,47,96078
+Personnel_04110,1st Bn,43,52432
+Personnel_04111,Signals,29,105131
+Personnel_04112,Signals,32,41950
+Personnel_04113,HQ Coy,31,64596
+Personnel_04114,3rd Bn,28,59118
+Personnel_04115,Signals,49,74780
+Personnel_04116,HQ Coy,45,89972
+Personnel_04117,3rd Bn,32,108971
+Personnel_04118,1st Bn,34,117932
+Personnel_04119,1st Bn,49,111474
+Personnel_04120,HQ Coy,52,97930
+Personnel_04121,1st Bn,32,51716
+Personnel_04122,1st Bn,25,73807
+Personnel_04123,1st Bn,39,65069
+Personnel_04124,HQ Coy,24,112736
+Personnel_04125,Ops,50,109247
+Personnel_04126,1st Bn,47,102743
+Personnel_04127,2nd Bn,43,46143
+Personnel_04128,Ops,35,35219
+Personnel_04129,Signals,33,74416
+Personnel_04130,1st Bn,26,59908
+Personnel_04131,Ops,37,119931
+Personnel_04132,2nd Bn,21,88536
+Personnel_04133,HQ Coy,47,109317
+Personnel_04134,Ops,26,109690
+Personnel_04135,Signals,35,102548
+Personnel_04136,2nd Bn,49,52623
+Personnel_04137,Signals,43,105112
+Personnel_04138,HQ Coy,38,114084
+Personnel_04139,Ops,50,68965
+Personnel_04140,Ops,43,50490
+Personnel_04141,1st Bn,51,115436
+Personnel_04142,1st Bn,41,101547
+Personnel_04143,Signals,24,98137
+Personnel_04144,Ops,53,42443
+Personnel_04145,Ops,45,74418
+Personnel_04146,HQ Coy,26,42774
+Personnel_04147,3rd Bn,37,39899
+Personnel_04148,1st Bn,44,59083
+Personnel_04149,Ops,50,87311
+Personnel_04150,HQ Coy,23,36564
+Personnel_04151,HQ Coy,21,101007
+Personnel_04152,Ops,32,113066
+Personnel_04153,3rd Bn,54,95339
+Personnel_04154,2nd Bn,32,51855
+Personnel_04155,Ops,27,54468
+Personnel_04156,Signals,43,78508
+Personnel_04157,Ops,51,49337
+Personnel_04158,2nd Bn,51,65329
+Personnel_04159,1st Bn,52,39610
+Personnel_04160,HQ Coy,45,77565
+Personnel_04161,HQ Coy,35,46084
+Personnel_04162,Ops,48,93967
+Personnel_04163,HQ Coy,25,88902
+Personnel_04164,Signals,53,82661
+Personnel_04165,1st Bn,34,69794
+Personnel_04166,HQ Coy,27,61345
+Personnel_04167,Ops,50,101608
+Personnel_04168,Signals,24,69914
+Personnel_04169,2nd Bn,48,103305
+Personnel_04170,Signals,36,118041
+Personnel_04171,1st Bn,41,93917
+Personnel_04172,HQ Coy,52,112190
+Personnel_04173,1st Bn,45,76509
+Personnel_04174,2nd Bn,24,63444
+Personnel_04175,2nd Bn,45,99992
+Personnel_04176,1st Bn,54,105363
+Personnel_04177,3rd Bn,54,106607
+Personnel_04178,1st Bn,36,88062
+Personnel_04179,Signals,25,91874
+Personnel_04180,3rd Bn,54,109357
+Personnel_04181,Ops,32,48698
+Personnel_04182,3rd Bn,33,71051
+Personnel_04183,Signals,53,99967
+Personnel_04184,3rd Bn,22,59498
+Personnel_04185,HQ Coy,53,95741
+Personnel_04186,Signals,33,98488
+Personnel_04187,2nd Bn,36,57515
+Personnel_04188,1st Bn,26,94991
+Personnel_04189,HQ Coy,40,100490
+Personnel_04190,2nd Bn,32,71639
+Personnel_04191,3rd Bn,44,61788
+Personnel_04192,HQ Coy,32,77307
+Personnel_04193,HQ Coy,53,58615
+Personnel_04194,Signals,54,38414
+Personnel_04195,Ops,23,73648
+Personnel_04196,2nd Bn,50,64772
+Personnel_04197,2nd Bn,53,44107
+Personnel_04198,HQ Coy,54,75741
+Personnel_04199,2nd Bn,29,74697
+Personnel_04200,2nd Bn,39,89501
+Personnel_04201,HQ Coy,34,44052
+Personnel_04202,HQ Coy,21,65262
+Personnel_04203,HQ Coy,39,104639
+Personnel_04204,Signals,24,95534
+Personnel_04205,Signals,26,40925
+Personnel_04206,Ops,27,68944
+Personnel_04207,2nd Bn,39,40699
+Personnel_04208,Signals,28,118159
+Personnel_04209,Signals,23,56198
+Personnel_04210,HQ Coy,35,112104
+Personnel_04211,Ops,51,73256
+Personnel_04212,3rd Bn,48,103037
+Personnel_04213,Signals,25,96744
+Personnel_04214,Signals,31,119170
+Personnel_04215,3rd Bn,53,94531
+Personnel_04216,HQ Coy,28,78890
+Personnel_04217,HQ Coy,30,37386
+Personnel_04218,HQ Coy,52,108621
+Personnel_04219,1st Bn,21,36066
+Personnel_04220,1st Bn,49,82673
+Personnel_04221,Signals,33,62054
+Personnel_04222,Signals,37,99963
+Personnel_04223,Ops,40,86823
+Personnel_04224,3rd Bn,42,70946
+Personnel_04225,2nd Bn,32,40139
+Personnel_04226,3rd Bn,46,48779
+Personnel_04227,Ops,38,100601
+Personnel_04228,2nd Bn,33,49000
+Personnel_04229,Ops,33,56510
+Personnel_04230,HQ Coy,21,112494
+Personnel_04231,Signals,44,76132
+Personnel_04232,Signals,52,69649
+Personnel_04233,HQ Coy,30,39383
+Personnel_04234,2nd Bn,35,47096
+Personnel_04235,Ops,39,77966
+Personnel_04236,3rd Bn,42,48909
+Personnel_04237,Signals,43,100049
+Personnel_04238,3rd Bn,43,86412
+Personnel_04239,HQ Coy,32,117347
+Personnel_04240,Ops,42,82329
+Personnel_04241,1st Bn,51,114357
+Personnel_04242,2nd Bn,52,70401
+Personnel_04243,Ops,35,109587
+Personnel_04244,Ops,34,91466
+Personnel_04245,HQ Coy,51,71560
+Personnel_04246,3rd Bn,34,88992
+Personnel_04247,Signals,50,80317
+Personnel_04248,Ops,52,98182
+Personnel_04249,3rd Bn,44,77036
+Personnel_04250,HQ Coy,26,90797
+Personnel_04251,1st Bn,30,101592
+Personnel_04252,1st Bn,43,65810
+Personnel_04253,Ops,21,97750
+Personnel_04254,Signals,46,43111
+Personnel_04255,Signals,44,97633
+Personnel_04256,HQ Coy,48,117357
+Personnel_04257,Ops,51,94141
+Personnel_04258,Signals,37,74428
+Personnel_04259,1st Bn,26,80957
+Personnel_04260,HQ Coy,52,98372
+Personnel_04261,Signals,42,42369
+Personnel_04262,Ops,50,106127
+Personnel_04263,2nd Bn,52,102371
+Personnel_04264,Ops,26,82136
+Personnel_04265,Ops,35,56582
+Personnel_04266,1st Bn,43,112110
+Personnel_04267,2nd Bn,54,67017
+Personnel_04268,3rd Bn,42,102421
+Personnel_04269,3rd Bn,39,99077
+Personnel_04270,HQ Coy,37,79569
+Personnel_04271,1st Bn,22,59536
+Personnel_04272,Ops,53,60053
+Personnel_04273,HQ Coy,26,39337
+Personnel_04274,Signals,51,43306
+Personnel_04275,1st Bn,36,108516
+Personnel_04276,Ops,46,109983
+Personnel_04277,Ops,38,43704
+Personnel_04278,Ops,49,61102
+Personnel_04279,Ops,33,108048
+Personnel_04280,Signals,28,97948
+Personnel_04281,3rd Bn,39,44861
+Personnel_04282,2nd Bn,46,41408
+Personnel_04283,HQ Coy,39,106195
+Personnel_04284,Ops,40,43543
+Personnel_04285,1st Bn,32,41611
+Personnel_04286,Ops,27,102941
+Personnel_04287,HQ Coy,31,44309
+Personnel_04288,1st Bn,26,52385
+Personnel_04289,1st Bn,24,105798
+Personnel_04290,Ops,46,46420
+Personnel_04291,Signals,31,84059
+Personnel_04292,2nd Bn,51,75130
+Personnel_04293,HQ Coy,43,69724
+Personnel_04294,2nd Bn,53,112291
+Personnel_04295,HQ Coy,38,58912
+Personnel_04296,1st Bn,35,39710
+Personnel_04297,Ops,24,114178
+Personnel_04298,Ops,39,109522
+Personnel_04299,2nd Bn,43,38113
+Personnel_04300,1st Bn,48,92984
+Personnel_04301,HQ Coy,42,104053
+Personnel_04302,1st Bn,49,48387
+Personnel_04303,1st Bn,39,39993
+Personnel_04304,HQ Coy,32,111480
+Personnel_04305,HQ Coy,39,37320
+Personnel_04306,Ops,41,73120
+Personnel_04307,2nd Bn,30,54449
+Personnel_04308,1st Bn,49,106054
+Personnel_04309,Signals,35,40185
+Personnel_04310,Ops,28,89214
+Personnel_04311,Signals,31,59419
+Personnel_04312,3rd Bn,39,113095
+Personnel_04313,3rd Bn,26,88438
+Personnel_04314,1st Bn,21,51890
+Personnel_04315,3rd Bn,39,76864
+Personnel_04316,2nd Bn,33,117554
+Personnel_04317,1st Bn,24,74246
+Personnel_04318,1st Bn,49,109202
+Personnel_04319,1st Bn,29,113388
+Personnel_04320,Ops,36,51072
+Personnel_04321,2nd Bn,49,113173
+Personnel_04322,HQ Coy,53,36532
+Personnel_04323,3rd Bn,24,78296
+Personnel_04324,Signals,32,44620
+Personnel_04325,Ops,24,112901
+Personnel_04326,Ops,43,54513
+Personnel_04327,1st Bn,49,42709
+Personnel_04328,2nd Bn,48,37247
+Personnel_04329,Ops,49,83104
+Personnel_04330,2nd Bn,45,65962
+Personnel_04331,3rd Bn,41,57047
+Personnel_04332,1st Bn,29,96314
+Personnel_04333,HQ Coy,35,77523
+Personnel_04334,3rd Bn,53,58996
+Personnel_04335,Signals,50,95388
+Personnel_04336,Signals,54,38086
+Personnel_04337,3rd Bn,38,75419
+Personnel_04338,1st Bn,43,114378
+Personnel_04339,Signals,42,90938
+Personnel_04340,HQ Coy,46,90879
+Personnel_04341,Signals,23,100561
+Personnel_04342,HQ Coy,50,37472
+Personnel_04343,HQ Coy,52,70925
+Personnel_04344,HQ Coy,36,88934
+Personnel_04345,2nd Bn,35,98470
+Personnel_04346,2nd Bn,30,76203
+Personnel_04347,1st Bn,48,54128
+Personnel_04348,3rd Bn,49,54200
+Personnel_04349,HQ Coy,41,65233
+Personnel_04350,Ops,53,60162
+Personnel_04351,Ops,50,58423
+Personnel_04352,1st Bn,49,61774
+Personnel_04353,Signals,53,75923
+Personnel_04354,1st Bn,49,36348
+Personnel_04355,1st Bn,39,82195
+Personnel_04356,2nd Bn,23,86205
+Personnel_04357,3rd Bn,52,72253
+Personnel_04358,Ops,37,50747
+Personnel_04359,2nd Bn,53,42281
+Personnel_04360,HQ Coy,33,107997
+Personnel_04361,2nd Bn,52,102771
+Personnel_04362,2nd Bn,22,112850
+Personnel_04363,3rd Bn,43,58034
+Personnel_04364,3rd Bn,34,74554
+Personnel_04365,Ops,35,115008
+Personnel_04366,HQ Coy,21,47636
+Personnel_04367,2nd Bn,50,45634
+Personnel_04368,HQ Coy,45,57689
+Personnel_04369,Signals,48,115299
+Personnel_04370,2nd Bn,27,115559
+Personnel_04371,HQ Coy,39,38734
+Personnel_04372,1st Bn,25,103556
+Personnel_04373,3rd Bn,25,66325
+Personnel_04374,2nd Bn,36,55161
+Personnel_04375,3rd Bn,39,73887
+Personnel_04376,Ops,25,113908
+Personnel_04377,3rd Bn,35,47749
+Personnel_04378,2nd Bn,25,69693
+Personnel_04379,3rd Bn,37,62774
+Personnel_04380,3rd Bn,43,103253
+Personnel_04381,Signals,48,53165
+Personnel_04382,2nd Bn,45,37447
+Personnel_04383,HQ Coy,29,57056
+Personnel_04384,Signals,51,117111
+Personnel_04385,3rd Bn,51,47338
+Personnel_04386,Ops,49,117910
+Personnel_04387,1st Bn,51,58374
+Personnel_04388,3rd Bn,52,70250
+Personnel_04389,2nd Bn,43,42243
+Personnel_04390,3rd Bn,22,37427
+Personnel_04391,Ops,30,85897
+Personnel_04392,2nd Bn,30,52405
+Personnel_04393,1st Bn,54,53240
+Personnel_04394,Signals,27,113740
+Personnel_04395,2nd Bn,26,92459
+Personnel_04396,Signals,22,73949
+Personnel_04397,3rd Bn,24,115926
+Personnel_04398,3rd Bn,21,55385
+Personnel_04399,Signals,48,37973
+Personnel_04400,2nd Bn,40,63931
+Personnel_04401,Signals,44,89428
+Personnel_04402,Signals,48,81715
+Personnel_04403,Signals,40,104747
+Personnel_04404,1st Bn,37,64948
+Personnel_04405,Signals,39,102003
+Personnel_04406,HQ Coy,53,108447
+Personnel_04407,Ops,21,55533
+Personnel_04408,HQ Coy,36,49620
+Personnel_04409,2nd Bn,41,52335
+Personnel_04410,Signals,43,35299
+Personnel_04411,Ops,29,41689
+Personnel_04412,HQ Coy,47,91911
+Personnel_04413,Ops,40,99013
+Personnel_04414,Signals,44,101719
+Personnel_04415,3rd Bn,41,70901
+Personnel_04416,3rd Bn,31,65525
+Personnel_04417,2nd Bn,46,67501
+Personnel_04418,2nd Bn,30,114306
+Personnel_04419,3rd Bn,54,79315
+Personnel_04420,2nd Bn,41,43503
+Personnel_04421,Signals,49,49472
+Personnel_04422,Ops,51,51287
+Personnel_04423,HQ Coy,35,36041
+Personnel_04424,Signals,38,98748
+Personnel_04425,Ops,41,109267
+Personnel_04426,1st Bn,41,96014
+Personnel_04427,3rd Bn,49,96433
+Personnel_04428,Signals,37,58678
+Personnel_04429,Ops,47,35274
+Personnel_04430,Ops,33,46576
+Personnel_04431,3rd Bn,35,116273
+Personnel_04432,3rd Bn,53,90438
+Personnel_04433,1st Bn,42,73918
+Personnel_04434,HQ Coy,31,70931
+Personnel_04435,2nd Bn,47,110972
+Personnel_04436,3rd Bn,45,71904
+Personnel_04437,3rd Bn,27,76731
+Personnel_04438,HQ Coy,52,111439
+Personnel_04439,Ops,30,36846
+Personnel_04440,2nd Bn,43,37074
+Personnel_04441,HQ Coy,45,78133
+Personnel_04442,3rd Bn,25,52604
+Personnel_04443,Signals,51,74719
+Personnel_04444,Ops,53,79931
+Personnel_04445,3rd Bn,53,110893
+Personnel_04446,1st Bn,42,86333
+Personnel_04447,Signals,41,114800
+Personnel_04448,Signals,38,107457
+Personnel_04449,Signals,47,67906
+Personnel_04450,HQ Coy,23,59810
+Personnel_04451,3rd Bn,29,45384
+Personnel_04452,3rd Bn,35,78347
+Personnel_04453,1st Bn,51,115310
+Personnel_04454,Ops,50,96397
+Personnel_04455,Ops,45,80030
+Personnel_04456,Signals,47,108620
+Personnel_04457,Signals,27,87891
+Personnel_04458,1st Bn,22,64744
+Personnel_04459,HQ Coy,42,65665
+Personnel_04460,Signals,29,52264
+Personnel_04461,3rd Bn,45,65565
+Personnel_04462,Signals,29,63105
+Personnel_04463,Signals,35,50353
+Personnel_04464,1st Bn,23,91397
+Personnel_04465,Signals,34,48283
+Personnel_04466,Signals,51,46923
+Personnel_04467,1st Bn,27,65229
+Personnel_04468,HQ Coy,29,93658
+Personnel_04469,Signals,38,84316
+Personnel_04470,Ops,29,117338
+Personnel_04471,3rd Bn,50,94780
+Personnel_04472,1st Bn,48,93590
+Personnel_04473,3rd Bn,26,91590
+Personnel_04474,Signals,26,82541
+Personnel_04475,1st Bn,23,100197
+Personnel_04476,1st Bn,47,58196
+Personnel_04477,Signals,36,94958
+Personnel_04478,Ops,50,90640
+Personnel_04479,2nd Bn,27,105841
+Personnel_04480,Signals,51,43002
+Personnel_04481,1st Bn,33,112565
+Personnel_04482,HQ Coy,38,89149
+Personnel_04483,2nd Bn,22,80036
+Personnel_04484,Signals,22,38232
+Personnel_04485,HQ Coy,43,79228
+Personnel_04486,Signals,30,82600
+Personnel_04487,2nd Bn,43,47441
+Personnel_04488,2nd Bn,29,116613
+Personnel_04489,3rd Bn,50,64347
+Personnel_04490,Signals,43,78612
+Personnel_04491,Signals,41,63737
+Personnel_04492,2nd Bn,50,88896
+Personnel_04493,Signals,50,68689
+Personnel_04494,HQ Coy,29,115393
+Personnel_04495,Ops,35,110928
+Personnel_04496,2nd Bn,43,113436
+Personnel_04497,Ops,29,35763
+Personnel_04498,3rd Bn,54,41005
+Personnel_04499,Ops,27,67899
+Personnel_04500,Signals,36,76668
+Personnel_04501,3rd Bn,31,44766
+Personnel_04502,Signals,37,39475
+Personnel_04503,Ops,52,46235
+Personnel_04504,HQ Coy,42,42779
+Personnel_04505,Signals,39,117413
+Personnel_04506,Signals,23,68191
+Personnel_04507,Ops,31,41219
+Personnel_04508,2nd Bn,42,80549
+Personnel_04509,2nd Bn,35,67668
+Personnel_04510,2nd Bn,48,95278
+Personnel_04511,2nd Bn,40,83556
+Personnel_04512,1st Bn,33,110413
+Personnel_04513,Ops,54,45278
+Personnel_04514,1st Bn,35,73441
+Personnel_04515,HQ Coy,28,48590
+Personnel_04516,2nd Bn,45,38331
+Personnel_04517,Ops,46,100714
+Personnel_04518,Signals,23,109021
+Personnel_04519,HQ Coy,38,87074
+Personnel_04520,2nd Bn,37,45700
+Personnel_04521,1st Bn,24,47219
+Personnel_04522,1st Bn,47,80234
+Personnel_04523,HQ Coy,53,87679
+Personnel_04524,3rd Bn,25,94176
+Personnel_04525,2nd Bn,23,106949
+Personnel_04526,HQ Coy,53,100395
+Personnel_04527,3rd Bn,54,102693
+Personnel_04528,1st Bn,46,98217
+Personnel_04529,1st Bn,26,41830
+Personnel_04530,Signals,26,88263
+Personnel_04531,2nd Bn,52,102970
+Personnel_04532,Ops,37,90059
+Personnel_04533,Signals,32,112125
+Personnel_04534,3rd Bn,47,107915
+Personnel_04535,3rd Bn,50,116522
+Personnel_04536,Ops,40,80768
+Personnel_04537,Signals,45,109026
+Personnel_04538,Ops,40,111253
+Personnel_04539,2nd Bn,30,81785
+Personnel_04540,1st Bn,54,78070
+Personnel_04541,Signals,36,88749
+Personnel_04542,HQ Coy,54,106672
+Personnel_04543,2nd Bn,27,40500
+Personnel_04544,3rd Bn,51,53311
+Personnel_04545,1st Bn,39,103905
+Personnel_04546,Signals,49,106502
+Personnel_04547,Signals,41,47096
+Personnel_04548,3rd Bn,38,49276
+Personnel_04549,1st Bn,44,119156
+Personnel_04550,Signals,31,63105
+Personnel_04551,Signals,43,79287
+Personnel_04552,Signals,32,74730
+Personnel_04553,3rd Bn,50,57352
+Personnel_04554,1st Bn,23,38109
+Personnel_04555,3rd Bn,28,105704
+Personnel_04556,1st Bn,42,107573
+Personnel_04557,2nd Bn,35,119594
+Personnel_04558,1st Bn,38,60630
+Personnel_04559,1st Bn,41,40313
+Personnel_04560,Ops,26,114496
+Personnel_04561,3rd Bn,42,71057
+Personnel_04562,1st Bn,36,55989
+Personnel_04563,1st Bn,22,78123
+Personnel_04564,HQ Coy,42,38933
+Personnel_04565,Ops,49,73498
+Personnel_04566,Signals,37,118852
+Personnel_04567,Ops,45,111338
+Personnel_04568,HQ Coy,51,104449
+Personnel_04569,3rd Bn,47,81382
+Personnel_04570,3rd Bn,53,96747
+Personnel_04571,1st Bn,37,50518
+Personnel_04572,3rd Bn,24,54475
+Personnel_04573,HQ Coy,31,38406
+Personnel_04574,Ops,46,101376
+Personnel_04575,3rd Bn,21,41724
+Personnel_04576,3rd Bn,45,76812
+Personnel_04577,1st Bn,43,39626
+Personnel_04578,1st Bn,35,51720
+Personnel_04579,Ops,42,46594
+Personnel_04580,3rd Bn,39,46267
+Personnel_04581,1st Bn,33,47589
+Personnel_04582,1st Bn,43,119122
+Personnel_04583,Signals,54,38047
+Personnel_04584,2nd Bn,39,113025
+Personnel_04585,1st Bn,52,53323
+Personnel_04586,2nd Bn,43,118383
+Personnel_04587,Ops,49,45739
+Personnel_04588,1st Bn,43,106384
+Personnel_04589,Ops,39,65784
+Personnel_04590,Ops,38,108291
+Personnel_04591,Signals,49,106698
+Personnel_04592,HQ Coy,28,91278
+Personnel_04593,1st Bn,45,39923
+Personnel_04594,2nd Bn,46,99786
+Personnel_04595,Ops,21,68057
+Personnel_04596,1st Bn,35,110004
+Personnel_04597,2nd Bn,52,116120
+Personnel_04598,Ops,25,77998
+Personnel_04599,HQ Coy,36,38936
+Personnel_04600,HQ Coy,39,92268
+Personnel_04601,1st Bn,47,75552
+Personnel_04602,Ops,38,116955
+Personnel_04603,Ops,52,87488
+Personnel_04604,Ops,35,60399
+Personnel_04605,Signals,32,59037
+Personnel_04606,Signals,27,60237
+Personnel_04607,HQ Coy,52,46063
+Personnel_04608,2nd Bn,25,76174
+Personnel_04609,3rd Bn,32,86749
+Personnel_04610,1st Bn,54,90131
+Personnel_04611,Signals,39,69117
+Personnel_04612,1st Bn,50,80911
+Personnel_04613,1st Bn,53,45796
+Personnel_04614,2nd Bn,45,58135
+Personnel_04615,HQ Coy,39,74332
+Personnel_04616,2nd Bn,41,85206
+Personnel_04617,3rd Bn,33,80187
+Personnel_04618,1st Bn,48,55616
+Personnel_04619,1st Bn,51,72110
+Personnel_04620,1st Bn,47,78513
+Personnel_04621,Signals,47,113645
+Personnel_04622,Signals,29,63140
+Personnel_04623,Signals,46,79849
+Personnel_04624,HQ Coy,30,76523
+Personnel_04625,Signals,47,67584
+Personnel_04626,2nd Bn,26,56622
+Personnel_04627,Ops,49,86345
+Personnel_04628,1st Bn,34,55196
+Personnel_04629,2nd Bn,29,70792
+Personnel_04630,HQ Coy,50,76347
+Personnel_04631,Signals,54,117441
+Personnel_04632,HQ Coy,35,80712
+Personnel_04633,1st Bn,44,35099
+Personnel_04634,3rd Bn,30,115034
+Personnel_04635,Ops,32,99111
+Personnel_04636,Signals,49,68776
+Personnel_04637,3rd Bn,44,35286
+Personnel_04638,1st Bn,27,112151
+Personnel_04639,HQ Coy,32,119361
+Personnel_04640,Ops,34,93102
+Personnel_04641,Ops,29,111202
+Personnel_04642,HQ Coy,37,51129
+Personnel_04643,2nd Bn,26,65235
+Personnel_04644,2nd Bn,23,98552
+Personnel_04645,2nd Bn,25,98477
+Personnel_04646,1st Bn,40,42066
+Personnel_04647,HQ Coy,48,38443
+Personnel_04648,3rd Bn,47,84331
+Personnel_04649,Signals,28,73922
+Personnel_04650,1st Bn,25,111074
+Personnel_04651,Ops,43,85027
+Personnel_04652,HQ Coy,49,114376
+Personnel_04653,Ops,34,100621
+Personnel_04654,Ops,30,87898
+Personnel_04655,Ops,44,69655
+Personnel_04656,1st Bn,22,106942
+Personnel_04657,1st Bn,45,86206
+Personnel_04658,2nd Bn,35,56446
+Personnel_04659,HQ Coy,47,35941
+Personnel_04660,Signals,38,100577
+Personnel_04661,3rd Bn,51,80065
+Personnel_04662,HQ Coy,31,40952
+Personnel_04663,HQ Coy,44,79534
+Personnel_04664,2nd Bn,33,60961
+Personnel_04665,Signals,35,35577
+Personnel_04666,HQ Coy,43,85765
+Personnel_04667,Ops,38,100443
+Personnel_04668,3rd Bn,33,113638
+Personnel_04669,1st Bn,51,110537
+Personnel_04670,Signals,49,55535
+Personnel_04671,Signals,45,115838
+Personnel_04672,2nd Bn,48,93969
+Personnel_04673,Ops,25,64849
+Personnel_04674,HQ Coy,54,51603
+Personnel_04675,2nd Bn,36,84049
+Personnel_04676,HQ Coy,40,61016
+Personnel_04677,Signals,50,57255
+Personnel_04678,Signals,40,51354
+Personnel_04679,Signals,43,98870
+Personnel_04680,1st Bn,39,40201
+Personnel_04681,Signals,41,60961
+Personnel_04682,2nd Bn,44,86856
+Personnel_04683,2nd Bn,23,97555
+Personnel_04684,Ops,35,46181
+Personnel_04685,Ops,43,57306
+Personnel_04686,Signals,38,64612
+Personnel_04687,2nd Bn,27,64164
+Personnel_04688,2nd Bn,24,35863
+Personnel_04689,HQ Coy,24,85538
+Personnel_04690,Signals,39,51542
+Personnel_04691,Signals,48,52503
+Personnel_04692,Signals,43,43013
+Personnel_04693,1st Bn,44,59709
+Personnel_04694,HQ Coy,27,114525
+Personnel_04695,Signals,36,74212
+Personnel_04696,1st Bn,24,37476
+Personnel_04697,1st Bn,45,59546
+Personnel_04698,Signals,48,81936
+Personnel_04699,2nd Bn,39,55566
+Personnel_04700,HQ Coy,41,38410
+Personnel_04701,3rd Bn,40,80485
+Personnel_04702,1st Bn,48,43363
+Personnel_04703,3rd Bn,30,75060
+Personnel_04704,1st Bn,33,72607
+Personnel_04705,1st Bn,38,66843
+Personnel_04706,2nd Bn,29,66230
+Personnel_04707,Ops,21,110359
+Personnel_04708,Ops,25,40787
+Personnel_04709,HQ Coy,31,83110
+Personnel_04710,Ops,33,105196
+Personnel_04711,1st Bn,39,63350
+Personnel_04712,2nd Bn,29,35556
+Personnel_04713,Signals,26,71963
+Personnel_04714,1st Bn,41,103799
+Personnel_04715,Signals,31,102666
+Personnel_04716,2nd Bn,52,108429
+Personnel_04717,Ops,42,91795
+Personnel_04718,1st Bn,23,119951
+Personnel_04719,Signals,44,42700
+Personnel_04720,1st Bn,22,97611
+Personnel_04721,1st Bn,53,81854
+Personnel_04722,HQ Coy,42,47798
+Personnel_04723,3rd Bn,22,51438
+Personnel_04724,HQ Coy,48,115666
+Personnel_04725,Signals,30,78150
+Personnel_04726,Ops,42,103770
+Personnel_04727,Ops,33,57543
+Personnel_04728,2nd Bn,45,76513
+Personnel_04729,1st Bn,48,87286
+Personnel_04730,2nd Bn,36,107453
+Personnel_04731,1st Bn,27,101233
+Personnel_04732,Ops,35,106224
+Personnel_04733,Ops,43,117501
+Personnel_04734,Ops,21,45630
+Personnel_04735,Signals,34,58727
+Personnel_04736,1st Bn,51,84086
+Personnel_04737,Signals,28,47045
+Personnel_04738,Signals,29,104519
+Personnel_04739,3rd Bn,44,119245
+Personnel_04740,Ops,30,47028
+Personnel_04741,1st Bn,29,48935
+Personnel_04742,1st Bn,30,63473
+Personnel_04743,Signals,29,44280
+Personnel_04744,Signals,52,62151
+Personnel_04745,3rd Bn,25,44695
+Personnel_04746,3rd Bn,32,45371
+Personnel_04747,Ops,38,96075
+Personnel_04748,Ops,46,113432
+Personnel_04749,HQ Coy,32,44215
+Personnel_04750,1st Bn,39,118866
+Personnel_04751,HQ Coy,46,37770
+Personnel_04752,3rd Bn,28,47496
+Personnel_04753,1st Bn,44,72843
+Personnel_04754,Signals,36,82641
+Personnel_04755,3rd Bn,21,113137
+Personnel_04756,1st Bn,52,43180
+Personnel_04757,HQ Coy,39,107645
+Personnel_04758,1st Bn,29,100453
+Personnel_04759,HQ Coy,49,43877
+Personnel_04760,3rd Bn,53,73630
+Personnel_04761,3rd Bn,40,62111
+Personnel_04762,Signals,43,87267
+Personnel_04763,3rd Bn,33,90656
+Personnel_04764,Ops,25,39773
+Personnel_04765,Signals,26,94054
+Personnel_04766,Signals,36,99136
+Personnel_04767,1st Bn,52,104112
+Personnel_04768,3rd Bn,34,43441
+Personnel_04769,1st Bn,45,58742
+Personnel_04770,HQ Coy,31,112024
+Personnel_04771,Ops,33,100963
+Personnel_04772,2nd Bn,49,115549
+Personnel_04773,3rd Bn,34,46501
+Personnel_04774,Ops,39,64235
+Personnel_04775,Signals,27,90333
+Personnel_04776,Ops,34,37102
+Personnel_04777,1st Bn,46,103207
+Personnel_04778,Signals,41,46728
+Personnel_04779,HQ Coy,22,73152
+Personnel_04780,Ops,52,101996
+Personnel_04781,3rd Bn,33,102958
+Personnel_04782,3rd Bn,39,96782
+Personnel_04783,3rd Bn,28,104705
+Personnel_04784,2nd Bn,30,94199
+Personnel_04785,Signals,21,39794
+Personnel_04786,HQ Coy,28,105541
+Personnel_04787,Ops,28,78174
+Personnel_04788,Signals,29,59195
+Personnel_04789,HQ Coy,37,83670
+Personnel_04790,3rd Bn,23,113554
+Personnel_04791,Signals,40,57115
+Personnel_04792,3rd Bn,27,94389
+Personnel_04793,HQ Coy,25,36228
+Personnel_04794,HQ Coy,48,77320
+Personnel_04795,HQ Coy,37,86066
+Personnel_04796,3rd Bn,28,57424
+Personnel_04797,Signals,30,106274
+Personnel_04798,Signals,48,52493
+Personnel_04799,Signals,40,36478
+Personnel_04800,3rd Bn,44,77939
+Personnel_04801,Ops,32,68602
+Personnel_04802,HQ Coy,49,72639
+Personnel_04803,3rd Bn,39,88471
+Personnel_04804,3rd Bn,33,97652
+Personnel_04805,1st Bn,40,111322
+Personnel_04806,1st Bn,51,52644
+Personnel_04807,2nd Bn,27,70035
+Personnel_04808,2nd Bn,26,92970
+Personnel_04809,1st Bn,46,81920
+Personnel_04810,3rd Bn,42,119042
+Personnel_04811,HQ Coy,26,35626
+Personnel_04812,2nd Bn,41,101259
+Personnel_04813,HQ Coy,22,35726
+Personnel_04814,Signals,51,92372
+Personnel_04815,Signals,33,71112
+Personnel_04816,3rd Bn,48,39170
+Personnel_04817,1st Bn,22,50494
+Personnel_04818,Ops,48,106909
+Personnel_04819,2nd Bn,37,108243
+Personnel_04820,3rd Bn,24,54132
+Personnel_04821,Ops,33,94198
+Personnel_04822,HQ Coy,28,119653
+Personnel_04823,1st Bn,49,101664
+Personnel_04824,Ops,28,82524
+Personnel_04825,Ops,41,59164
+Personnel_04826,Ops,31,40370
+Personnel_04827,1st Bn,32,75464
+Personnel_04828,Signals,21,44355
+Personnel_04829,Signals,31,45551
+Personnel_04830,HQ Coy,31,64254
+Personnel_04831,1st Bn,45,87038
+Personnel_04832,HQ Coy,48,55324
+Personnel_04833,3rd Bn,52,44488
+Personnel_04834,Ops,54,91912
+Personnel_04835,Signals,53,86525
+Personnel_04836,HQ Coy,34,89564
+Personnel_04837,2nd Bn,23,101438
+Personnel_04838,HQ Coy,53,44849
+Personnel_04839,2nd Bn,38,77247
+Personnel_04840,HQ Coy,43,119870
+Personnel_04841,Ops,46,42906
+Personnel_04842,2nd Bn,26,75094
+Personnel_04843,Ops,54,85338
+Personnel_04844,HQ Coy,36,116949
+Personnel_04845,1st Bn,36,93566
+Personnel_04846,1st Bn,43,105081
+Personnel_04847,1st Bn,37,92221
+Personnel_04848,Ops,50,85161
+Personnel_04849,Ops,26,67564
+Personnel_04850,Ops,38,40963
+Personnel_04851,1st Bn,34,61882
+Personnel_04852,Signals,42,51151
+Personnel_04853,Signals,23,107061
+Personnel_04854,Ops,34,95646
+Personnel_04855,2nd Bn,35,36016
+Personnel_04856,2nd Bn,28,80992
+Personnel_04857,Ops,48,60965
+Personnel_04858,Ops,24,100313
+Personnel_04859,1st Bn,46,74921
+Personnel_04860,3rd Bn,51,102120
+Personnel_04861,Ops,34,105244
+Personnel_04862,Ops,49,111836
+Personnel_04863,1st Bn,53,80423
+Personnel_04864,3rd Bn,38,119288
+Personnel_04865,Ops,37,106959
+Personnel_04866,2nd Bn,38,90333
+Personnel_04867,HQ Coy,40,73618
+Personnel_04868,1st Bn,32,100445
+Personnel_04869,Ops,24,70193
+Personnel_04870,Ops,39,46250
+Personnel_04871,HQ Coy,47,35897
+Personnel_04872,Ops,48,104143
+Personnel_04873,Signals,36,78530
+Personnel_04874,2nd Bn,50,74483
+Personnel_04875,2nd Bn,52,94579
+Personnel_04876,Ops,53,118969
+Personnel_04877,1st Bn,36,110144
+Personnel_04878,2nd Bn,54,68008
+Personnel_04879,2nd Bn,21,87246
+Personnel_04880,Signals,23,101792
+Personnel_04881,1st Bn,24,114941
+Personnel_04882,3rd Bn,54,90495
+Personnel_04883,Ops,22,63021
+Personnel_04884,2nd Bn,42,112480
+Personnel_04885,HQ Coy,33,39987
+Personnel_04886,HQ Coy,54,64110
+Personnel_04887,Signals,47,81386
+Personnel_04888,1st Bn,45,78983
+Personnel_04889,2nd Bn,45,47694
+Personnel_04890,2nd Bn,29,118546
+Personnel_04891,1st Bn,48,95169
+Personnel_04892,3rd Bn,23,45104
+Personnel_04893,2nd Bn,51,117772
+Personnel_04894,Signals,34,49930
+Personnel_04895,2nd Bn,21,89396
+Personnel_04896,3rd Bn,24,105576
+Personnel_04897,Ops,53,88810
+Personnel_04898,2nd Bn,52,81536
+Personnel_04899,Signals,30,117580
+Personnel_04900,Ops,30,60494
+Personnel_04901,2nd Bn,54,62066
+Personnel_04902,Ops,42,43897
+Personnel_04903,Signals,40,51792
+Personnel_04904,2nd Bn,39,41267
+Personnel_04905,2nd Bn,44,74781
+Personnel_04906,3rd Bn,31,111785
+Personnel_04907,Ops,47,50956
+Personnel_04908,2nd Bn,22,118495
+Personnel_04909,3rd Bn,36,59529
+Personnel_04910,HQ Coy,47,81622
+Personnel_04911,3rd Bn,27,44258
+Personnel_04912,Signals,22,80452
+Personnel_04913,HQ Coy,54,108044
+Personnel_04914,Signals,27,114705
+Personnel_04915,HQ Coy,30,104818
+Personnel_04916,HQ Coy,24,80964
+Personnel_04917,Signals,28,93345
+Personnel_04918,HQ Coy,30,88886
+Personnel_04919,HQ Coy,30,46055
+Personnel_04920,Ops,45,56011
+Personnel_04921,3rd Bn,34,72783
+Personnel_04922,2nd Bn,44,113804
+Personnel_04923,Signals,45,93085
+Personnel_04924,3rd Bn,40,82450
+Personnel_04925,3rd Bn,42,57155
+Personnel_04926,2nd Bn,52,73906
+Personnel_04927,Ops,47,103372
+Personnel_04928,Ops,34,84277
+Personnel_04929,3rd Bn,22,46859
+Personnel_04930,Ops,29,78534
+Personnel_04931,2nd Bn,26,101794
+Personnel_04932,Ops,24,65260
+Personnel_04933,HQ Coy,32,75097
+Personnel_04934,1st Bn,51,57760
+Personnel_04935,Ops,40,46115
+Personnel_04936,3rd Bn,21,94389
+Personnel_04937,Signals,40,70584
+Personnel_04938,1st Bn,30,39086
+Personnel_04939,HQ Coy,32,92123
+Personnel_04940,Ops,48,116856
+Personnel_04941,Ops,25,68477
+Personnel_04942,Ops,45,99497
+Personnel_04943,3rd Bn,41,113073
+Personnel_04944,Signals,52,64774
+Personnel_04945,3rd Bn,43,38572
+Personnel_04946,HQ Coy,35,65089
+Personnel_04947,HQ Coy,49,55367
+Personnel_04948,1st Bn,48,43964
+Personnel_04949,1st Bn,43,84663
+Personnel_04950,HQ Coy,42,45892
+Personnel_04951,2nd Bn,40,117959
+Personnel_04952,1st Bn,48,89210
+Personnel_04953,Signals,32,53466
+Personnel_04954,3rd Bn,29,63636
+Personnel_04955,1st Bn,43,117864
+Personnel_04956,1st Bn,43,51033
+Personnel_04957,Ops,38,60074
+Personnel_04958,3rd Bn,41,51772
+Personnel_04959,Ops,48,46528
+Personnel_04960,Signals,35,69530
+Personnel_04961,Ops,52,55744
+Personnel_04962,Signals,36,43356
+Personnel_04963,Ops,47,52529
+Personnel_04964,Ops,41,96480
+Personnel_04965,Signals,40,84125
+Personnel_04966,HQ Coy,53,55407
+Personnel_04967,3rd Bn,48,90071
+Personnel_04968,3rd Bn,32,107268
+Personnel_04969,Signals,22,47970
+Personnel_04970,Ops,35,99857
+Personnel_04971,1st Bn,39,104425
+Personnel_04972,HQ Coy,25,57578
+Personnel_04973,2nd Bn,38,100134
+Personnel_04974,2nd Bn,47,51177
+Personnel_04975,Signals,36,99170
+Personnel_04976,Ops,22,78779
+Personnel_04977,1st Bn,50,101762
+Personnel_04978,Ops,21,51938
+Personnel_04979,1st Bn,49,55422
+Personnel_04980,HQ Coy,27,118038
+Personnel_04981,HQ Coy,43,101866
+Personnel_04982,HQ Coy,37,93670
+Personnel_04983,Signals,23,44268
+Personnel_04984,2nd Bn,50,94243
+Personnel_04985,3rd Bn,21,35243
+Personnel_04986,Signals,33,62972
+Personnel_04987,Ops,52,104903
+Personnel_04988,1st Bn,52,83302
+Personnel_04989,Signals,24,96793
+Personnel_04990,Ops,41,89267
+Personnel_04991,Ops,37,85867
+Personnel_04992,2nd Bn,42,99932
+Personnel_04993,HQ Coy,25,103525
+Personnel_04994,1st Bn,47,40372
+Personnel_04995,HQ Coy,22,73603
+Personnel_04996,3rd Bn,28,72922
+Personnel_04997,HQ Coy,47,59591
+Personnel_04998,Ops,39,94700
+Personnel_04999,HQ Coy,39,76593
+Personnel_05000,2nd Bn,34,69787
+Personnel_05001,HQ Coy,31,65825
+Personnel_05002,Ops,38,38781
+Personnel_05003,3rd Bn,22,67057
+Personnel_05004,2nd Bn,41,52774
+Personnel_05005,Ops,23,57473
+Personnel_05006,3rd Bn,41,53829
+Personnel_05007,1st Bn,49,84092
+Personnel_05008,3rd Bn,42,99895
+Personnel_05009,Ops,24,51068
+Personnel_05010,1st Bn,40,92362
+Personnel_05011,Signals,29,59693
+Personnel_05012,2nd Bn,41,70778
+Personnel_05013,Signals,46,74030
+Personnel_05014,Signals,25,54514
+Personnel_05015,3rd Bn,33,58954
+Personnel_05016,1st Bn,43,92710
+Personnel_05017,Ops,47,83330
+Personnel_05018,HQ Coy,39,40813
+Personnel_05019,Signals,43,113888
+Personnel_05020,2nd Bn,33,94373
+Personnel_05021,1st Bn,27,75472
+Personnel_05022,Signals,48,89721
+Personnel_05023,HQ Coy,21,80553
+Personnel_05024,2nd Bn,43,95200
+Personnel_05025,2nd Bn,21,45856
+Personnel_05026,HQ Coy,21,43919
+Personnel_05027,1st Bn,24,103465
+Personnel_05028,Signals,53,100496
+Personnel_05029,HQ Coy,43,42768
+Personnel_05030,2nd Bn,31,119418
+Personnel_05031,Ops,34,77144
+Personnel_05032,3rd Bn,27,48906
+Personnel_05033,HQ Coy,39,61829
+Personnel_05034,HQ Coy,36,63332
+Personnel_05035,1st Bn,21,62995
+Personnel_05036,3rd Bn,40,52727
+Personnel_05037,HQ Coy,43,91746
+Personnel_05038,HQ Coy,37,67275
+Personnel_05039,Signals,25,112124
+Personnel_05040,Signals,52,101022
+Personnel_05041,2nd Bn,41,110880
+Personnel_05042,3rd Bn,32,110032
+Personnel_05043,1st Bn,27,73056
+Personnel_05044,3rd Bn,54,87538
+Personnel_05045,Signals,27,83937
+Personnel_05046,HQ Coy,49,93544
+Personnel_05047,3rd Bn,34,111693
+Personnel_05048,2nd Bn,48,46095
+Personnel_05049,1st Bn,23,59360
+Personnel_05050,Ops,21,114538
+Personnel_05051,HQ Coy,53,80435
+Personnel_05052,Signals,41,108272
+Personnel_05053,3rd Bn,39,45154
+Personnel_05054,1st Bn,46,73645
+Personnel_05055,3rd Bn,47,105400
+Personnel_05056,2nd Bn,24,93347
+Personnel_05057,Ops,44,97678
+Personnel_05058,Ops,36,37580
+Personnel_05059,Signals,33,91942
+Personnel_05060,3rd Bn,40,48593
+Personnel_05061,Ops,27,87712
+Personnel_05062,2nd Bn,30,64035
+Personnel_05063,1st Bn,51,87372
+Personnel_05064,Signals,37,43343
+Personnel_05065,1st Bn,34,82040
+Personnel_05066,Ops,53,74037
+Personnel_05067,Ops,43,42571
+Personnel_05068,2nd Bn,29,51716
+Personnel_05069,Ops,27,103746
+Personnel_05070,Signals,49,35159
+Personnel_05071,3rd Bn,51,82224
+Personnel_05072,Signals,45,111833
+Personnel_05073,1st Bn,46,108026
+Personnel_05074,Ops,28,116236
+Personnel_05075,1st Bn,53,62982
+Personnel_05076,2nd Bn,38,76316
+Personnel_05077,3rd Bn,21,76990
+Personnel_05078,Ops,40,106050
+Personnel_05079,1st Bn,54,54867
+Personnel_05080,Ops,43,40923
+Personnel_05081,Signals,29,57873
+Personnel_05082,Signals,21,87227
+Personnel_05083,Ops,32,44504
+Personnel_05084,Signals,26,61358
+Personnel_05085,HQ Coy,50,55084
+Personnel_05086,3rd Bn,43,75438
+Personnel_05087,2nd Bn,22,65064
+Personnel_05088,2nd Bn,52,112472
+Personnel_05089,Signals,27,94335
+Personnel_05090,2nd Bn,48,69564
+Personnel_05091,Ops,54,57389
+Personnel_05092,Signals,33,77640
+Personnel_05093,Ops,54,105720
+Personnel_05094,Ops,44,51782
+Personnel_05095,HQ Coy,33,92446
+Personnel_05096,Signals,39,106850
+Personnel_05097,3rd Bn,26,117391
+Personnel_05098,1st Bn,35,81924
+Personnel_05099,3rd Bn,30,49926
+Personnel_05100,HQ Coy,35,53148
+Personnel_05101,3rd Bn,52,62078
+Personnel_05102,3rd Bn,23,62535
+Personnel_05103,Signals,44,42027
+Personnel_05104,Signals,31,103939
+Personnel_05105,HQ Coy,46,35211
+Personnel_05106,Ops,23,78459
+Personnel_05107,1st Bn,43,90311
+Personnel_05108,2nd Bn,41,70850
+Personnel_05109,3rd Bn,43,59582
+Personnel_05110,Ops,54,115399
+Personnel_05111,1st Bn,51,96394
+Personnel_05112,HQ Coy,37,86645
+Personnel_05113,3rd Bn,24,60294
+Personnel_05114,2nd Bn,34,98082
+Personnel_05115,Ops,27,91694
+Personnel_05116,1st Bn,40,77150
+Personnel_05117,HQ Coy,40,118444
+Personnel_05118,HQ Coy,45,35658
+Personnel_05119,HQ Coy,31,96901
+Personnel_05120,2nd Bn,47,93009
+Personnel_05121,1st Bn,31,91586
+Personnel_05122,1st Bn,35,40612
+Personnel_05123,3rd Bn,39,82399
+Personnel_05124,3rd Bn,24,95231
+Personnel_05125,1st Bn,42,61597
+Personnel_05126,HQ Coy,41,67272
+Personnel_05127,HQ Coy,37,95957
+Personnel_05128,Ops,43,65803
+Personnel_05129,Ops,25,64382
+Personnel_05130,Ops,38,79904
+Personnel_05131,3rd Bn,48,78707
+Personnel_05132,Signals,52,108823
+Personnel_05133,Signals,36,116271
+Personnel_05134,2nd Bn,47,112055
+Personnel_05135,2nd Bn,45,70154
+Personnel_05136,1st Bn,40,106917
+Personnel_05137,1st Bn,30,53870
+Personnel_05138,3rd Bn,35,97640
+Personnel_05139,Signals,51,92860
+Personnel_05140,2nd Bn,50,118452
+Personnel_05141,1st Bn,43,84233
+Personnel_05142,Ops,54,85895
+Personnel_05143,1st Bn,49,70340
+Personnel_05144,3rd Bn,33,87876
+Personnel_05145,HQ Coy,43,50919
+Personnel_05146,Signals,32,69850
+Personnel_05147,HQ Coy,26,58940
+Personnel_05148,1st Bn,49,42563
+Personnel_05149,1st Bn,43,43530
+Personnel_05150,HQ Coy,23,60568
+Personnel_05151,1st Bn,37,38120
+Personnel_05152,2nd Bn,52,51184
+Personnel_05153,3rd Bn,21,99196
+Personnel_05154,3rd Bn,42,114353
+Personnel_05155,3rd Bn,43,54014
+Personnel_05156,1st Bn,42,92347
+Personnel_05157,1st Bn,39,81514
+Personnel_05158,2nd Bn,34,43724
+Personnel_05159,3rd Bn,26,60506
+Personnel_05160,Signals,54,79353
+Personnel_05161,HQ Coy,38,84105
+Personnel_05162,HQ Coy,35,87122
+Personnel_05163,3rd Bn,31,89116
+Personnel_05164,HQ Coy,32,35572
+Personnel_05165,3rd Bn,29,58742
+Personnel_05166,3rd Bn,32,89983
+Personnel_05167,Ops,40,74369
+Personnel_05168,Signals,43,110275
+Personnel_05169,3rd Bn,37,45315
+Personnel_05170,HQ Coy,54,51801
+Personnel_05171,HQ Coy,41,114417
+Personnel_05172,HQ Coy,49,40287
+Personnel_05173,1st Bn,45,106467
+Personnel_05174,Signals,46,96152
+Personnel_05175,3rd Bn,36,66271
+Personnel_05176,Ops,28,76319
+Personnel_05177,Signals,39,53938
+Personnel_05178,2nd Bn,29,113450
+Personnel_05179,Signals,51,77944
+Personnel_05180,3rd Bn,50,114000
+Personnel_05181,Ops,40,64822
+Personnel_05182,1st Bn,34,93834
+Personnel_05183,2nd Bn,24,74741
+Personnel_05184,Ops,32,110321
+Personnel_05185,3rd Bn,41,50542
+Personnel_05186,1st Bn,32,63317
+Personnel_05187,Ops,31,50514
+Personnel_05188,Signals,25,106348
+Personnel_05189,Signals,25,91661
+Personnel_05190,3rd Bn,35,48336
+Personnel_05191,Ops,38,56278
+Personnel_05192,HQ Coy,50,90162
+Personnel_05193,3rd Bn,36,66003
+Personnel_05194,1st Bn,50,55100
+Personnel_05195,1st Bn,37,100802
+Personnel_05196,Ops,36,45168
+Personnel_05197,HQ Coy,21,88965
+Personnel_05198,3rd Bn,39,44970
+Personnel_05199,3rd Bn,37,82548
+Personnel_05200,Signals,22,90889
+Personnel_05201,3rd Bn,49,54141
+Personnel_05202,3rd Bn,27,46795
+Personnel_05203,1st Bn,33,65026
+Personnel_05204,HQ Coy,26,65529
+Personnel_05205,1st Bn,25,102661
+Personnel_05206,HQ Coy,35,66812
+Personnel_05207,2nd Bn,25,45769
+Personnel_05208,3rd Bn,46,86376
+Personnel_05209,Ops,21,106687
+Personnel_05210,2nd Bn,51,37669
+Personnel_05211,1st Bn,25,85019
+Personnel_05212,Ops,54,39154
+Personnel_05213,2nd Bn,35,77162
+Personnel_05214,1st Bn,34,95866
+Personnel_05215,HQ Coy,23,108109
+Personnel_05216,3rd Bn,53,47060
+Personnel_05217,2nd Bn,22,52476
+Personnel_05218,1st Bn,28,58734
+Personnel_05219,2nd Bn,27,40587
+Personnel_05220,Ops,37,52803
+Personnel_05221,HQ Coy,25,39983
+Personnel_05222,3rd Bn,24,112860
+Personnel_05223,2nd Bn,33,37260
+Personnel_05224,2nd Bn,53,111794
+Personnel_05225,3rd Bn,30,35047
+Personnel_05226,1st Bn,43,54568
+Personnel_05227,Ops,31,118111
+Personnel_05228,HQ Coy,21,113792
+Personnel_05229,2nd Bn,25,119984
+Personnel_05230,1st Bn,54,89488
+Personnel_05231,HQ Coy,25,93971
+Personnel_05232,2nd Bn,24,109029
+Personnel_05233,1st Bn,45,59015
+Personnel_05234,HQ Coy,46,49406
+Personnel_05235,Signals,26,37656
+Personnel_05236,HQ Coy,40,46702
+Personnel_05237,Signals,22,71835
+Personnel_05238,3rd Bn,35,95068
+Personnel_05239,2nd Bn,27,116363
+Personnel_05240,HQ Coy,46,107478
+Personnel_05241,3rd Bn,21,118445
+Personnel_05242,3rd Bn,30,81653
+Personnel_05243,HQ Coy,40,41810
+Personnel_05244,Signals,26,93327
+Personnel_05245,Signals,34,114991
+Personnel_05246,HQ Coy,51,74966
+Personnel_05247,HQ Coy,30,111866
+Personnel_05248,Signals,30,68075
+Personnel_05249,3rd Bn,32,107967
+Personnel_05250,Signals,32,91943
+Personnel_05251,Signals,49,106825
+Personnel_05252,Signals,46,36082
+Personnel_05253,Ops,35,54077
+Personnel_05254,Ops,34,100363
+Personnel_05255,1st Bn,41,72011
+Personnel_05256,Signals,50,83715
+Personnel_05257,1st Bn,28,113257
+Personnel_05258,Ops,51,70672
+Personnel_05259,1st Bn,28,70058
+Personnel_05260,3rd Bn,29,66812
+Personnel_05261,HQ Coy,45,105879
+Personnel_05262,HQ Coy,36,94674
+Personnel_05263,1st Bn,43,81983
+Personnel_05264,Signals,26,97308
+Personnel_05265,Signals,33,47981
+Personnel_05266,1st Bn,25,83824
+Personnel_05267,2nd Bn,36,60308
+Personnel_05268,Signals,30,101007
+Personnel_05269,3rd Bn,51,106982
+Personnel_05270,3rd Bn,24,71818
+Personnel_05271,1st Bn,47,75219
+Personnel_05272,HQ Coy,29,67012
+Personnel_05273,2nd Bn,30,66106
+Personnel_05274,1st Bn,31,77233
+Personnel_05275,1st Bn,44,92454
+Personnel_05276,Ops,27,82780
+Personnel_05277,3rd Bn,37,115546
+Personnel_05278,1st Bn,40,81546
+Personnel_05279,1st Bn,43,118313
+Personnel_05280,3rd Bn,21,86864
+Personnel_05281,3rd Bn,22,96541
+Personnel_05282,1st Bn,52,55213
+Personnel_05283,HQ Coy,25,104839
+Personnel_05284,3rd Bn,53,91056
+Personnel_05285,Signals,51,80260
+Personnel_05286,Signals,27,48928
+Personnel_05287,Ops,21,42926
+Personnel_05288,2nd Bn,32,42574
+Personnel_05289,3rd Bn,47,64915
+Personnel_05290,Ops,24,93246
+Personnel_05291,Signals,39,83529
+Personnel_05292,2nd Bn,25,110116
+Personnel_05293,Signals,28,101942
+Personnel_05294,HQ Coy,42,60863
+Personnel_05295,3rd Bn,39,73294
+Personnel_05296,HQ Coy,52,41048
+Personnel_05297,Signals,28,82842
+Personnel_05298,1st Bn,40,98501
+Personnel_05299,Signals,39,63268
+Personnel_05300,Ops,54,64681
+Personnel_05301,3rd Bn,54,98300
+Personnel_05302,1st Bn,50,104313
+Personnel_05303,1st Bn,38,93753
+Personnel_05304,Signals,36,86307
+Personnel_05305,Signals,37,119207
+Personnel_05306,Signals,44,110603
+Personnel_05307,HQ Coy,31,67684
+Personnel_05308,HQ Coy,51,62298
+Personnel_05309,2nd Bn,42,101154
+Personnel_05310,HQ Coy,47,115213
+Personnel_05311,3rd Bn,29,91632
+Personnel_05312,Ops,25,109896
+Personnel_05313,Ops,34,50404
+Personnel_05314,2nd Bn,24,61840
+Personnel_05315,2nd Bn,44,91285
+Personnel_05316,Ops,37,118111
+Personnel_05317,Signals,42,97310
+Personnel_05318,3rd Bn,33,36362
+Personnel_05319,2nd Bn,45,88212
+Personnel_05320,3rd Bn,22,54636
+Personnel_05321,Ops,25,64288
+Personnel_05322,3rd Bn,50,37426
+Personnel_05323,Signals,36,111671
+Personnel_05324,HQ Coy,47,68333
+Personnel_05325,HQ Coy,32,88749
+Personnel_05326,Ops,45,88172
+Personnel_05327,Signals,28,109653
+Personnel_05328,1st Bn,29,79453
+Personnel_05329,Ops,32,59110
+Personnel_05330,3rd Bn,30,91640
+Personnel_05331,HQ Coy,32,78718
+Personnel_05332,Signals,29,92876
+Personnel_05333,Signals,36,102428
+Personnel_05334,HQ Coy,39,79207
+Personnel_05335,2nd Bn,22,52858
+Personnel_05336,2nd Bn,30,36648
+Personnel_05337,1st Bn,44,69934
+Personnel_05338,1st Bn,43,35561
+Personnel_05339,2nd Bn,27,57625
+Personnel_05340,3rd Bn,22,108397
+Personnel_05341,HQ Coy,38,58164
+Personnel_05342,Ops,41,48049
+Personnel_05343,1st Bn,33,91603
+Personnel_05344,2nd Bn,33,98925
+Personnel_05345,3rd Bn,31,98402
+Personnel_05346,1st Bn,44,110503
+Personnel_05347,Signals,52,71884
+Personnel_05348,2nd Bn,36,66517
+Personnel_05349,1st Bn,36,90135
+Personnel_05350,HQ Coy,30,44264
+Personnel_05351,Ops,36,98405
+Personnel_05352,Signals,46,73175
+Personnel_05353,Ops,42,86770
+Personnel_05354,2nd Bn,40,77017
+Personnel_05355,3rd Bn,32,82824
+Personnel_05356,Signals,54,44909
+Personnel_05357,Ops,23,43431
+Personnel_05358,1st Bn,31,43262
+Personnel_05359,Ops,29,59216
+Personnel_05360,Signals,41,40195
+Personnel_05361,HQ Coy,26,46579
+Personnel_05362,Signals,44,87501
+Personnel_05363,HQ Coy,40,83669
+Personnel_05364,Signals,36,85911
+Personnel_05365,2nd Bn,41,40804
+Personnel_05366,Ops,36,111714
+Personnel_05367,Ops,40,113772
+Personnel_05368,Ops,30,49135
+Personnel_05369,Ops,49,72851
+Personnel_05370,Ops,44,52509
+Personnel_05371,2nd Bn,46,74752
+Personnel_05372,3rd Bn,30,35918
+Personnel_05373,3rd Bn,22,55589
+Personnel_05374,Signals,29,65803
+Personnel_05375,Ops,37,91085
+Personnel_05376,HQ Coy,37,57753
+Personnel_05377,Signals,31,111608
+Personnel_05378,Signals,28,73907
+Personnel_05379,HQ Coy,30,79917
+Personnel_05380,Signals,39,73170
+Personnel_05381,2nd Bn,52,96347
+Personnel_05382,3rd Bn,28,71993
+Personnel_05383,Signals,45,111141
+Personnel_05384,3rd Bn,52,76132
+Personnel_05385,Ops,22,89235
+Personnel_05386,2nd Bn,31,44952
+Personnel_05387,3rd Bn,46,116928
+Personnel_05388,1st Bn,45,115218
+Personnel_05389,2nd Bn,40,35828
+Personnel_05390,1st Bn,33,39190
+Personnel_05391,Signals,30,37765
+Personnel_05392,3rd Bn,32,107933
+Personnel_05393,HQ Coy,38,48567
+Personnel_05394,HQ Coy,42,119473
+Personnel_05395,3rd Bn,23,52738
+Personnel_05396,HQ Coy,41,94579
+Personnel_05397,Ops,35,88374
+Personnel_05398,HQ Coy,31,111183
+Personnel_05399,1st Bn,27,64287
+Personnel_05400,1st Bn,22,54006
+Personnel_05401,HQ Coy,54,51494
+Personnel_05402,1st Bn,28,37590
+Personnel_05403,HQ Coy,48,39839
+Personnel_05404,Ops,51,59379
+Personnel_05405,Ops,36,78801
+Personnel_05406,1st Bn,48,106379
+Personnel_05407,HQ Coy,27,41692
+Personnel_05408,Signals,38,114222
+Personnel_05409,Signals,43,61815
+Personnel_05410,1st Bn,36,67434
+Personnel_05411,1st Bn,42,46818
+Personnel_05412,Ops,52,111565
+Personnel_05413,3rd Bn,53,112529
+Personnel_05414,Signals,28,88712
+Personnel_05415,Signals,44,73264
+Personnel_05416,Signals,36,35597
+Personnel_05417,1st Bn,34,92194
+Personnel_05418,Ops,37,61649
+Personnel_05419,3rd Bn,52,47408
+Personnel_05420,2nd Bn,51,79423
+Personnel_05421,HQ Coy,42,44837
+Personnel_05422,HQ Coy,49,79958
+Personnel_05423,HQ Coy,22,102270
+Personnel_05424,1st Bn,54,93346
+Personnel_05425,HQ Coy,26,85844
+Personnel_05426,3rd Bn,31,107553
+Personnel_05427,HQ Coy,34,65627
+Personnel_05428,Signals,27,45089
+Personnel_05429,3rd Bn,43,53905
+Personnel_05430,HQ Coy,21,52659
+Personnel_05431,1st Bn,27,68988
+Personnel_05432,HQ Coy,31,44214
+Personnel_05433,3rd Bn,52,39591
+Personnel_05434,HQ Coy,23,47132
+Personnel_05435,1st Bn,37,35519
+Personnel_05436,2nd Bn,32,74459
+Personnel_05437,3rd Bn,28,42889
+Personnel_05438,3rd Bn,22,113626
+Personnel_05439,1st Bn,25,102847
+Personnel_05440,1st Bn,47,55766
+Personnel_05441,HQ Coy,30,103484
+Personnel_05442,3rd Bn,44,90496
+Personnel_05443,1st Bn,42,50884
+Personnel_05444,3rd Bn,32,40623
+Personnel_05445,HQ Coy,22,44280
+Personnel_05446,Ops,36,38663
+Personnel_05447,Ops,26,61620
+Personnel_05448,Ops,28,42530
+Personnel_05449,3rd Bn,54,78238
+Personnel_05450,1st Bn,37,60203
+Personnel_05451,Ops,39,47637
+Personnel_05452,1st Bn,34,86988
+Personnel_05453,2nd Bn,51,61648
+Personnel_05454,1st Bn,48,82480
+Personnel_05455,Ops,49,55838
+Personnel_05456,HQ Coy,33,58088
+Personnel_05457,1st Bn,41,109282
+Personnel_05458,3rd Bn,39,86496
+Personnel_05459,2nd Bn,43,77193
+Personnel_05460,2nd Bn,38,104539
+Personnel_05461,Signals,49,84885
+Personnel_05462,Signals,50,89654
+Personnel_05463,HQ Coy,26,108118
+Personnel_05464,3rd Bn,26,46241
+Personnel_05465,1st Bn,45,56856
+Personnel_05466,2nd Bn,24,119252
+Personnel_05467,3rd Bn,48,50123
+Personnel_05468,Ops,32,37749
+Personnel_05469,2nd Bn,29,116662
+Personnel_05470,Ops,25,41391
+Personnel_05471,2nd Bn,32,104433
+Personnel_05472,Ops,31,59102
+Personnel_05473,Signals,47,115486
+Personnel_05474,Ops,39,76396
+Personnel_05475,HQ Coy,45,95491
+Personnel_05476,Signals,28,39051
+Personnel_05477,HQ Coy,44,118631
+Personnel_05478,1st Bn,22,76299
+Personnel_05479,2nd Bn,43,51454
+Personnel_05480,Signals,38,55272
+Personnel_05481,Signals,26,63985
+Personnel_05482,HQ Coy,32,98061
+Personnel_05483,Ops,33,117214
+Personnel_05484,1st Bn,36,37063
+Personnel_05485,Ops,45,114177
+Personnel_05486,Ops,37,110801
+Personnel_05487,Signals,32,41363
+Personnel_05488,2nd Bn,34,110382
+Personnel_05489,3rd Bn,38,83426
+Personnel_05490,Ops,33,86733
+Personnel_05491,2nd Bn,26,113731
+Personnel_05492,HQ Coy,25,93521
+Personnel_05493,Ops,41,90595
+Personnel_05494,Ops,40,66511
+Personnel_05495,1st Bn,54,103961
+Personnel_05496,3rd Bn,27,87984
+Personnel_05497,1st Bn,45,87693
+Personnel_05498,3rd Bn,24,58776
+Personnel_05499,HQ Coy,54,80384
+Personnel_05500,1st Bn,42,115148
+Personnel_05501,1st Bn,40,39170
+Personnel_05502,1st Bn,39,80834
+Personnel_05503,1st Bn,38,95130
+Personnel_05504,HQ Coy,33,85301
+Personnel_05505,2nd Bn,37,85282
+Personnel_05506,2nd Bn,44,35132
+Personnel_05507,Ops,39,75340
+Personnel_05508,3rd Bn,38,116453
+Personnel_05509,HQ Coy,33,73473
+Personnel_05510,Signals,38,56148
+Personnel_05511,Ops,33,90677
+Personnel_05512,1st Bn,45,68074
+Personnel_05513,Ops,52,99160
+Personnel_05514,3rd Bn,26,60182
+Personnel_05515,2nd Bn,29,60540
+Personnel_05516,HQ Coy,24,75843
+Personnel_05517,Signals,21,73648
+Personnel_05518,Ops,23,68477
+Personnel_05519,Signals,24,44069
+Personnel_05520,Signals,48,72181
+Personnel_05521,HQ Coy,23,93387
+Personnel_05522,3rd Bn,25,118969
+Personnel_05523,3rd Bn,23,113231
+Personnel_05524,3rd Bn,37,105461
+Personnel_05525,2nd Bn,37,75518
+Personnel_05526,Signals,27,98776
+Personnel_05527,1st Bn,21,95593
+Personnel_05528,Signals,39,100218
+Personnel_05529,Signals,45,92112
+Personnel_05530,1st Bn,45,41285
+Personnel_05531,3rd Bn,38,35438
+Personnel_05532,Ops,46,82645
+Personnel_05533,1st Bn,42,61924
+Personnel_05534,Signals,32,106055
+Personnel_05535,3rd Bn,37,72427
+Personnel_05536,HQ Coy,48,81584
+Personnel_05537,Ops,36,52686
+Personnel_05538,Ops,39,108360
+Personnel_05539,3rd Bn,29,47547
+Personnel_05540,2nd Bn,50,70967
+Personnel_05541,HQ Coy,26,71655
+Personnel_05542,Ops,29,48813
+Personnel_05543,2nd Bn,49,110414
+Personnel_05544,3rd Bn,22,43189
+Personnel_05545,2nd Bn,53,48277
+Personnel_05546,Ops,50,40104
+Personnel_05547,Ops,22,80333
+Personnel_05548,2nd Bn,21,51204
+Personnel_05549,3rd Bn,32,98737
+Personnel_05550,2nd Bn,46,83614
+Personnel_05551,Ops,25,116889
+Personnel_05552,Signals,32,72764
+Personnel_05553,2nd Bn,25,67023
+Personnel_05554,HQ Coy,54,61930
+Personnel_05555,2nd Bn,22,111488
+Personnel_05556,2nd Bn,22,98879
+Personnel_05557,HQ Coy,22,90912
+Personnel_05558,2nd Bn,49,85947
+Personnel_05559,Signals,38,91413
+Personnel_05560,HQ Coy,22,81907
+Personnel_05561,1st Bn,42,37076
+Personnel_05562,2nd Bn,37,75316
+Personnel_05563,Ops,29,58269
+Personnel_05564,HQ Coy,40,114914
+Personnel_05565,1st Bn,46,37198
+Personnel_05566,Signals,22,86212
+Personnel_05567,HQ Coy,40,67115
+Personnel_05568,HQ Coy,22,99962
+Personnel_05569,3rd Bn,41,119416
+Personnel_05570,3rd Bn,40,72046
+Personnel_05571,2nd Bn,54,107259
+Personnel_05572,Ops,34,92405
+Personnel_05573,Signals,31,85607
+Personnel_05574,HQ Coy,23,97839
+Personnel_05575,Signals,31,67104
+Personnel_05576,2nd Bn,23,114583
+Personnel_05577,HQ Coy,33,106998
+Personnel_05578,Ops,30,105223
+Personnel_05579,Signals,40,40848
+Personnel_05580,3rd Bn,44,41175
+Personnel_05581,HQ Coy,50,104419
+Personnel_05582,2nd Bn,52,77367
+Personnel_05583,Signals,47,102740
+Personnel_05584,Signals,24,112725
+Personnel_05585,3rd Bn,52,36304
+Personnel_05586,HQ Coy,37,80370
+Personnel_05587,Signals,37,110185
+Personnel_05588,HQ Coy,26,93553
+Personnel_05589,3rd Bn,53,60049
+Personnel_05590,HQ Coy,48,103431
+Personnel_05591,1st Bn,23,114316
+Personnel_05592,1st Bn,48,92381
+Personnel_05593,1st Bn,36,61973
+Personnel_05594,3rd Bn,28,61639
+Personnel_05595,1st Bn,48,41308
+Personnel_05596,HQ Coy,24,88194
+Personnel_05597,HQ Coy,27,48961
+Personnel_05598,HQ Coy,50,100978
+Personnel_05599,1st Bn,32,44011
+Personnel_05600,Signals,24,99454
+Personnel_05601,HQ Coy,22,43822
+Personnel_05602,1st Bn,53,35494
+Personnel_05603,HQ Coy,34,35208
+Personnel_05604,2nd Bn,33,58226
+Personnel_05605,Ops,29,62571
+Personnel_05606,Signals,25,119565
+Personnel_05607,HQ Coy,47,97540
+Personnel_05608,3rd Bn,29,108003
+Personnel_05609,Signals,47,68873
+Personnel_05610,3rd Bn,21,63817
+Personnel_05611,3rd Bn,35,85042
+Personnel_05612,Ops,39,42796
+Personnel_05613,3rd Bn,37,47780
+Personnel_05614,Ops,32,112209
+Personnel_05615,2nd Bn,34,72759
+Personnel_05616,HQ Coy,28,66876
+Personnel_05617,2nd Bn,33,65989
+Personnel_05618,3rd Bn,32,108837
+Personnel_05619,Signals,38,68979
+Personnel_05620,1st Bn,49,89629
+Personnel_05621,1st Bn,53,107833
+Personnel_05622,Signals,51,97961
+Personnel_05623,Ops,33,71592
+Personnel_05624,1st Bn,38,74231
+Personnel_05625,Signals,30,86979
+Personnel_05626,HQ Coy,48,67920
+Personnel_05627,HQ Coy,36,85974
+Personnel_05628,2nd Bn,31,72375
+Personnel_05629,HQ Coy,30,36421
+Personnel_05630,Signals,41,111242
+Personnel_05631,Ops,44,48748
+Personnel_05632,2nd Bn,45,48915
+Personnel_05633,2nd Bn,22,65160
+Personnel_05634,1st Bn,33,80381
+Personnel_05635,Ops,50,73338
+Personnel_05636,Ops,35,84925
+Personnel_05637,Ops,44,93993
+Personnel_05638,2nd Bn,37,60362
+Personnel_05639,2nd Bn,46,68439
+Personnel_05640,3rd Bn,24,54406
+Personnel_05641,2nd Bn,38,115435
+Personnel_05642,HQ Coy,48,51522
+Personnel_05643,2nd Bn,49,47244
+Personnel_05644,HQ Coy,41,59581
+Personnel_05645,Ops,48,43622
+Personnel_05646,Signals,33,42204
+Personnel_05647,HQ Coy,46,112561
+Personnel_05648,3rd Bn,51,41793
+Personnel_05649,Ops,33,106068
+Personnel_05650,1st Bn,42,116286
+Personnel_05651,Ops,47,73758
+Personnel_05652,Ops,43,99164
+Personnel_05653,Signals,53,110771
+Personnel_05654,1st Bn,28,99585
+Personnel_05655,Ops,44,70931
+Personnel_05656,1st Bn,44,77182
+Personnel_05657,3rd Bn,50,46762
+Personnel_05658,1st Bn,33,58157
+Personnel_05659,2nd Bn,23,110703
+Personnel_05660,HQ Coy,37,51289
+Personnel_05661,2nd Bn,47,81108
+Personnel_05662,HQ Coy,22,116285
+Personnel_05663,2nd Bn,30,98633
+Personnel_05664,Signals,28,43873
+Personnel_05665,Ops,35,107769
+Personnel_05666,Signals,40,67670
+Personnel_05667,Ops,49,110680
+Personnel_05668,Ops,27,119619
+Personnel_05669,3rd Bn,28,58631
+Personnel_05670,1st Bn,51,88282
+Personnel_05671,3rd Bn,38,82116
+Personnel_05672,Signals,44,91232
+Personnel_05673,HQ Coy,48,95374
+Personnel_05674,2nd Bn,24,49723
+Personnel_05675,HQ Coy,46,104454
+Personnel_05676,1st Bn,27,109116
+Personnel_05677,HQ Coy,27,102973
+Personnel_05678,3rd Bn,54,57797
+Personnel_05679,HQ Coy,32,66400
+Personnel_05680,HQ Coy,26,70894
+Personnel_05681,1st Bn,34,53062
+Personnel_05682,2nd Bn,44,89274
+Personnel_05683,Ops,35,88241
+Personnel_05684,1st Bn,52,86165
+Personnel_05685,3rd Bn,33,99325
+Personnel_05686,Signals,21,83767
+Personnel_05687,2nd Bn,44,111615
+Personnel_05688,2nd Bn,24,111286
+Personnel_05689,3rd Bn,22,69220
+Personnel_05690,3rd Bn,46,115106
+Personnel_05691,3rd Bn,50,42778
+Personnel_05692,HQ Coy,38,78756
+Personnel_05693,3rd Bn,30,89263
+Personnel_05694,2nd Bn,41,109032
+Personnel_05695,1st Bn,38,91875
+Personnel_05696,Signals,37,103245
+Personnel_05697,2nd Bn,45,59337
+Personnel_05698,1st Bn,30,69159
+Personnel_05699,1st Bn,31,36890
+Personnel_05700,3rd Bn,24,94617
+Personnel_05701,Signals,33,72214
+Personnel_05702,1st Bn,40,55249
+Personnel_05703,3rd Bn,24,105545
+Personnel_05704,3rd Bn,24,60386
+Personnel_05705,3rd Bn,48,103139
+Personnel_05706,HQ Coy,39,45428
+Personnel_05707,HQ Coy,23,43325
+Personnel_05708,Ops,38,90728
+Personnel_05709,Signals,24,46964
+Personnel_05710,3rd Bn,54,63738
+Personnel_05711,3rd Bn,41,96450
+Personnel_05712,2nd Bn,21,94586
+Personnel_05713,1st Bn,48,93477
+Personnel_05714,1st Bn,34,55766
+Personnel_05715,Ops,41,74208
+Personnel_05716,HQ Coy,28,51938
+Personnel_05717,1st Bn,32,100195
+Personnel_05718,HQ Coy,27,119919
+Personnel_05719,1st Bn,26,41979
+Personnel_05720,3rd Bn,23,78779
+Personnel_05721,1st Bn,46,109297
+Personnel_05722,3rd Bn,30,105097
+Personnel_05723,Ops,54,76531
+Personnel_05724,1st Bn,44,45207
+Personnel_05725,Signals,36,99233
+Personnel_05726,3rd Bn,41,98268
+Personnel_05727,1st Bn,46,61424
+Personnel_05728,Ops,39,72634
+Personnel_05729,3rd Bn,24,64340
+Personnel_05730,Ops,38,41718
+Personnel_05731,Signals,31,63604
+Personnel_05732,Signals,47,56187
+Personnel_05733,Signals,52,92474
+Personnel_05734,3rd Bn,32,49698
+Personnel_05735,HQ Coy,22,64514
+Personnel_05736,2nd Bn,48,41244
+Personnel_05737,Ops,43,78695
+Personnel_05738,3rd Bn,37,71894
+Personnel_05739,1st Bn,24,62912
+Personnel_05740,Ops,45,62032
+Personnel_05741,Signals,22,44024
+Personnel_05742,Signals,47,54260
+Personnel_05743,3rd Bn,25,42924
+Personnel_05744,3rd Bn,43,102644
+Personnel_05745,Signals,42,36585
+Personnel_05746,Ops,51,118423
+Personnel_05747,Signals,30,78432
+Personnel_05748,Ops,53,40253
+Personnel_05749,HQ Coy,54,107622
+Personnel_05750,Ops,29,66563
+Personnel_05751,HQ Coy,53,40397
+Personnel_05752,HQ Coy,46,55279
+Personnel_05753,Ops,51,68709
+Personnel_05754,2nd Bn,23,42873
+Personnel_05755,1st Bn,25,107603
+Personnel_05756,3rd Bn,45,111998
+Personnel_05757,3rd Bn,24,50073
+Personnel_05758,Signals,34,65573
+Personnel_05759,1st Bn,42,72680
+Personnel_05760,Signals,44,39130
+Personnel_05761,Signals,26,52638
+Personnel_05762,1st Bn,53,48022
+Personnel_05763,2nd Bn,21,75513
+Personnel_05764,1st Bn,53,38807
+Personnel_05765,3rd Bn,40,115787
+Personnel_05766,1st Bn,35,73874
+Personnel_05767,HQ Coy,38,95356
+Personnel_05768,1st Bn,45,54886
+Personnel_05769,HQ Coy,25,38341
+Personnel_05770,HQ Coy,25,97659
+Personnel_05771,Ops,49,39804
+Personnel_05772,3rd Bn,27,57278
+Personnel_05773,HQ Coy,35,96426
+Personnel_05774,3rd Bn,37,57043
+Personnel_05775,2nd Bn,46,57984
+Personnel_05776,3rd Bn,45,103587
+Personnel_05777,2nd Bn,37,102041
+Personnel_05778,2nd Bn,35,100841
+Personnel_05779,HQ Coy,50,42690
+Personnel_05780,3rd Bn,44,114312
+Personnel_05781,Ops,32,73234
+Personnel_05782,3rd Bn,41,109537
+Personnel_05783,2nd Bn,49,70776
+Personnel_05784,Ops,53,108626
+Personnel_05785,1st Bn,22,96754
+Personnel_05786,1st Bn,47,76095
+Personnel_05787,Ops,39,47441
+Personnel_05788,Signals,31,118083
+Personnel_05789,Ops,27,94426
+Personnel_05790,HQ Coy,23,102927
+Personnel_05791,3rd Bn,21,73592
+Personnel_05792,Ops,45,102057
+Personnel_05793,2nd Bn,45,108858
+Personnel_05794,3rd Bn,46,90030
+Personnel_05795,2nd Bn,26,51910
+Personnel_05796,1st Bn,36,115668
+Personnel_05797,HQ Coy,50,53716
+Personnel_05798,3rd Bn,49,77953
+Personnel_05799,HQ Coy,47,93873
+Personnel_05800,Ops,49,117516
+Personnel_05801,HQ Coy,51,92940
+Personnel_05802,2nd Bn,36,99957
+Personnel_05803,HQ Coy,21,115612
+Personnel_05804,2nd Bn,21,96729
+Personnel_05805,2nd Bn,21,83718
+Personnel_05806,2nd Bn,52,117524
+Personnel_05807,Ops,48,104415
+Personnel_05808,2nd Bn,31,73593
+Personnel_05809,Ops,38,77407
+Personnel_05810,3rd Bn,26,99913
+Personnel_05811,Ops,51,85754
+Personnel_05812,3rd Bn,35,56918
+Personnel_05813,Signals,49,113180
+Personnel_05814,2nd Bn,54,62292
+Personnel_05815,1st Bn,51,61007
+Personnel_05816,Ops,32,88859
+Personnel_05817,HQ Coy,51,101670
+Personnel_05818,1st Bn,36,74001
+Personnel_05819,Signals,52,84334
+Personnel_05820,Signals,53,98293
+Personnel_05821,2nd Bn,27,94306
+Personnel_05822,Signals,22,40563
+Personnel_05823,HQ Coy,51,103001
+Personnel_05824,3rd Bn,30,114118
+Personnel_05825,Signals,29,90371
+Personnel_05826,2nd Bn,35,110237
+Personnel_05827,HQ Coy,52,77265
+Personnel_05828,1st Bn,50,69668
+Personnel_05829,3rd Bn,37,118300
+Personnel_05830,Signals,24,57525
+Personnel_05831,Ops,32,114129
+Personnel_05832,Signals,49,103539
+Personnel_05833,1st Bn,26,86435
+Personnel_05834,Signals,29,92534
+Personnel_05835,2nd Bn,54,59572
+Personnel_05836,1st Bn,50,104508
+Personnel_05837,Ops,50,88214
+Personnel_05838,3rd Bn,51,67372
+Personnel_05839,2nd Bn,31,103500
+Personnel_05840,3rd Bn,32,96513
+Personnel_05841,2nd Bn,46,55260
+Personnel_05842,3rd Bn,49,80879
+Personnel_05843,1st Bn,31,84427
+Personnel_05844,Signals,27,54897
+Personnel_05845,HQ Coy,24,44148
+Personnel_05846,2nd Bn,24,46725
+Personnel_05847,HQ Coy,45,108535
+Personnel_05848,2nd Bn,50,82076
+Personnel_05849,3rd Bn,54,97491
+Personnel_05850,1st Bn,37,90047
+Personnel_05851,HQ Coy,47,101053
+Personnel_05852,Ops,45,47775
+Personnel_05853,1st Bn,32,98977
+Personnel_05854,3rd Bn,35,105597
+Personnel_05855,1st Bn,38,40156
+Personnel_05856,2nd Bn,31,91707
+Personnel_05857,1st Bn,48,75861
+Personnel_05858,3rd Bn,49,116030
+Personnel_05859,Signals,54,63249
+Personnel_05860,1st Bn,33,108222
+Personnel_05861,Signals,33,80786
+Personnel_05862,Signals,32,114984
+Personnel_05863,3rd Bn,33,113598
+Personnel_05864,HQ Coy,54,116841
+Personnel_05865,HQ Coy,27,91676
+Personnel_05866,Ops,23,50290
+Personnel_05867,Signals,35,85202
+Personnel_05868,Signals,48,74216
+Personnel_05869,Signals,47,44550
+Personnel_05870,Signals,35,79278
+Personnel_05871,Signals,48,94040
+Personnel_05872,2nd Bn,43,88189
+Personnel_05873,Ops,52,97905
+Personnel_05874,2nd Bn,37,37083
+Personnel_05875,3rd Bn,53,47380
+Personnel_05876,HQ Coy,42,99817
+Personnel_05877,2nd Bn,44,52091
+Personnel_05878,3rd Bn,33,67192
+Personnel_05879,Ops,29,75855
+Personnel_05880,3rd Bn,42,85289
+Personnel_05881,Signals,27,84273
+Personnel_05882,Ops,42,64314
+Personnel_05883,3rd Bn,23,66435
+Personnel_05884,3rd Bn,36,65724
+Personnel_05885,Ops,49,49484
+Personnel_05886,2nd Bn,35,57738
+Personnel_05887,HQ Coy,22,90465
+Personnel_05888,HQ Coy,45,61293
+Personnel_05889,2nd Bn,24,80774
+Personnel_05890,Signals,38,88282
+Personnel_05891,Signals,28,108516
+Personnel_05892,1st Bn,46,53427
+Personnel_05893,HQ Coy,40,107702
+Personnel_05894,Signals,34,104827
+Personnel_05895,2nd Bn,34,68643
+Personnel_05896,Signals,50,77953
+Personnel_05897,Signals,29,45068
+Personnel_05898,Ops,44,66613
+Personnel_05899,2nd Bn,26,92774
+Personnel_05900,Signals,36,91609
+Personnel_05901,HQ Coy,25,72220
+Personnel_05902,HQ Coy,37,72987
+Personnel_05903,1st Bn,25,98362
+Personnel_05904,1st Bn,47,71751
+Personnel_05905,3rd Bn,25,114276
+Personnel_05906,Signals,53,56911
+Personnel_05907,1st Bn,23,68445
+Personnel_05908,Signals,31,57914
+Personnel_05909,2nd Bn,42,60330
+Personnel_05910,2nd Bn,35,100559
+Personnel_05911,2nd Bn,21,119758
+Personnel_05912,3rd Bn,38,86858
+Personnel_05913,Signals,23,86816
+Personnel_05914,3rd Bn,44,36691
+Personnel_05915,Signals,43,54296
+Personnel_05916,3rd Bn,23,107472
+Personnel_05917,Ops,53,78194
+Personnel_05918,Signals,48,41085
+Personnel_05919,Signals,50,101237
+Personnel_05920,1st Bn,28,82967
+Personnel_05921,Ops,46,118396
+Personnel_05922,Signals,32,119246
+Personnel_05923,Ops,37,63783
+Personnel_05924,2nd Bn,44,112678
+Personnel_05925,1st Bn,32,114426
+Personnel_05926,2nd Bn,30,40296
+Personnel_05927,HQ Coy,44,77765
+Personnel_05928,1st Bn,34,80754
+Personnel_05929,1st Bn,49,99478
+Personnel_05930,1st Bn,39,61666
+Personnel_05931,1st Bn,43,108467
+Personnel_05932,3rd Bn,47,83387
+Personnel_05933,Ops,21,77947
+Personnel_05934,1st Bn,39,111438
+Personnel_05935,HQ Coy,27,108794
+Personnel_05936,2nd Bn,33,46318
+Personnel_05937,2nd Bn,34,35535
+Personnel_05938,2nd Bn,34,103130
+Personnel_05939,HQ Coy,25,104819
+Personnel_05940,2nd Bn,48,52481
+Personnel_05941,2nd Bn,40,91218
+Personnel_05942,2nd Bn,42,66754
+Personnel_05943,2nd Bn,22,45004
+Personnel_05944,2nd Bn,28,101906
+Personnel_05945,1st Bn,50,93346
+Personnel_05946,2nd Bn,33,103602
+Personnel_05947,Signals,31,56121
+Personnel_05948,1st Bn,43,81023
+Personnel_05949,3rd Bn,32,119675
+Personnel_05950,3rd Bn,46,118959
+Personnel_05951,3rd Bn,45,43652
+Personnel_05952,Ops,39,40655
+Personnel_05953,Signals,21,64219
+Personnel_05954,1st Bn,22,110679
+Personnel_05955,3rd Bn,26,112704
+Personnel_05956,HQ Coy,21,57139
+Personnel_05957,HQ Coy,22,68973
+Personnel_05958,3rd Bn,53,119009
+Personnel_05959,3rd Bn,23,43214
+Personnel_05960,Signals,39,113576
+Personnel_05961,1st Bn,26,44834
+Personnel_05962,Signals,28,105001
+Personnel_05963,1st Bn,31,101514
+Personnel_05964,2nd Bn,45,69703
+Personnel_05965,1st Bn,21,81654
+Personnel_05966,2nd Bn,34,79724
+Personnel_05967,3rd Bn,34,85732
+Personnel_05968,HQ Coy,41,104390
+Personnel_05969,Ops,30,63911
+Personnel_05970,3rd Bn,34,58649
+Personnel_05971,Ops,29,91900
+Personnel_05972,2nd Bn,49,97869
+Personnel_05973,2nd Bn,26,41861
+Personnel_05974,Ops,34,103833
+Personnel_05975,Ops,52,37671
+Personnel_05976,1st Bn,33,72610
+Personnel_05977,Ops,41,96723
+Personnel_05978,1st Bn,43,57609
+Personnel_05979,Signals,41,104386
+Personnel_05980,3rd Bn,26,101628
+Personnel_05981,HQ Coy,36,81515
+Personnel_05982,1st Bn,43,118644
+Personnel_05983,1st Bn,21,75833
+Personnel_05984,Ops,23,44257
+Personnel_05985,Signals,38,99154
+Personnel_05986,Ops,31,109757
+Personnel_05987,2nd Bn,35,78802
+Personnel_05988,3rd Bn,53,80383
+Personnel_05989,Signals,49,105308
+Personnel_05990,Signals,44,57749
+Personnel_05991,3rd Bn,38,39753
+Personnel_05992,Signals,37,60005
+Personnel_05993,Signals,50,103435
+Personnel_05994,Ops,35,40397
+Personnel_05995,Signals,29,78144
+Personnel_05996,1st Bn,25,78950
+Personnel_05997,1st Bn,47,68421
+Personnel_05998,2nd Bn,32,37294
+Personnel_05999,Signals,38,71597
